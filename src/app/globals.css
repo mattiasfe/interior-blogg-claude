@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #fbf9f6;
+  --foreground: #33312e;
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  .container-content {
+    @apply mx-auto max-w-content px-4 sm:px-6 lg:px-8;
+  }
+
+  .section-padding {
+    @apply py-12 sm:py-16 lg:py-20;
+  }
+}
+
+/* Ad placeholder zones */
+.ad-zone {
+  @apply flex items-center justify-center rounded-xl2 border border-dashed border-sand bg-sand/40 text-xs uppercase tracking-wide text-ink/50;
+}
+
+.ad-zone-header {
+  @apply ad-zone h-20 w-full sm:h-24;
+}
+
+.ad-zone-mid {
+  @apply ad-zone my-8 h-32 w-full sm:h-40;
+}
+
+.ad-zone-sidebar {
+  @apply ad-zone h-64 w-full;
+}
+
+.ad-zone-footer {
+  @apply ad-zone h-20 w-full sm:h-24;
+}
