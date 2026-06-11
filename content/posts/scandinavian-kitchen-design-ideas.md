@@ -4,7 +4,7 @@ description: "Open shelving, light wood and clever storage — here's how to giv
 category: "Scandinavian Style"
 tags: ["kitchen design", "scandinavian design", "home decor"]
 date: "2026-04-23"
-coverImage: "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?q=80&w=1600&auto=format&fit=crop"
+coverImage: '/images/cosyLivingroom2.jpg'
 affiliate: true
 featured: false
 ---

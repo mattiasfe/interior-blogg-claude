@@ -4,7 +4,7 @@ description: "Want greenery without the guilt of dead plants? These seven housep
 category: "Inspiration"
 tags: ["houseplants", "home decor", "beginners"]
 date: "2026-01-22"
-coverImage: "https://images.unsplash.com/photo-1493809842364-78817add7ffb?q=80&w=1600&auto=format&fit=crop"
+coverImage: '/images/inspiration3.jpg'
 affiliate: true
 featured: false
 ---

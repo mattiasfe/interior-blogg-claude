@@ -4,7 +4,7 @@ description: "From bookshelves to folding screens, here's how to use furniture t
 category: "Furniture Solutions"
 tags: ["furniture", "room dividers", "open-plan living"]
 date: "2026-03-05"
-coverImage: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=1600&auto=format&fit=crop"
+coverImage: '/images/furnitureSolutions5.jpg'
 affiliate: true
 featured: false
 ---

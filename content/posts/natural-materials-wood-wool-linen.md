@@ -4,7 +4,7 @@ description: "Why natural materials are at the heart of Scandinavian design, and
 category: "Scandinavian Style"
 tags: ["natural materials", "scandinavian design", "sustainable living"]
 date: "2026-04-16"
-coverImage: "https://images.unsplash.com/photo-1556228453-efd6c1ff04f6?q=80&w=1600&auto=format&fit=crop"
+coverImage: '/images/scandinavianLivingroom2.jpg'
 affiliate: false
 featured: false
 ---

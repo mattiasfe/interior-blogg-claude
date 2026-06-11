@@ -4,7 +4,7 @@ description: "Host a dinner party in a tiny apartment? Here's how to choose an e
 category: "Furniture Solutions"
 tags: ["furniture", "dining room", "small apartments"]
 date: "2026-02-05"
-coverImage: "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?q=80&w=1600&auto=format&fit=crop"
+coverImage: '/images/furnitureSolutions.jpg'
 affiliate: true
 featured: false
 ---

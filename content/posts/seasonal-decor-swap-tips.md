@@ -4,7 +4,7 @@ description: "A few small swaps can make your home feel seasonally appropriate a
 category: "Inspiration"
 tags: ["seasonal decor", "home decor", "budget tips"]
 date: "2026-02-05"
-coverImage: "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1600&auto=format&fit=crop"
+coverImage: '/images/inspiration5.jpg'
 affiliate: true
 featured: false
 ---

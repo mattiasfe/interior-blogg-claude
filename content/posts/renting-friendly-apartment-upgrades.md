@@ -4,7 +4,7 @@ description: "No painting, no drilling — these temporary upgrades transform a 
 category: "Small Apartments"
 tags: ["small apartments", "rental decor", "diy"]
 date: "2026-03-19"
-coverImage: "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?q=80&w=1600&auto=format&fit=crop"
+coverImage: '/images/smallApartment.jpg'
 affiliate: true
 featured: false
 ---

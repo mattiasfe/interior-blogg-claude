@@ -4,7 +4,7 @@ description: "Working from home but don't have a spare room? A wall-mounted fold
 category: "Furniture Solutions"
 tags: ["furniture", "home office", "small apartments"]
 date: "2026-02-19"
-coverImage: "https://images.unsplash.com/photo-1556228453-efd6c1ff04f6?q=80&w=1600&auto=format&fit=crop"
+coverImage: '/images/furnitureSolutions2.jpg'
 affiliate: true
 featured: false
 ---

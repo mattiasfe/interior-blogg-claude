@@ -4,7 +4,7 @@ description: "From soft whites to dusty greens — explore the most popular Scan
 category: "Scandinavian Style"
 tags: ["color palette", "scandinavian design", "home decor"]
 date: "2026-04-02"
-coverImage: "https://images.unsplash.com/photo-1484101403633-562f891dc89a?q=80&w=1600&auto=format&fit=crop"
+coverImage: '/images/cosyLivingroom.jpg'
 affiliate: false
 featured: false
 ---

@@ -4,7 +4,7 @@ description: "A bed with built-in storage can replace an entire dresser. Here's 
 category: "Furniture Solutions"
 tags: ["furniture", "bedroom", "storage"]
 date: "2026-02-12"
-coverImage: "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&auto=format&fit=crop"
+coverImage: '/images/furnitureSolutions6.jpg'
 affiliate: true
 featured: false
 ---

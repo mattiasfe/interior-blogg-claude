@@ -4,7 +4,7 @@ description: "Even a narrow balcony can become a cozy outdoor retreat. Here's ho
 category: "Small Apartments"
 tags: ["small apartments", "balcony", "outdoor living"]
 date: "2026-03-26"
-coverImage: "https://images.unsplash.com/photo-1631679706909-1844bbd07221?q=80&w=1600&auto=format&fit=crop"
+coverImage: '/images/smallApartment3.jpg'
 affiliate: false
 featured: false
 ---

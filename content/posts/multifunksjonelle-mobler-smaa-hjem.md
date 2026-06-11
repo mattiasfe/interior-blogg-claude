@@ -4,7 +4,7 @@ description: "Sofa beds, extendable tables, ottomans with storage — the best m
 category: "Furniture Solutions"
 tags: ["furniture", "smart solutions", "small apartments", "storage"]
 date: "2026-05-28"
-coverImage: "https://images.unsplash.com/photo-1567016432779-094069958ea5?q=80&w=1600&auto=format&fit=crop"
+coverImage: '/images/furnitureSolutions3.jpg'
 affiliate: true
 featured: true
 ---

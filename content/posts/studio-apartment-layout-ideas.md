@@ -4,7 +4,7 @@ description: "Struggling to arrange your studio? These five layout strategies cr
 category: "Small Apartments"
 tags: ["small apartments", "studio living", "floor plans"]
 date: "2026-03-05"
-coverImage: "https://images.unsplash.com/photo-1505843513577-22bb7d21e455?q=80&w=1600&auto=format&fit=crop"
+coverImage: '/images/smallApartment5.jpg'
 affiliate: false
 featured: false
 ---

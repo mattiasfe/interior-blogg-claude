@@ -4,7 +4,7 @@ description: "Avoid costly mistakes by planning your space visually first. Here'
 category: "Inspiration"
 tags: ["moodboard", "planning", "interior design"]
 date: "2026-01-08"
-coverImage: "https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=1600&auto=format&fit=crop"
+coverImage: '/images/inspiration4.jpg'
 affiliate: false
 featured: false
 ---

@@ -4,7 +4,7 @@ description: "Furniture that tucks away when not in use is a small-space superpo
 category: "Furniture Solutions"
 tags: ["furniture", "small apartments", "flexible living"]
 date: "2026-02-26"
-coverImage: "https://images.unsplash.com/photo-1493809842364-78817add7ffb?q=80&w=1600&auto=format&fit=crop"
+coverImage: '/images/furnitureSolutions4.jpg'
 affiliate: false
 featured: false
 ---

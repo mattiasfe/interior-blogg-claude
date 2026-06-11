@@ -4,7 +4,7 @@ description: "Learn how to layer ambient, task and accent lighting to create the
 category: "Scandinavian Style"
 tags: ["lighting", "scandinavian design", "home decor"]
 date: "2026-04-30"
-coverImage: "https://images.unsplash.com/photo-1524758631624-e2822e304c36?q=80&w=1600&auto=format&fit=crop"
+coverImage: '/images/cosyLivingroom3.jpg'
 affiliate: false
 featured: false
 ---

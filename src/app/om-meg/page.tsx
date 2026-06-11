@@ -27,20 +27,31 @@ export default function OmMegPage() {
             Hi, and welcome
           </p>
           <h1 className="mt-4 font-serif text-3xl font-semibold leading-tight text-ink sm:text-4xl lg:text-5xl">
-            I&apos;m Mathilde, and this is Scandinavian Living
+            Hi I&apos;m Mattias — the person behind this blog, and this is Scandinavian Living
           </h1>
           <div className="mt-5 space-y-4 text-base text-ink/70">
             <p>
-              Scandinavian Living was started with one goal: to show that a
-              beautiful home isn&apos;t about square meters, but about good choices.
-              I live in a small apartment in Oslo myself, and have spent years
-              finding smart solutions that look great and work in everyday life.
+              I started this space because I couldn&apos;t find the content I was actually looking for. 
+              Most interior inspiration online is built around big homes, big budgets and big renovations. 
+              But the reality for most of us? A small apartment, a tight budget and a serious desire to make it feel like home anyway.
+              So I started collecting ideas myself — smart furniture solutions, Scandinavian-inspired styling, 
+              small-space hacks that actually work. What began as a personal Pinterest board turned into something much bigger, 
+              and now I share that inspiration with hundreds of thousands of people every month.
+              This blog is the next step: a place to go deeper. Beyond the image, into the how and the why — what to buy, 
+              how to arrange it and how to build a home that feels calm, considered and completely yours.
             </p>
+            <h3 className="font-serif text-2xl font-semibold text-ink sm:text-3xl">
+              What you&apos;ll find here
+            </h3>
             <p>
-              On this blog I share interior inspiration, practical tips for small
-              apartments, and recommendations for furniture and products I actually
-              use myself. The style is consistently Scandinavian — light colors,
-              natural materials and a calm, considered whole.
+              Scandinavian style on a real budget. 
+              Small apartment transformations. 
+              Furniture that works harder than it looks. 
+              And honest recommendations from someone who&apos;s 
+              been searching for the same things you have.
+              <br/>
+              <br/>
+              Welcome.
             </p>
             <p>
               You can also find me on Pinterest and TikTok, where I share quick

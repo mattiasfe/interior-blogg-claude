@@ -4,7 +4,7 @@ description: "Gallery walls are everywhere — here's how to create one that fee
 category: "Inspiration"
 tags: ["gallery wall", "home decor", "wall art"]
 date: "2026-01-29"
-coverImage: "https://images.unsplash.com/photo-1505843513577-22bb7d21e455?q=80&w=1600&auto=format&fit=crop"
+coverImage: '/images/inspiration2.jpg'
 affiliate: false
 featured: false
 ---

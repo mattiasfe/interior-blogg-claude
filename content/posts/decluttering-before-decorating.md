@@ -4,7 +4,7 @@ description: "New furniture won't fix a cluttered space. Here's why decluttering
 category: "Inspiration"
 tags: ["decluttering", "minimalism", "organization"]
 date: "2026-01-15"
-coverImage: "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=1600&auto=format&fit=crop"
+coverImage: '/images/inspiration.jpg'
 affiliate: false
 featured: false
 ---

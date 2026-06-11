@@ -4,7 +4,7 @@ description: "Discover the simple, affordable items that bring the Danish concep
 category: "Scandinavian Style"
 tags: ["hygge", "cozy home", "scandinavian design"]
 date: "2026-04-09"
-coverImage: "https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=1600&auto=format&fit=crop"
+coverImage: '/images/scandinavianLivingroom.jpg'
 affiliate: true
 featured: false
 ---
