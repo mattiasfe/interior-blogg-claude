@@ -7,9 +7,7 @@ import AdSlot from "@/components/AdSlot";
 import PinButton from "@/components/PinButton";
 import ShareButtons from "@/components/ShareButtons";
 import PostCard from "@/components/PostCard";
-import ProductCard from "@/components/ProductCard";
 import { getAllPosts, getPostBySlug, getRelatedPosts } from "@/lib/posts";
-import { sampleProducts } from "@/lib/products";
 
 const siteUrl = "https://www.skandinaviskbo.no";
 
@@ -119,22 +117,6 @@ export default function PostPage({ params }: PostPageProps) {
           </div>
 
           <AdSlot variant="mid" />
-
-          {post.affiliate && (
-            <section className="mt-10">
-              <h2 className="font-serif text-2xl font-semibold text-ink">
-                Recommended products
-              </h2>
-              <p className="mt-1 text-sm text-ink/70">
-                A small selection that fits perfectly with this style.
-              </p>
-              <div className="mt-6 grid gap-6 sm:grid-cols-3">
-                {sampleProducts.map((product) => (
-                  <ProductCard key={product.name} product={product} />
-                ))}
-              </div>
-            </section>
-          )}
 
           <div className="mt-10 flex flex-wrap items-center justify-between gap-4 border-t border-sand pt-6">
             <div className="flex flex-wrap gap-2">
