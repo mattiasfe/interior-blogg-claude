@@ -14,7 +14,7 @@ export default function InspirationGrid() {
     <section>
       <div className="text-center">
         <h2 className="font-serif text-2xl font-semibold text-ink sm:text-3xl">
-          As Seen on TikTok &amp; Pinterest
+          As Seen on Pinterest
         </h2>
         <p className="mx-auto mt-2 max-w-xl text-sm text-ink/70">
           Follow @diyferger for daily inspiration, room makeovers and quick home hacks.

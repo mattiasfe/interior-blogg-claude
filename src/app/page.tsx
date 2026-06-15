@@ -121,7 +121,7 @@ export default function Home() {
 
       <AdSlot variant="mid" />
 
-      {/* As seen on TikTok & Pinterest */}
+      {/* As seen on Pinterest */}
       <InspirationGrid />
 
       {/* Newsletter */}

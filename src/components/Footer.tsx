@@ -45,11 +45,6 @@ export default function Footer() {
                 Instagram
               </a>
             </li>
-            <li>
-              <a href="https://www.tiktok.com" target="_blank" rel="noopener noreferrer" className="hover:text-sage-dark">
-                TikTok
-              </a>
-            </li>
           </ul>
         </div>
       </div>

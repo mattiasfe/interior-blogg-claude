@@ -54,7 +54,7 @@ export default function OmMegPage() {
               Welcome.
             </p>
             <p>
-              You can also find me on Pinterest and TikTok, where I share quick
+              You can also find me on Pinterest, where I share quick
               home hacks and room makeovers almost daily.
             </p>
           </div>
