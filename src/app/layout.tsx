@@ -44,6 +44,9 @@ export const metadata: Metadata = {
     description:
       "Inspiration for Scandinavian interiors, smart solutions for small apartments and space-saving furniture.",
   },
+  other: {
+    "p:domain_verify": "f55af7fc0ac40bc3ae5b6538f59672cd",
+  },
 };
 
 export default function RootLayout({
