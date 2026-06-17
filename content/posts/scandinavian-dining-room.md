@@ -4,7 +4,7 @@ description: "The Scandinavian dining room is built around one idea: gathering. 
 category: "Scandinavian Style"
 tags: ["dining room", "dining table", "chairs", "scandinavian", "budget"]
 date: "2026-06-23"
-coverImage: "/images/cosyLivingroom3.jpg"
+coverImage: "/images/furnitureSolutions13.jpg"
 affiliate: false
 featured: false
 ---

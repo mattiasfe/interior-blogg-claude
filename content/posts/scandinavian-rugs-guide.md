@@ -4,7 +4,7 @@ description: "Rugs are one of the most powerful tools in interior design. Discov
 category: "Scandinavian Style"
 tags: ["rugs", "textiles", "living room", "scandinavian", "flooring"]
 date: "2026-06-22"
-coverImage: "/images/cosyLivingroom2.jpg"
+coverImage: "/images/furnitureSolutions14.jpg"
 affiliate: false
 featured: false
 ---

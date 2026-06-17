@@ -4,7 +4,7 @@ description: "A hygge corner is a dedicated spot for comfort — a chair, soft l
 category: "Scandinavian Style"
 tags: ["hygge", "cosy corner", "reading nook", "comfort", "danish design"]
 date: "2026-06-24"
-coverImage: "/images/scandinavianLivingroom.jpg"
+coverImage: "/images/smallApartment16.jpg"
 affiliate: false
 featured: false
 ---

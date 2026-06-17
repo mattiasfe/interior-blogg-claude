@@ -4,7 +4,7 @@ description: "A Scandinavian home office is designed for focus: clean surfaces, 
 category: "Scandinavian Style"
 tags: ["home office", "work from home", "desk setup", "scandinavian", "productivity"]
 date: "2026-06-21"
-coverImage: "/images/cosyLivingroom.jpg"
+coverImage: "/images/furnitureSolutions12.jpg"
 affiliate: false
 featured: false
 ---

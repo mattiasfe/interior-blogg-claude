@@ -4,7 +4,7 @@ description: "Lagom means 'just the right amount' — and it's the key to a home
 category: "Scandinavian Style"
 tags: ["lagom", "swedish design", "minimalism", "balance", "lifestyle"]
 date: "2026-06-18"
-coverImage: "/images/scandinavianLivingroom2.jpg"
+coverImage: "/images/smallApartment17.jpg"
 affiliate: false
 featured: false
 ---

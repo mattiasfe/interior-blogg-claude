@@ -4,7 +4,7 @@ description: "Gallery walls are one of the most popular interior trends — and 
 category: "Inspiration"
 tags: ["gallery wall", "art", "frames", "wall decor", "styling"]
 date: "2026-07-15"
-coverImage: "/images/smallApartment8.jpg"
+coverImage: "/images/furnitureSolutions15.jpg"
 affiliate: false
 featured: false
 ---
