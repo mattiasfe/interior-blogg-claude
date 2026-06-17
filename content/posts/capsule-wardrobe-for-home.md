@@ -1,32 +1,36 @@
 ---
-title: "How to Create a Capsule Wardrobe for Your Home"
-description: "The capsule wardrobe concept — a small collection of versatile, quality pieces — applies just as well to interior design as it does to fashion."
+title: "Rustic Bathroom Shelves: How to Style Open Storage Beautifully"
+description: "Open bathroom shelving looks effortlessly styled when you get the layering right. Here's how to arrange towels, products and decorative pieces on rustic wooden shelves."
 category: "Inspiration"
-tags: ["capsule", "minimalist", "quality", "furniture", "interior philosophy"]
+tags: ["bathroom", "open shelving", "rustic", "towels", "bathroom organisation", "farmhouse style"]
 date: "2026-07-11"
 coverImage: "/images/inspiration11.jpg"
 affiliate: false
 featured: false
 ---
 
-The capsule wardrobe idea is simple: own fewer, better things that work together. Applied to your home, it produces spaces that feel calm, cohesive and considered — without requiring a big budget or constant shopping.
+Open shelves in a bathroom are a commitment — everything is on display, all the time. But when they're styled well, like the rustic wooden shelves pictured here, they look better than any cabinet. The key is treating the shelves as both storage and decor simultaneously.
 
-## Start with a colour palette
+## Choose the right shelves
 
-A capsule home has a limited colour palette — usually three to five colours that appear throughout the whole space. This creates flow and coherence between rooms. In Scandinavian homes, it's typically white or cream, one warm neutral (oak, sand, linen), one dark accent (black, charcoal or navy) and occasionally one colour (sage green, dusty pink, terracotta).
+Thick, solid-wood floating shelves in a natural or dark stain anchor the look. The shelves here are chunky reclaimed-style planks — substantial enough to feel intentional rather than decorative. Avoid thin, lightweight shelves in a bathroom: they warp in humidity and look flimsy.
 
-## Invest in the pieces you use most
+## The towel stack
 
-The capsule approach means spending more on the things you interact with daily: your sofa, your bed, your dining chair. These pieces get hundreds of hours of use per year and are worth the investment. The things you see but don't touch — decorative objects, artwork — can come from anywhere.
+Folded towels are the backbone of a well-styled bathroom shelf. The trick is to fold them all to the same width and stack them in colour groups — sage green together, beige together, white together. The result looks like a hotel linen cupboard: calm, clean and abundant. Roll a few and tuck them in a basket underneath for a different texture.
 
-## One of each, not three
+## Layer products thoughtfully
 
-A capsule home has one good lamp, not four mediocre ones. One large piece of art, not twelve small ones. One carefully chosen plant, not a collection of pots. This isn't deprivation — it's editing.
+Decant products into amber glass bottles or white ceramic dispensers so they match visually. Group them together on one section of a shelf rather than spreading them across all shelves. A small tray or cutting board underneath helps define the product zone and stops things looking scattered.
 
-## Shop slowly
+## Add glass jars for small items
 
-The antithesis of capsule living is impulse buying — filling a home with things that seemed good in the shop but don't fit together. Take your time. Live in a space for a few weeks before deciding what it needs. Let gaps exist rather than filling them immediately.
+Glass jars with cork or metal lids are perfect for cotton balls, bath salts, hair ties and other small items that would otherwise look messy. They turn functional storage into a display and are endlessly rearrangeable.
 
-## Maintenance is part of it
+## Interior tips
 
-A capsule home is easier to keep clean and tidy — there's simply less to maintain. This isn't a coincidence; it's one of the main arguments for the approach.
+- **Use wicker baskets under the lowest shelf** for bulky items like extra toilet rolls, washcloths and cleaning supplies — they keep the look cohesive while hiding things you don't want on display.
+- **Add a small plant or dried botanicals** on the top shelf for height and natural texture. Eucalyptus, dried lavender or a trailing pothos work well in humid environments.
+- **Stick to two or three colours** for your towels — it looks curated rather than random. The sage and beige combination here is particularly successful.
+- **A candle or two** on the shelf adds warmth and turns a functional bathroom into somewhere you actually want to spend time.
+- **Vary the height of objects** across shelves: tall glass jars next to folded towels, short products next to stacked baskets. The variation keeps the eye moving.
