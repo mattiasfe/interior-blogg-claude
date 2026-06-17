@@ -1,42 +1,45 @@
 ---
-title: "Houseplants for Beginners: 7 Nearly Impossible-to-Kill Varieties"
-description: "Want greenery without the guilt of dead plants? These seven houseplants are forgiving, low-maintenance and beautiful."
+title: "Antique Green Display Cabinets: How to Find and Style Them"
+description: "A distressed green glass-fronted cabinet is one of the most characterful pieces you can own. Here's how to find one, what to put in it, and how to style around it."
 category: "Inspiration"
-tags: ["houseplants", "home decor", "beginners"]
+tags: ["antique furniture", "display cabinet", "vintage green", "distressed paint", "glass cabinet", "styling"]
 date: "2026-01-22"
 coverImage: '/images/inspiration3.jpg'
 affiliate: true
 featured: false
 ---
 
-Plants instantly make a space feel more alive — but not all of us have a green thumb. These varieties are nearly impossible to kill.
+The cabinet in this image is extraordinary. A squat, glass-fronted display case painted in layers of green — darker underneath, lighter on top, with rust and bare wood showing at the edges where the paint has worn away. On top, a collection of aged brass oil cans and a watering can, placed without fuss. The whole thing sits on pale painted floorboards in a room with no other distractions. It needs nothing else.
 
-## 1. Pothos
+## What makes a distressed green cabinet work
 
-Tolerates low light, irregular watering, and can grow in water alone. A trailing pothos on a shelf is an instant style upgrade.
+Green is the most forgiving colour for antique and distressed furniture because it exists in so many variations — from warm olive to cool turquoise, from deep forest to chalky sage. The green in this cabinet is somewhere between teal and hunter: complex, layered, impossible to reproduce from a tin of paint. That's what makes it interesting.
 
-## 2. Snake plant
+The distressing — the chips, the wear at the corners, the visible layers — adds depth that a freshly painted piece simply cannot have. If you find a piece like this, resist the urge to restore it. The wear is the value.
 
-Thrives on neglect — water it every two to three weeks and it will reward you with sculptural, upright leaves.
+## What to put inside a glass-fronted cabinet
 
-## 3. ZZ plant
+A glass-fronted display case is a frame for whatever you choose to put in it. The best contents share a common thread — material, colour or purpose:
 
-Survives in low light and dry conditions, making it perfect for hallways or windowless bathrooms.
+- **Collections of ceramics** in a consistent tone (all cream, all terracotta, all earthenware)
+- **Books with beautiful spines**, arranged by colour
+- **Vintage glassware** — decanters, tumblers, apothecary jars
+- **Natural objects** — dried botanicals, stones, shells, feathers
 
-## 4. Spider plant
+Leave some shelves partially empty. A display case crammed to capacity looks like a charity shop; one that's thoughtfully edited looks like a museum.
 
-Adapts to almost any light condition and produces "babies" you can propagate and share.
+## Styling the top surface
 
-## 5. Peace lily
+The brass oil cans on top of this cabinet are a masterstroke: they're functional objects repurposed as display, they're the same warm metallic tone, and their different heights create an informal composition. The same principle works with any collection of related objects placed on top of a statement piece.
 
-Tells you exactly when it's thirsty by drooping slightly — and perks back up quickly after watering.
+## Where to find pieces like this
 
-## 6. Cast iron plant
+Estate sales, specialist antique dealers, salvage yards and online auction platforms are the best sources for genuinely distressed pieces. Avoid reproduction vintage — the real thing is almost always cheaper than a well-made imitation and infinitely more interesting.
 
-True to its name, it tolerates low light, temperature swings and inconsistent care.
+## Interior tips
 
-## 7. Succulents
-
-Perfect for sunny windowsills — just don't overwater.
-
-Start with one or two of these, and you'll likely find yourself wanting more once you see how easy (and rewarding) they are.
+- **Place against a pale, textured wall** — the cabinet needs a quiet background to stand out. A limewashed wall or bare plaster in off-white is ideal.
+- **Don't add other statement pieces nearby**: let the cabinet be the room's focal point. Surrounding it with other bold objects dilutes its impact.
+- **Brass and copper accessories** on nearby surfaces — a small lamp, a tray, a candlestick — pick up the warm metal tones of the objects on top.
+- **A single trailing plant** on or beside the cabinet adds life without competing — ivy or a small pothos in a terracotta pot is enough.
+- **Polish the brass but leave the paint**: the contrast between maintained metalware and worn furniture is part of the aesthetic.

@@ -1,32 +1,36 @@
 ---
-title: "How to Fit a Home Office in a Small Apartment"
-description: "Working from home in a small space requires creative solutions. Here's how to carve out a proper workspace without giving up your living room."
+title: "How to Make a Small Apartment Feel Warm and Inviting at Night"
+description: "The right evening lighting transforms a small apartment from functional to genuinely beautiful. Here's how to layer warmth and cosiness into every corner."
 category: "Small Apartments"
-tags: ["home office", "work from home", "small space", "desk", "apartment"]
+tags: ["apartment lighting", "evening ambiance", "candles", "warm lighting", "cosy apartment", "small space"]
 date: "2026-06-28"
 coverImage: "/images/smallApartment4.jpg"
 affiliate: false
 featured: false
 ---
 
-Working from home has become the norm for millions of people — but having a proper workspace in a small apartment is genuinely difficult. Here are the most practical solutions, from dedicated desks to clever fold-away options.
+A small apartment can look completely different at night than it does during the day — and in the best cases, the evening version is the better one. The apartment pictured here glows. Candles on the coffee table, warm LED lighting under the kitchen cabinets, a table lamp in the dining nook, recessed ceiling lights set to low. Every light source is intentional, and together they make a space of probably 45–50 square metres feel rich and inviting.
 
-## The fold-down wall desk
+## Layer your lighting — never rely on one source
 
-A fold-down desk mounted to the wall is the most space-efficient option available. When folded up, it takes almost no space and can look like a decorative shelf. When folded down, it provides a proper work surface. Look for models with interior storage so your work materials stay organised.
+The golden rule of evening lighting is the same in a studio apartment as it is in a large house: never rely on a single overhead light. The ceiling fixture in this apartment is clearly on low or off entirely. The light comes from the kitchen's under-cabinet LEDs, the table lamp in the dining corner, and the candles on the coffee table. Three sources, three different heights, one cohesive warm atmosphere.
 
-## The wardrobe office
+## Candles as a design element
 
-A large wardrobe (IKEA's PAX system works particularly well) can be converted into a home office that closes completely when you're done for the day. Install a shelf at desk height, add a power strip, hang some shelves above — and close the doors at 5pm. Work disappears completely.
+The candles on the round coffee table aren't just functional — they're part of the styling. Three white pillar candles on a wooden tray, surrounded by a small dried-flower arrangement. This is the simplest, cheapest way to elevate an evening scene. The rule: always group candles in odd numbers, always use a tray or plate beneath them, always choose unscented or lightly scented varieties so they don't compete.
 
-## The corner desk
+## The round coffee table
 
-Corners are often underused in small apartments. A corner desk uses the space most efficiently and keeps your desk from dominating the room. Keep it minimal — a monitor, a laptop, a lamp — and resist the urge to pile things on it.
+The round wooden coffee table with a lower shelf is a very practical choice for a small living room. The round shape means there are no sharp corners to navigate around, the lower shelf provides extra storage or display space, and the warm wood tone anchors the neutral sofa and rug. A round table with visible grain always looks warmer than a glass or painted surface.
 
-## The dining table office
+## Bar stools at the kitchen counter
 
-If space is truly limited, your dining table may need to double as a desk. The key is having a dedicated storage solution — a rolling cart, a drawer unit, a bag — where all your work materials live. At the start of the day, work comes out. At the end, it all goes back in.
+The two wooden bar stools at the kitchen island do double duty: they provide casual seating for two people without the footprint of a dining table and chairs, and they create a natural division between the kitchen and living areas. In a small apartment where the kitchen opens directly onto the living room, this boundary matters.
 
-## Ergonomics in a small space
+## Interior tips
 
-Don't sacrifice ergonomics just because you're space-constrained. A laptop stand, an external keyboard, and a chair at the right height are non-negotiable for anyone spending hours at a desk. These take up very little space and protect your body.
+- **Put all your main lights on dimmers** — this single change gives you complete control over the mood in every room and is one of the most impactful upgrades in a small apartment.
+- **A round mirror on the wall** reflects candlelight and lamplight back into the room, making the space feel twice as bright without adding another light source.
+- **Under-cabinet LED strips in the kitchen** are inexpensive to install and completely change how the kitchen looks in the evening — the countertop becomes lit from above and below simultaneously.
+- **Keep the dining nook small**: a two-person table with two chairs, tucked into a corner with a lamp overhead, creates a restaurant-like intimacy that a larger dining setup can't match.
+- **A green throw on the sofa** picks up the plant colours and ties the living area together — it's also the first thing you reach for when you settle in for the evening.

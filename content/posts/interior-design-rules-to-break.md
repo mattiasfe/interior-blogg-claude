@@ -1,36 +1,36 @@
 ---
-title: "10 Interior Design Rules You Are Allowed to Break"
-description: "Interior design is full of rules — but the best homes break at least a few of them. Here are the so-called rules that are actually just starting points."
+title: "The Dark Botanical Bathroom: How to Create a Moody, Plant-Filled Retreat"
+description: "Deep green tiles, a dark vanity, stone vessel sink, Edison bulb sconce and plants everywhere — here's how to design a bathroom that feels like a spa and a greenhouse at once."
 category: "Inspiration"
-tags: ["interior design", "rules", "creativity", "styling tips", "inspiration"]
+tags: ["bathroom design", "dark bathroom", "green tiles", "botanical", "vessel sink", "moody interior"]
 date: "2026-07-10"
 coverImage: "/images/inspiration10.jpg"
 affiliate: false
 featured: false
 ---
 
-Every design blog and interior magazine is full of rules: don't mix metals, match your woods, always use odd numbers, never paint a small room dark. Some of these rules exist for good reasons. Others are just conventions that got repeated until they felt like facts.
+This bathroom should not work as well as it does. Dark green subway tiles floor-to-ceiling in the shower. A deep forest green vanity with a warm oak countertop. A round stone vessel sink. A single Edison bulb on a black wall sconce. Candles everywhere. Plants in every corner and on every surface. And yet it is one of the most beautiful bathrooms imaginable — moody, warm, spa-like and deeply personal.
 
-## Rule 1: Match your metals
+## Deep green tiles: committing to colour
 
-Mixed metals — brass and black, chrome and bronze — look better in most rooms than a single metal repeated throughout. The trick is to have one dominant metal and use others as accents.
+The shower tiles here are a deep, matte forest green in a classic subway format — stacked vertically rather than in the traditional brick pattern, which makes the tiles feel taller and more contemporary. The key to making dark tiles work in a bathroom is the grout: the same shade as the tile, or only slightly lighter, so the grid pattern doesn't dominate. White grout on dark tiles creates a checkerboard effect; matching grout creates a seamless wash of colour.
 
-## Rule 2: Small rooms need light colours
+## The dark green vanity
 
-A small room painted in a deep, rich colour can feel moody, intimate and intentional rather than small. Dark green, navy or deep terracotta can work beautifully in a small space if the lighting is right.
+The vanity cabinet — dark green to match the tiles, with a warm oak countertop — demonstrates how effective a tonal palette can be. When the vanity and the shower tiles are the same family of colour, the room reads as a considered, cohesive design decision rather than a combination of separate choices. The black hardware (tap, soap dispenser) ties back to the black mirror frame, sconce and shower fittings.
 
-## Rule 3: Don't mix wood tones
+## Stone vessel sink
 
-Multiple wood tones in the same room can look warm and layered rather than mismatched, as long as the underlying colour temperature is consistent (all warm, or all cool, not mixed).
+The round, organic stone (or concrete) vessel sink is the focal point of the vanity. Its rough, natural texture contrasts with the smooth painted cabinet below and the hard lines of the mirror above. A vessel sink like this demands a matching tap mounted high enough to clear the basin comfortably — the black matte tall tap here is the right choice.
 
-## Rule 4: Keep it minimal
+## Plants as the essential element
 
-Maximalism — thoughtful, curated, intentional abundance — is as valid as minimalism. The goal is always intention, not quantity.
+Without the plants, this would be a dramatic but cold bathroom. With them, it becomes alive. Plants appear in every available location: on the shower niche shelf, on the vanity counter, on a floating shelf above, in large floor pots in the corners, and even trailing from a wicker basket. The combination of deep green tile and living green plants creates a layered, rich effect — the tiles recede; the plants advance.
 
-## Rule 5: Furniture must face the TV
+## Interior tips
 
-Rooms without a TV as the focal point feel more sociable and conversation-friendly. Orient seating toward a fireplace, a window, or each other.
-
-## The real rule
-
-The only rule that actually matters: does this make you happy to be in the room? If yes, you're doing it right.
+- **Black fixtures throughout**: one metallic finish for all taps, showerheads, hooks and mirror frames makes a bathroom feel intentionally designed rather than assembled from different sources.
+- **Candles in a bathroom** are not just atmospheric — the warm, flickering light is genuinely more flattering than any artificial lighting for evening bathing or skincare routines.
+- **A round black-framed mirror** is the perfect partner for a dark botanical bathroom: the circular form softens the rectangular grid of the tiles, and the black frame ties back to the hardware.
+- **Edison bulb sconces** at face height, rather than overhead lighting, give much more even and flattering light for the bathroom mirror — overhead lighting casts unflattering shadows downward.
+- **A wicker basket on the floor** holds extra towels while adding natural fibre texture that breaks up the hard surfaces of tile, stone and painted wood.
