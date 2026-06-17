@@ -4,7 +4,7 @@ description: "Transform your small apartment with smart storage solutions, multi
 category: "Small Apartments"
 tags: ["small apartments", "storage", "minimalism", "interior design"]
 date: "2026-05-12"
-coverImage: '/images/smallApartment2.jpg'
+coverImage: '/images/inspiration14.jpg'
 affiliate: true
 featured: true
 ---

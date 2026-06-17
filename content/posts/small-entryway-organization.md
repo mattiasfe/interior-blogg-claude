@@ -4,7 +4,7 @@ description: "First impressions matter — here's how to organize a tiny entrywa
 category: "Small Apartments"
 tags: ["small apartments", "entryway", "organization"]
 date: "2026-04-02"
-coverImage: '/images/smallApartment4.jpg'
+coverImage: '/images/smallApartment18.jpg'
 affiliate: true
 featured: false
 ---

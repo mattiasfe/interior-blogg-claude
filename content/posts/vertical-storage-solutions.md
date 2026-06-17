@@ -4,7 +4,7 @@ description: "When floor space runs out, your walls are the answer. Here are the
 category: "Small Apartments"
 tags: ["small apartments", "storage", "organization"]
 date: "2026-03-12"
-coverImage: '/images/smallApartment6.jpg'
+coverImage: '/images/smallApartment21.jpg'
 affiliate: true
 featured: false
 ---
