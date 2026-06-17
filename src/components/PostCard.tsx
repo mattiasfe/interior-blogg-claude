@@ -3,7 +3,7 @@ import Link from "next/link";
 import { Post } from "@/lib/posts";
 import PinButton from "./PinButton";
 
-const siteUrl = "https://www.skandinaviskbo.no";
+const siteUrl = "https://www.skandinaviskbo.com";
 
 export default function PostCard({ post, priority }: { post: Post; priority?: boolean }) {
   return (
@@ -20,7 +20,7 @@ export default function PostCard({ post, priority }: { post: Post; priority?: bo
           />
         </Link>
         <PinButton
-          imageUrl={post.coverImage}
+          imageUrl={`${siteUrl}${post.coverImage}`}
           pageUrl={`${siteUrl}/blogg/${post.slug}`}
           description={post.title}
         />

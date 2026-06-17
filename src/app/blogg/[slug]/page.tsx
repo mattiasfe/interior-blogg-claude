@@ -9,7 +9,7 @@ import ShareButtons from "@/components/ShareButtons";
 import PostCard from "@/components/PostCard";
 import { getAllPosts, getPostBySlug, getRelatedPosts } from "@/lib/posts";
 
-const siteUrl = "https://www.skandinaviskbo.no";
+const siteUrl = "https://www.skandinaviskbo.com";
 
 type PostPageProps = {
   params: { slug: string };
@@ -107,7 +107,7 @@ export default function PostPage({ params }: PostPageProps) {
           sizes="(max-width: 1024px) 100vw, 900px"
           className="object-cover"
         />
-        <PinButton imageUrl={post.coverImage} pageUrl={url} description={post.title} />
+        <PinButton imageUrl={`${siteUrl}${post.coverImage}`} pageUrl={url} description={post.title} />
       </div>
 
       <div className="mx-auto mt-10 grid max-w-4xl gap-10 lg:grid-cols-[1fr_280px]">
