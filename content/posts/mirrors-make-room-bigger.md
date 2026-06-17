@@ -4,7 +4,7 @@ description: "Mirrors are one of the most powerful tools in interior design. Use
 category: "Furniture Solutions"
 tags: ["mirrors", "small space", "lighting", "visual tricks", "interior design"]
 date: "2026-07-07"
-coverImage: "/images/scandinavianLivingroom.jpg"
+coverImage: "/images/furnitureSolutions11.jpg"
 affiliate: false
 featured: false
 ---

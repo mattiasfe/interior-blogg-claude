@@ -27,8 +27,8 @@ IMAGES = {
     "Furniture Solutions": [
         "/images/furnitureSolutions7.jpg", "/images/furnitureSolutions8.jpg",
         "/images/furnitureSolutions9.jpg", "/images/furnitureSolutions10.jpg",
-        "/images/scandinavianLivingroom.jpg", "/images/cosyLivingroom.jpg",
-        "/images/scandinavianLivingroom3.jpg",
+        "/images/furnitureSolutions11.jpg", "/images/scandinavianLivingroom.jpg",
+        "/images/cosyLivingroom.jpg",
     ],
     "Inspiration": [
         "/images/inspiration10.jpg", "/images/inspiration11.jpg", "/images/inspiration12.jpg",
