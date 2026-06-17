@@ -1,32 +1,36 @@
 ---
-title: "Maximizing Vertical Space: Wall Storage Ideas That Work"
-description: "In a small apartment, the walls are your best friend. These vertical storage ideas help you use every centimetre from floor to ceiling."
+title: "How to Make a Small Kitchen Glow: Lighting and Styling at Night"
+description: "A small white kitchen can look completely magical at night with the right LED strips, pendant light and warm styling. Here's exactly how to achieve this look."
 category: "Small Apartments"
-tags: ["vertical storage", "shelving", "wall storage", "small space", "organisation"]
+tags: ["kitchen lighting", "LED strips", "small kitchen", "rattan pendant", "evening kitchen", "kitchen styling"]
 date: "2026-06-30"
 coverImage: "/images/smallApartment6.jpg"
 affiliate: false
 featured: false
 ---
 
-When floor space is limited, the answer is almost always to go up. Vertical storage — shelves, wall-mounted units, hooks and hanging systems — uses the one resource most small apartments have in abundance: wall space.
+This kitchen is probably 6–8 square metres. White cabinets, wooden countertop, black hardware, subway tile backsplash. Nothing unusual — until the evening, when the LED strips under the cabinets and along the open shelf come on and the rattan pendant casts its warm glow. Then it becomes one of the most inviting rooms imaginable.
 
-## Floor-to-ceiling shelving
+## Under-cabinet LED strips: the most impactful kitchen upgrade
 
-A bookshelf that runs from floor to ceiling holds significantly more than a standard-height unit and makes the room feel taller. IKEA's Billy bookcase with height extensions is the classic choice — but any system that reaches the ceiling works. Use the highest shelves for things you access rarely.
+The LED strips tucked under the upper cabinets here light the entire countertop from above without any visible light source. The effect is a warm, even wash of light across the work surface that makes cooking more practical and the kitchen dramatically more beautiful in the evening. Installation is straightforward: peel-and-stick strips connect to a small transformer plugged into a standard socket. Choose warm white (2700–3000K) rather than cool white or daylight.
 
-## Wall-mounted shelves in unexpected places
+## The open shelf with its own lighting
 
-The space above doors is almost always empty. A shelf above a doorway can hold books, baskets or decorative items that don't need daily access. The same applies to the space above windows and in the corners of rooms.
+The wooden open shelf on the right, with LED strip lighting along its underside, creates a second layer of light in the kitchen. Jars, plants, mugs and small decorative items are lit from below, making the shelf feel like a display rather than storage. This kind of under-shelf lighting costs very little and transforms a functional shelf into a feature.
 
-## Pegboards for functional display
+## The rattan pendant
 
-A pegboard wall — popularised in craft rooms and kitchens but useful anywhere — lets you hang anything with a hook. In a home office, tools and accessories. In a kitchen, utensils and small plants. In a bedroom, jewellery, bags and accessories. The key is keeping it edited.
+A large rattan globe pendant hung centrally over the kitchen creates the ambient overhead light without the coldness of a recessed LED. The woven texture of the rattan filters the bulb inside and casts a warm, dappled light over the whole room. It also adds the organic, natural material contrast that white cabinets and tile need — without it, the kitchen would feel clinical.
 
-## Hanging storage in the kitchen
+## Bar stool counter extension
 
-A ceiling-mounted pot rack, a magnetic knife strip, hooks under upper cabinets for mugs — these all free up cabinet and counter space for the things that can't hang. In a small kitchen, wall and ceiling storage can make the difference between a functional space and a frustrating one.
+The narrow counter extension on the right with two wooden bar stools turns a solo kitchen into a social space. It creates a bar-height surface for casual meals, coffee and working from home, while the stools tuck neatly underneath when not in use. This configuration works particularly well in a galley kitchen where there's no room for a separate dining table.
 
-## The wall behind the sofa
+## Interior tips
 
-The wall behind a sofa is one of the most useful walls in a living room — and one of the most underused. A long shelf at about picture-rail height gives you a display surface that doesn't intrude on the room while adding significant storage and visual interest.
+- **Candles on the countertop** — even in a kitchen — add a warmth that LEDs alone can't replicate. A small tealight holder near the sink or beside the kettle changes the whole atmosphere.
+- **Black hardware throughout**: taps, cabinet handles, pendant cord and shelf brackets in matte black creates visual coherence across all the different elements.
+- **A wicker hanging basket** or two above the counter for garlic, onions or herbs adds texture and keeps the countertop clear.
+- **Plants on every available surface**: on the counter near the window, on the open shelf, on top of the fridge. A kitchen full of greenery feels alive and cared for.
+- **Keep the countertop mostly clear**: the contrast between the empty, glowing countertop and the styled shelf above it is what makes the evening look work. Clutter breaks the spell.

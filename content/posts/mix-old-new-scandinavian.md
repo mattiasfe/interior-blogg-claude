@@ -1,32 +1,38 @@
 ---
-title: "How to Mix Old and New in Scandinavian Interiors"
-description: "The best Scandinavian homes aren't showrooms — they mix vintage finds with modern pieces to create spaces that feel lived-in, personal and warm."
-category: "Scandinavian Style"
-tags: ["vintage", "mix and match", "scandinavian", "secondhand", "interior styling"]
+title: "One Room, Every Zone: How This Boho Studio Apartment Has It All"
+description: "Kitchen, living area, desk and bedroom — all in one room, all working together. Here's how this small studio creates distinct zones without walls."
+category: "Small Apartments"
+tags: ["studio apartment", "open plan", "boho style", "rattan pendant", "small space zones", "multifunctional"]
 date: "2026-06-20"
 coverImage: "/images/scandinavianLivingroom4.jpg"
 affiliate: false
 featured: false
 ---
 
-One of the biggest misconceptions about Scandinavian design is that it requires everything to be new, matching and perfectly curated. The reality is more interesting — and more accessible.
+Standing at one end of this studio apartment you can see everything: the kitchen on the left with under-cabinet lighting and open shelves, the living area in the foreground with a sofa, coffee table and candle, the small desk workspace in the middle distance with a warm desk lamp and jute rug, and the bed at the far end. The large rattan dome pendant fills the ceiling above. It is one room doing the work of four — and it works because every zone is defined, every detail is warm, and nothing feels accidental.
 
-## Why vintage works in Scandinavian spaces
+## The rattan dome pendant as the anchor
 
-Scandinavian design has always had strong roots in craft and quality. A solid wood chair from the 1960s, a ceramic bowl from a local market, a worn linen throw — these items carry history and texture that new objects simply can't replicate.
+The oversized rattan dome light hanging in the centre of the room is the single most impactful element. It defines the "living room" zone by marking the ceiling above it, provides warm ambient light over the main social area, and immediately establishes the room's boho-natural aesthetic. A pendant this large and this tactile commands the whole room without overwhelming it.
 
-## The rule of thirds
+## Four zones in one space
 
-A useful starting point: aim for roughly one third old, two thirds new (or vice versa). One vintage piece per room is usually enough to anchor the space and stop it from feeling like a catalogue page.
+**Kitchen**: white units with black handles, under-cabinet LED strips, a wine cooler integrated under the counter, open shelving with plants and a wooden chopping board on display. Small but complete.
 
-## Where to find vintage Scandinavian pieces
+**Living area**: a cream sofa, a low wooden coffee table with a candle and reed diffuser on a wooden tray, a patterned black-and-cream rug. The coffee table styling is minimal and deliberate.
 
-Flea markets, second-hand shops and online marketplaces like eBay, Finn.no or Facebook Marketplace are full of mid-century Scandinavian furniture at reasonable prices. Look for clean lines, quality wood (oak, beech, teak) and simple forms.
+**Desk zone**: a small wooden desk with a mid-century chair, a warm desk lamp, a botanical print on the wall, a shelf above with plants and books. The jute circle rug under the desk defines the zone at floor level.
 
-## How to make them work together
+**Bedroom**: just visible at the far end — a bed with white bedding and a patterned textile, positioned away from the other zones for maximum privacy.
 
-The key is a consistent colour palette. If your walls are white and your new furniture is in neutral tones, almost any vintage piece in a similar palette will fit. It's when you mix wildly different colours and finishes that things start to look mismatched.
+## Wall hooks as a feature
 
-## Don't be precious about perfection
+The wooden wall-mounted hook rail near the entrance holds bags, a macramé net bag and a coat — functional storage that doubles as a display. The mix of bag types and textures creates a casual, lived-in energy at the entry point of the apartment.
 
-A small scratch on a vintage side table, a slight variation in the grain of a wooden stool — these imperfections are part of the appeal. Scandinavian design values authenticity over perfection.
+## Interior tips
+
+- **A jute circle rug under the desk** is one of the most effective ways to define a small work zone — it signals "this is a different space" without any physical barrier.
+- **A reed diffuser or candle on the coffee table** adds scent to the room, which is one of the most overlooked elements of a welcoming space.
+- **LED strips under kitchen cabinets** at the warm end (2700K) match the tone of the desk lamp and pendant, keeping all the light sources in the same family of warmth.
+- **Keep the bedding simple and white**: with so much going on in the rest of the room, a neutral bed disappears into the background and makes the overall space feel less busy.
+- **Botanical prints and hanging plants** at the desk zone reinforce the boho-natural theme while making the work corner feel like a place you'd actually want to sit.
