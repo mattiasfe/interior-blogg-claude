@@ -4,7 +4,7 @@ description: "Eating well doesn't require a dining room. These dining solutions 
 category: "Furniture Solutions"
 tags: ["dining", "studio apartment", "fold-down table", "small space", "bar stool"]
 date: "2026-07-09"
-coverImage: "/images/cosyLivingroom.jpg"
+coverImage: "/images/smallApartment9.jpg"
 affiliate: false
 featured: false
 ---

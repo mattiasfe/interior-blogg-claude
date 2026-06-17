@@ -4,7 +4,7 @@ description: "No sunny windowsill? No problem. These plants thrive in low-light 
 category: "Inspiration"
 tags: ["plants", "indoor plants", "low light", "apartment", "green living"]
 date: "2026-07-14"
-coverImage: "/images/scandinavianLivingroom.jpg"
+coverImage: "/images/smallApartment11.jpg"
 affiliate: false
 featured: false
 ---

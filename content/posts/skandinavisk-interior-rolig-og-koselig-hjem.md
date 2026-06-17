@@ -4,7 +4,7 @@ description: "Neutral tones, natural materials and clean lines — discover how 
 category: "Scandinavian Style"
 tags: ["scandinavian design", "hygge", "natural materials", "interior design"]
 date: "2026-05-20"
-coverImage: '/images/scandinavianLivingroom.jpg'
+coverImage: '/images/smallApartment13.jpg'
 affiliate: false
 featured: true
 ---

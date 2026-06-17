@@ -4,7 +4,7 @@ description: "A modular sofa adapts to your space, your needs and your future mo
 category: "Furniture Solutions"
 tags: ["modular sofa", "sectional", "living room", "flexible furniture", "small space"]
 date: "2026-07-08"
-coverImage: "/images/scandinavianLivingroom.jpg"
+coverImage: "/images/smallApartment12.jpg"
 affiliate: false
 featured: false
 ---
