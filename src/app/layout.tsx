@@ -19,7 +19,7 @@ const playfair = Playfair_Display({
   display: "swap",
 });
 
-const siteUrl = "https://www.skandinaviskbo.com";
+const siteUrl = "https://skandinaviskbo.com";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),

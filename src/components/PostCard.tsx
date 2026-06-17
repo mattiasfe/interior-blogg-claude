@@ -3,7 +3,7 @@ import Link from "next/link";
 import { Post } from "@/lib/posts";
 import PinButton from "./PinButton";
 
-const siteUrl = "https://www.skandinaviskbo.com";
+const siteUrl = "https://skandinaviskbo.com";
 
 export default function PostCard({ post, priority }: { post: Post; priority?: boolean }) {
   return (

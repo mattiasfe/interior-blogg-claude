@@ -9,7 +9,7 @@ import ShareButtons from "@/components/ShareButtons";
 import PostCard from "@/components/PostCard";
 import { getAllPosts, getPostBySlug, getRelatedPosts } from "@/lib/posts";
 
-const siteUrl = "https://www.skandinaviskbo.com";
+const siteUrl = "https://skandinaviskbo.com";
 
 type PostPageProps = {
   params: { slug: string };
