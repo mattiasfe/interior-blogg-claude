@@ -40,11 +40,6 @@ export default function Footer() {
                 Pinterest
               </a>
             </li>
-            <li>
-              <a href="https://www.instagram.com" target="_blank" rel="noopener noreferrer" className="hover:text-sage-dark">
-                Instagram
-              </a>
-            </li>
           </ul>
         </div>
       </div>
