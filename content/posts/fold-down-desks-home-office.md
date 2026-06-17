@@ -1,35 +1,36 @@
 ---
-title: "Fold-Down Desks: The Secret to a Home Office in Any Apartment"
-description: "Working from home but don't have a spare room? A wall-mounted fold-down desk could be the answer."
+title: "The Perfect Entryway: How to Build a Complete Hallway Storage System"
+description: "A well-designed entryway has a place for shoes, coats, bags and everyday items — and still looks calm. Here's how to create one with built-in shelves, hooks and a bench."
 category: "Furniture Solutions"
-tags: ["furniture", "home office", "small apartments"]
+tags: ["entryway", "hallway storage", "mudroom", "shoe storage", "coat hooks", "organisation"]
 date: "2026-02-19"
 coverImage: '/images/furnitureSolutions2.jpg'
 affiliate: true
 featured: false
 ---
 
-Working from home has made a dedicated workspace a necessity — but not everyone has a spare room to spare. Enter the fold-down desk.
+The entryway storage system in this image is a masterclass in layered organisation. Floor-to-ceiling shelving on one side holds shoes in individual cubby slots. A horizontal hook rail manages coats, jackets and bags. Upper shelves with wicker baskets handle everything that doesn't have another home. A built-in bench at the bottom provides somewhere to sit and stow. Every need, addressed. Every item, in its place.
 
-## How they work
+## The shoe tower
 
-A fold-down desk is mounted to the wall and hinges downward to create a flat work surface. When you're done, it folds back up flush against the wall, taking up just a few centimeters of depth.
+The tall cubby unit on the left — with individual angled slots for single shoes — stores far more pairs than a traditional shoe rack in the same footprint. Each cubby holds one shoe at a slight tilt, making it easy to scan and retrieve the pair you want. This style of unit works especially well for households with lots of shoes or families with children of different ages and sizes.
 
-## Where to install one
+## The hook rail
 
-- A hallway or entryway nook
-- Inside a closet (a "cloffice")
-- A corner of the bedroom or living room
-- Above a radiator (with proper clearance)
+A long wooden hook rail with multiple hooks is the most functional thing you can add to a hallway. Hooks at different heights — some higher for adult coats, some lower for bags and children's jackets — make the system genuinely usable. The hooks here are black iron in a classic S or J shape, which suits both rustic and contemporary interiors.
 
-## Tips for making it functional
+## Upper basket shelves
 
-- Mount a power strip nearby so you're not running cables across the room
-- Add a small shelf or pegboard above for supplies
-- Choose a desk with a built-in cable management slot if you'll be using a laptop daily
+The shelves above the hook rail are used for wicker baskets — a mixture of closed white woven baskets and open rattan ones. These hold the overflow: scarves, hats, gloves in winter, sunglasses and sunscreen in summer. Baskets hide the contents while keeping them accessible, and they look far better than plastic boxes.
 
-## Combine with a wall-mounted chair
+## The bench with hidden storage
 
-Some fold-down desk systems include a chair that folds flat against the wall too, so the entire setup disappears when not in use.
+The bench at seat height is wide enough to sit on while putting on shoes and has storage baskets tucked underneath — perfect for bags you use regularly, gym kit, or a spare pair of shoes. A cushion on top makes it comfortable; a basket underneath makes it functional.
 
-A fold-down desk proves that you don't need a spare room to have a real workspace — just a few square feet of wall.
+## Interior tips
+
+- **Use warm-toned wood** throughout — dark walnut or oak stained deep gives an entryway warmth that white painted units can't match.
+- **Add trailing plants** at shelf height: pothos and heartleaf philodendron tolerate the fluctuating temperatures of a hallway better than most plants.
+- **A geometric cushion on the bench** adds softness and colour to what could otherwise be a purely functional space.
+- **Keep the floor clear**: the more floor you can see, the calmer and more spacious the entryway feels. Baskets under the bench should be pushed all the way in.
+- **Install good lighting**: a hallway with poor overhead lighting undoes all the effort of good storage. A warm, well-placed wall light or ceiling fitting makes arriving home feel welcoming.
