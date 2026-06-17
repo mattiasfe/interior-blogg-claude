@@ -1,32 +1,36 @@
 ---
-title: "How to Style a Scandinavian Entryway"
-description: "Your entryway sets the tone for your entire home. Discover how to create a calm, functional Scandinavian hallway with smart storage and minimal decor."
+title: "The Deep Green Sofa Living Room: How to Build a Lush, Plant-Filled Boho Interior"
+description: "A deep forest green sectional sofa, a large round plant mirror, a rattan pendant and plants in every corner — this living room is a masterclass in earthy, organic style."
 category: "Scandinavian Style"
-tags: ["entryway", "hallway", "scandinavian", "storage", "minimalist"]
+tags: ["green sofa", "boho living room", "tropical plants", "rattan pendant", "round mirror", "earthy interior", "plant styling"]
 date: "2026-06-17"
 coverImage: "/images/scandinavianLivingroom.jpg"
 affiliate: false
 featured: false
 ---
 
-Your entryway is the first thing you — and your guests — see every day. In Scandinavian design, it's treated as a functional space that should feel calm and organised, never cluttered.
+The sofa here is the same colour as a forest floor — a deep, slightly muted olive-green, low to the ground, sectional. In front of it, a rustic slab-top wooden coffee table sits on the large natural jute rug. On the wall above: a large round mirror, and inside the mirror's reflection and around its frame, plants trail and drape. Beside the sofa: a bird of paradise at full height. In the corner: more plants. On the wall: a wooden hoop planter with trailing ferns. On the shelf above the sofa: ceramics, more plants, a wooden spoon. Above the entire arrangement, a large elongated rattan pendant light. This room is somewhere between a jungle and a living room, and it is entirely deliberate.
 
-## Start with a coat hook system
+## The sofa colour
 
-The foundation of a Scandinavian entryway is a simple, well-designed hook system. Choose a row of minimal hooks in matte black, brushed brass or natural wood. Keep only what you actually use daily — two or three coats maximum. Everything else goes in the wardrobe.
+Deep green is one of the most successful sofa colours for an earthy, natural interior. It reads warm rather than cold (unlike blue or grey), it complements the brown of natural wood, and it repeats the colour of every plant in the room, creating a visual unity between furniture and greenery. The low platform profile of the sofa keeps the sightlines open and gives the plants the vertical space they need to be seen.
 
-## Add a bench with hidden storage
+## The round mirror with plants inside
 
-A low bench with a lift-up lid or open cubbies underneath solves two problems at once: somewhere to sit when putting on shoes, and a place to store them. Look for benches in light oak or painted in a soft white or grey.
+The large round mirror on the wall is styled as a botanical feature: plants trail over its frame, and the reflection of the room's plants fills the mirror surface. This is one of the most effective ways to integrate a mirror into a plant-filled room — instead of reflecting the sofa or the TV, it reflects the jungle. The circular frame also echoes the round jute rug below, creating vertical repetition of the circular motif.
 
-## Keep the colour palette simple
+## The rattan pendant
 
-Walls in white, off-white or pale grey immediately make a small hallway feel larger. Add warmth with a runner rug in a muted pattern — herringbone, grid or subtle stripe — and a single plant on a slim shelf.
+A tall, elongated rattan pendant — more oval than dome-shaped — hangs at the room's centre. The natural fibre and warm light filtering through the weave is the signature lighting choice for this kind of interior: earthy, organic, handmade-feeling. It provides ambient overhead light without any coldness.
 
-## Lighting makes all the difference
+## The jute rug and pouf
 
-Most hallways have poor natural light. A wall-mounted light at eye level (not just an overhead bulb) adds warmth and makes the space feel considered and designed rather than like an afterthought.
+A large circular jute rug grounds the seating arrangement — its round form mirrors the ceiling pendant and the wall mirror, pulling three circular elements into a visual conversation. Beside the sofa, a woven jute pouf provides flexible extra seating or a footrest. Both are natural, textured and unpretentious — exactly right for the aesthetic.
 
-## The one rule to follow
+## Interior tips
 
-Resist the urge to display too much. One piece of art, one plant, one mirror. In Scandinavian design, the empty space around objects is just as important as the objects themselves.
+- **Start with the sofa colour and build everything from there**: a deep green sofa forces you toward natural, earthy tones for the rug, wood and ceramics. This constraint is a gift — it makes every subsequent choice easier.
+- **A wall hoop planter** keeps plants off the floor and adds a mounted, sculptural quality to the plant display. A wooden or brass hoop holds a pot and keeps the plant visible at eye level rather than floor level.
+- **Use ceramics in earth tones on your shelves**: brown, terracotta, sandy cream and warm grey ceramics disappear pleasantly into a natural interior. White ceramics look clinical; brightly coloured ones look mismatched.
+- **Let the jute rug be slightly too large**: a rug that extends well past the sofa legs grounds the whole arrangement and signals confidence. A rug that's barely big enough looks timid.
+- **Tall plants in corners**: a bird of paradise or a large monstera in a floor-level pot fills the vertical space of a corner that furniture can't reach. The room feels complete once the corners are alive.
