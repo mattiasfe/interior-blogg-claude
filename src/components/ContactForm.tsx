@@ -1,22 +1,19 @@
 "use client";
 
-import { useState } from "react";
+import { useForm, ValidationError } from "@formspree/react";
 
 export default function ContactForm() {
-  const [submitted, setSubmitted] = useState(false);
+  const [state, handleSubmit] = useForm("xvznnplp");
 
-  function handleSubmit(e: React.FormEvent<HTMLFormElement>) {
-    e.preventDefault();
-    // Placeholder only — connect to a form backend (e.g. Formspree, Resend) later.
-    setSubmitted(true);
-  }
-
-  if (submitted) {
+  if (state.succeeded) {
     return (
       <div className="rounded-xl2 border border-sand bg-white p-8 text-center">
-        <h2 className="font-serif text-xl font-semibold text-ink">Thank you for your message!</h2>
+        <h2 className="font-serif text-xl font-semibold text-ink">
+          Thank you for your message!
+        </h2>
         <p className="mt-2 text-sm text-ink/70">
-          I&apos;ve received your message and will get back to you as soon as possible.
+          I&apos;ve received your message and will get back to you as soon as
+          possible.
         </p>
       </div>
     );
@@ -53,6 +50,7 @@ export default function ContactForm() {
           className="mt-1.5 w-full rounded-lg border border-sand bg-cream px-4 py-2.5 text-sm text-ink placeholder:text-ink/40 focus:border-sage focus:outline-none focus:ring-2 focus:ring-sage/30"
           placeholder="you@example.com"
         />
+        <ValidationError field="email" prefix="Email" errors={state.errors} className="mt-1 text-xs text-red-500" />
       </div>
 
       <div>
@@ -80,13 +78,17 @@ export default function ContactForm() {
           className="mt-1.5 w-full resize-none rounded-lg border border-sand bg-cream px-4 py-2.5 text-sm text-ink placeholder:text-ink/40 focus:border-sage focus:outline-none focus:ring-2 focus:ring-sage/30"
           placeholder="Write your message here..."
         />
+        <ValidationError field="message" prefix="Message" errors={state.errors} className="mt-1 text-xs text-red-500" />
       </div>
+
+      <ValidationError errors={state.errors} className="text-xs text-red-500" />
 
       <button
         type="submit"
-        className="w-full rounded-full bg-ink px-6 py-3 text-sm font-semibold text-white transition-colors hover:bg-sage-dark"
+        disabled={state.submitting}
+        className="w-full rounded-full bg-ink px-6 py-3 text-sm font-semibold text-white transition-colors hover:bg-sage-dark disabled:opacity-50"
       >
-        Send message
+        {state.submitting ? "Sending…" : "Send message"}
       </button>
     </form>
   );
