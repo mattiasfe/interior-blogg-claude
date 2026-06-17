@@ -4,7 +4,7 @@ description: "A small bedroom can still feel calm and spacious with the right la
 category: "Small Apartments"
 tags: ["small apartments", "bedroom", "storage"]
 date: "2026-05-07"
-coverImage: '/images/smallApartment7.jpg'
+coverImage: '/images/inspiration16.jpg'
 affiliate: true
 featured: false
 ---
