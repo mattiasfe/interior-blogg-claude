@@ -1,6 +1,6 @@
 import { MetadataRoute } from "next";
 
-const siteUrl = "https://www.skandinaviskbo.no";
+const siteUrl = "https://skandinaviskbo.com";
 
 export default function robots(): MetadataRoute.Robots {
   return {
