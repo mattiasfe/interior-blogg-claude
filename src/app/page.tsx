@@ -7,14 +7,10 @@ import InspirationGrid from "@/components/InspirationGrid";
 import { categories, getFeaturedPosts } from "@/lib/posts";
 
 const categoryImages: Record<string, string> = {
-  "Scandinavian Style":
-    "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?q=80&w=800&auto=format&fit=crop",
-  "Small Apartments":
-    "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=800&auto=format&fit=crop",
-  "Furniture Solutions":
-    "https://images.unsplash.com/photo-1567016432779-094069958ea5?q=80&w=800&auto=format&fit=crop",
-  Inspiration:
-    "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?q=80&w=800&auto=format&fit=crop",
+  "Scandinavian Style": "/images/scandinavianLivingroom.jpg",
+  "Small Apartments": "/images/smallApartment.jpg",
+  "Furniture Solutions": "/images/furnitureSolutions.jpg",
+  Inspiration: "/images/inspiration14.jpg",
 };
 
 export default function Home() {
@@ -55,10 +51,11 @@ export default function Home() {
 
         <div className="relative order-1 aspect-[4/5] w-full overflow-hidden rounded-xl2 lg:order-2 lg:aspect-[3/4]">
           <Image
-            src="https://images.unsplash.com/photo-1586023492125-27b2c045efd7?q=80&w=1600&auto=format&fit=crop"
+            src="/images/cosyLivingroom3.jpg"
             alt="Scandinavian living room in light, warm tones"
             fill
             priority
+            unoptimized
             sizes="(max-width: 1024px) 100vw, 50vw"
             className="object-cover"
           />
