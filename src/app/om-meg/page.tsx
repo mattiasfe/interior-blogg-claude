@@ -14,7 +14,7 @@ export default function OmMegPage() {
       <section className="grid items-center gap-10 lg:grid-cols-2 lg:gap-16">
         <div className="relative aspect-[4/5] w-full overflow-hidden rounded-xl2 lg:order-2">
           <Image
-            src="https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=1200&auto=format&fit=crop"
+            src="/images/scandinavianLivingroom2.jpg"
             alt="Cozy home office in Scandinavian style"
             fill
             sizes="(max-width: 1024px) 100vw, 50vw"

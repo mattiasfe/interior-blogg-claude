@@ -1,12 +1,12 @@
 import Image from "next/image";
 
 const images = [
-  "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?q=80&w=800&auto=format&fit=crop",
-  "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=800&auto=format&fit=crop",
-  "https://images.unsplash.com/photo-1567016432779-094069958ea5?q=80&w=800&auto=format&fit=crop",
-  "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?q=80&w=800&auto=format&fit=crop",
-  "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=800&auto=format&fit=crop",
-  "https://images.unsplash.com/photo-1493809842364-78817add7ffb?q=80&w=800&auto=format&fit=crop",
+  "/images/inspiration2.jpg",
+  "/images/inspiration3.jpg",
+  "/images/inspiration5.jpg",
+  "/images/inspiration14.jpg",
+  "/images/inspiration6.jpg",
+  "/images/inspiration7.jpg",
 ];
 
 export default function InspirationGrid() {
