@@ -4,6 +4,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { MDXRemote } from "next-mdx-remote/rsc";
 import AdSlot from "@/components/AdSlot";
+import BackButton from "@/components/BackButton";
 import PinButton from "@/components/PinButton";
 import ShareButtons from "@/components/ShareButtons";
 import PostCard from "@/components/PostCard";
@@ -74,6 +75,10 @@ export default function PostPage({ params }: PostPageProps) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
+
+      <div className="mb-6">
+        <BackButton fallbackHref="/blogg" />
+      </div>
 
       <div className="mx-auto max-w-3xl text-center">
         <Link
