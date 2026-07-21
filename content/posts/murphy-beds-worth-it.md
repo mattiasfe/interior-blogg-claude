@@ -34,3 +34,37 @@ Furniture like this is available from specialist pet-friendly design brands and 
 - **Keep the top surface to three objects maximum**: in a small bedroom every surface is visible from the bed. Three items is enough; four starts to feel cluttered.
 - **A small trailing plant rather than a tall one**: a low, trailing or spreading plant is less likely to be knocked off by a cat jumping up, and it fills the back ledge without blocking the sightline from the bed.
 - **Place it on the same side as your bedroom door**: cats tend to enter and exit the room rather than staying all night. A bed beside the door means less bed-crossing disruption at 3 am.
+
+## Getting your cat to actually use it
+
+The most frustrating outcome with specialist pet furniture is the pet simply refusing to use it. Cats are territorial and prefer to choose their own spots rather than be assigned them. A few approaches that genuinely improve adoption rates:
+
+- Position the nightstand before introducing your cat to it. Let them discover the space on their own terms rather than being placed inside it.
+- Add a worn T-shirt or pillowcase you have slept on as the cushion cover for the first few weeks. Your scent makes the space feel safe and familiar from the start.
+- Place a few small treats or toys inside during the initial introduction period. Positive association is far more effective than guidance or encouragement.
+- Do not force the cat into the compartment or lift them into it. If they discover another preferred spot in the same room, allow it — and gradually move the nightstand toward that spot over two to three weeks.
+
+Most cats will adopt a consistently available, quiet, lower-level space within a few weeks, particularly if it is close to where you sleep. The enclosed sides and lower position appeal to a cat's instinct to shelter while remaining connected to the room.
+
+## Keeping the compartment clean and odour-free
+
+A cat sleeping space requires more maintenance than a human bed because cats shed, carry dander, and sometimes bring outdoor material inside. A few simple maintenance practices make a significant difference:
+
+- Remove and wash the cushion cover weekly. A standard pillowcase over a foam pad makes this entirely effortless.
+- Vacuum the interior of the compartment monthly with a small handheld vacuum and brush attachment. This removes dander build-up from the corners and sides.
+- Place a thin layer of baking soda under the cushion pad to absorb odour passively. Replace it monthly when you wash the cover.
+- Wipe the interior wood surface with a dry cloth whenever you change the cushion. This removes residue that would otherwise absorb into the wood and develop odour over time.
+
+## Other pet-integrated furniture ideas
+
+The design principle at work here — integrating a pet's space into an existing furniture function — applies across several other pieces and situations:
+
+- **Under-stair cat space**: the void beneath a staircase is often dead storage. A cabinet built into the stair void with a cat-sized opening at the base provides a fully enclosed sleeping and hiding space that disappears into the architecture.
+- **Window seat with pet access**: a window seat bench with a small internal door at one end allows a cat to use the interior as a sheltered retreat with a view — a combination most cats find irresistible.
+- **Desk with a companion shelf**: a shallow shelf at foot height beneath a desk, lined with a cushion, provides a near-presence space for cats who prefer to be close while you work without sitting on the keyboard.
+
+## What to avoid
+
+- **Using artificial scent sprays to attract the cat**: cats are sensitive to synthetic fragrance and are often more likely to avoid a space that smells of spray than to enter it.
+- **Building or buying a compartment that is too small**: a cat should be able to stand, turn around and lie fully extended inside. Measure your cat when stretched out and add at least 10 cm in each direction.
+- **Enclosed compartments without ventilation**: if the space has solid sides and back, ensure there is at least a small gap at the rear or a mesh panel to allow air circulation. A sealed, unventilated compartment becomes stuffy and uncomfortable surprisingly quickly.

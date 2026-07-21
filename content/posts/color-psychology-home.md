@@ -36,3 +36,41 @@ The tall olive trees in terracotta pots are a masterstroke. They bring softness 
 - **Track lighting on a black ceiling** is more achievable than it looks — a coat of matte black ceiling paint and a simple track rail transforms any room.
 - **Use copper and brass accents** throughout: lamp bases, side tables, candle holders. They warm up an industrial space considerably.
 - **Resist adding too much**: a room this bold needs breathing space. Fewer, larger objects. More empty floor. That's what makes it look designed rather than decorated.
+
+## How to light a dark interior
+
+Lighting is the element most people underestimate in a dark room. Natural light is limited or filtered through industrial-style windows. Artificial light has to do the heavy lifting — and it should never come from a single central source.
+
+In the room shown here, the black track lighting on the ceiling allows individual spotlights to be angled at specific objects and surfaces: the sofa, the artwork, the plants. This layered approach — where each feature is lit separately — creates depth and warmth that overhead lighting alone cannot replicate.
+
+Supplement track lighting with floor lamps and table lamps. A warm-toned arc lamp behind the sofa adds a domestic softness that industrial-style track lighting lacks. Candles are non-negotiable in a dark interior: nothing replicates the warmth and movement of a real flame, and against exposed brick or dark walls, they create a glow that feels almost theatrical.
+
+## Colour combinations that work with dark walls
+
+Dark interiors succeed through tonal layering rather than contrast. The colours that work best alongside deep walls and bold upholstery are:
+
+- **Terracotta and rust**: warm, earthy tones that pick up the natural variation in exposed brick and work brilliantly against forest green
+- **Copper and aged brass**: metals that reflect warm light and add richness without coldness
+- **Cream and aged linen**: soft neutrals that provide relief without interrupting the drama
+- **Deep burgundy and plum**: can be introduced through small accents (a cushion, a throw, a ceramic) for a deeply saturated, layered effect
+
+What to avoid: cool tones. Grey-blues, mint greens, cold whites and stainless steel all fight against the warmth a dark interior depends on.
+
+## Buying a green velvet sofa: what to look for
+
+Green velvet sectionals have become increasingly available in the mainstream market, but quality varies enormously. Key things to check:
+
+- **Crushed vs. cut velvet**: crushed velvet has a shinier, more directional sheen; cut velvet is denser and more matte. For a deep, lush look in a dark room, cut velvet is the better choice.
+- **Frame construction**: look for solid hardwood or steel frames rather than particle board — a large sectional carries significant weight and needs a stable foundation.
+- **Leg style**: for an industrial-style room, metal legs in black or brushed steel work better than timber legs.
+- **Stain resistance**: ask specifically whether the velvet has been treated. Light-coloured velvet (even muted olive) shows marks. A performance velvet with a stain-resistant finish is worth the extra cost.
+
+## Common mistakes in dark interiors
+
+**Going too dark on every surface simultaneously.** Dark walls, dark floor, dark ceiling and dark furniture in a single room can veer from dramatic to oppressive. The room pictured here succeeds because the sofa provides a rich, coloured focal point against the dark surroundings — not everything is the same tone.
+
+**Buying art that's too small.** In a large-format room, small art disappears. A single oversized piece — at least 80 cm wide, ideally much larger — is far more effective than a cluster of smaller frames.
+
+**Forgetting about plants.** Industrial and dark interiors can feel hard and lifeless without organic elements. Tall plants in terracotta pots (olive trees, fig trees, monstera) bring warmth, scale and texture that no decorative object can replicate.
+
+**Underestimating the impact of the rug.** In a loft-style space with concrete or dark hardwood floors, the rug defines the living zone. A rug that's too small makes the furniture arrangement look adrift. Aim for a rug that extends at least 30 cm beyond the sofa on all sides.

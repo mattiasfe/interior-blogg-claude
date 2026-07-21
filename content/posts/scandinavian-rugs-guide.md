@@ -34,3 +34,35 @@ When shopping for a storage sofa, test the gas strut (the hinge that holds the s
 - **Botanical art above the sofa ties nature into a neutral room**: the palm and fern prints here add life to the wall without colour. They suit the cream and grey palette perfectly.
 - **A white fluffy rug under a cream sofa** is a bold choice — it requires regular cleaning — but the texture contrast between the high-pile rug and the smooth linen sofa is extremely effective.
 - **A metal-frame open shelf** with plants and books adds the vertical interest that a storage sofa, by its low horizontal nature, does not provide. The combination of low, storage-rich sofa and tall, open shelving creates a well-balanced room.
+
+## Is a storage sofa actually worth it?
+
+The honest answer is yes — if you have the right situation. A storage sofa typically costs 20 to 40 percent more than a comparable sofa without storage. That premium is worth paying when you genuinely lack storage elsewhere, when you live in an apartment where every piece of furniture needs to earn its floor space, or when the items you need to store (spare duvets, seasonal cushions, extra throws, board games) are bulky and would otherwise require a separate chest or wardrobe.
+
+It is less clearly worth it if you already have adequate storage space, if you prefer a sofa style that requires a fixed base (storage mechanisms usually preclude legs or turned feet), or if a higher seat height creates an issue — the storage compartment beneath the seat does make most storage sofas sit 3 to 5 cm higher than equivalent non-storage models.
+
+## Upholstery and long-term durability
+
+Storage sofas are opened frequently, which means the upholstery around the seat perimeter and hinge area sees more stress than a regular sofa. This is important when choosing fabric. Linen and performance fabric hold up well and are easy to spot-clean. Avoid light-coloured velvet around the storage opening — the mechanism and whatever is stored inside can transfer marks onto the pile over time.
+
+If you are considering a leather storage sofa, check the quality of the lift mechanism carefully before purchasing. The gas strut needs to be substantially more robust to lift a leather seat panel, which is significantly heavier than fabric. A poorly made gas strut on a leather sofa fails noticeably faster than on a fabric one.
+
+## What to store — and what not to
+
+The lift-up compartment works well for:
+- Spare duvets, blankets, and seasonal cushions
+- Board games and puzzles
+- Extra throw pillows in seasonal colours
+- Tangled cables and charger boxes you need occasionally but not daily
+
+Avoid storing:
+- Anything recently laundered or slightly damp — moisture in an enclosed space causes mould over a matter of weeks
+- Food of any kind
+- Heavy books or vinyl records — gas struts have weight limits, and regularly lifting a compartment packed with heavy items shortens the mechanism's life considerably
+- Anything you reach for daily — the minor inconvenience of lifting a seat becomes an annoyance if you do it five times a day
+
+## Common mistakes when buying
+
+- **Not testing the gas strut in the store**: a poorly made mechanism is the most common failure point on a storage sofa. The seat should lift with minimal effort, hold fully open hands-free, and lower gently when released. If it drops suddenly in the showroom, it will do so at home.
+- **Ignoring the internal dimensions**: always ask for the depth, width and height of the internal compartment. Depth varies from 20 to 40 cm between models, which is the difference between fitting a king-size duvet and fitting a throw.
+- **Choosing style over mechanism quality**: beautiful upholstery on a poorly engineered storage mechanism is a short-lived purchase. Prioritize the mechanism, the internal dimensions, and the drawer runners before worrying about cushion fill weight and button detail.

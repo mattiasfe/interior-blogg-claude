@@ -34,3 +34,40 @@ Books on all the shelves — this is a bookshelf bench, not a display cabinet. T
 - **Position it under a window if possible**: the daylight above the bench makes reading on it practical, and the window behind plants creates the layered look visible here.
 - **A patterned vintage rug below** adds colour to a piece that is entirely in natural wood tones. The rug is where the pattern lives; everything else stays quiet.
 - **Fill the shelves completely**: an overfull bookshelf looks generous and well-used. An underfull one looks abandoned. If you don't have enough books yet, borrow some from other rooms while you build the collection.
+
+## Step-by-step: how to build this over a weekend
+
+The build is genuinely achievable in a weekend if you prepare the materials in advance. Here is a realistic breakdown:
+
+**Materials list:**
+- Pallet timber boards, sanded and de-nailed (8–12 pallets for a bench of this size)
+- 3 x 2 inch timber for the internal frame and uprights
+- Wood screws (50 mm and 70 mm)
+- Sandpaper in 80, 120 and 180 grit
+- Clear wood oil or beeswax finish
+- High-density foam for the cushion (10–12 cm thickness)
+- Fabric for the cushion cover, cut to bench dimensions plus seam allowance
+
+**Day one: structure**
+Build the box frame for the bench section first — four corner uprights with horizontal cross-members at the top (seat height) and one or two levels below (shelf heights). Clad the exterior in your pallet boards, screwed flush to the frame. Build the tower section on the same principle: uprights with horizontal shelves at book height.
+
+**Day two: finishing and cushion**
+Sand everything thoroughly — pallet timber can have rough patches and splinters. Start with 80 grit to remove roughness, work through to 180 for a smooth-to-the-touch finish that still shows the grain. Apply two coats of clear wood oil, allowing drying time between coats. Meanwhile, cut foam to size and wrap in your fabric. A simple envelope cover with a flap at the back is the easiest no-sew option; a zip closure is more polished and allows washing.
+
+## A note on pallet timber safety
+
+Not all pallet wood is safe for indoor furniture. Most shipping pallets are stamped with a treatment code — look for this on the side grain of each board:
+
+- **HT (Heat Treated)**: safe to use indoors. The timber has been heat-treated to kill insects and bacteria, with no chemical additives.
+- **MB (Methyl Bromide)**: avoid. This treatment uses a fumigant chemical that can off-gas in an enclosed indoor environment.
+- **No stamp**: treat with caution. The origin is unknown. If in doubt, source timber from a supplier who guarantees heat-treated pallets.
+
+Pallets used in the food industry (marked with a food-safety stamp) are generally the cleanest source.
+
+## Common mistakes with pallet furniture
+
+**Not sanding enough.** Pallet timber is rough by industrial standards, not furniture standards. Every surface that will be touched — the seat surface, the shelf edges, any exposed horizontal surface — needs thorough sanding. Splinters in a reading bench are not acceptable.
+
+**Making the bench too tall or too short.** Standard seat height is 45 cm. Go much below this and the bench is awkward to get up from; go above it and your feet dangle. Measure your existing chairs and match the height before you build.
+
+**Building without planning the cushion.** The cushion is not an afterthought — it determines the effective seat height and the overall proportion of the bench. Decide on your foam thickness before you fix the seat height. If your foam is 10 cm thick and your frame is 45 cm tall, the finished seat height will be 55 cm — too tall for most adults. Build the frame at 35–38 cm and let the cushion bring it up to sitting height.

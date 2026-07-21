@@ -32,3 +32,40 @@ This room embodies wabi-sabi — the Japanese philosophy of finding beauty in im
 - **Use loose, unstructured cushions** in muted, faded tones — tight, pristine cushions on a worn settee look incongruous.
 - **Bring in living plants** to balance all the aged material — greenery and fresh growth against worn surfaces is one of the most beautiful contrasts in interior design.
 - **Source pieces from antique markets and salvage yards**, not reproduction vintage stores. The real thing has a depth that imitations never quite achieve.
+
+## Where to find genuinely aged pieces
+
+The difference between real vintage furniture and reproduction pieces is difficult to fake and easy to spot up close. Genuine age shows in the undersides of drawers, the back panels of cabinets, the joints and fixings. Wood that has dried and contracted over decades has a particular density and smell. Paint that has genuinely aged chips differently from artificially distressed paint — the layers are thinner, the edges sharper, the underlying wood visible through years of use rather than manufactured damage.
+
+The best places to find real vintage furniture include:
+
+- **Estate sales and house clearances**: pieces sold directly from homes that have been in the same family for decades. These are the richest sources of genuinely aged furniture with real provenance.
+- **Architectural salvage yards**: particularly good for doors, shutters, flooring and structural pieces that can be repurposed as furniture, just as in the settee pictured.
+- **Country antique markets and fairs**: rural areas often have lower prices for aged furniture because the competition from city-based dealers is less intense. Drive out of town for better finds at better prices.
+- **Online salvage platforms**: increasingly, architectural salvage is available online. Search for terms like "reclaimed painted furniture", "distressed settee", or "antique panelled bench" to find pieces with genuine character.
+
+## How to create the layered paint effect intentionally
+
+If you want to replicate this aesthetic on new or recently bought furniture, the technique is straightforward but requires patience.
+
+Start with a base coat in a muted, earthy tone — a dusty terracotta, a chalky sage, or a warm ochre. Let it dry completely (24 hours minimum), then apply a second colour over the top in loose, uneven brush strokes. The key is not to cover the base coat entirely — let patches of it show through, particularly on edges, corners and raised details where wear would naturally occur over time.
+
+Once the second coat is dry, sand lightly with fine-grit sandpaper (220 grit) along edges and raised areas to reveal the layer beneath. A dark wax finish applied over the whole piece then knocked back with a soft cloth seals both layers and adds the depth that makes the result look genuinely old rather than just painted to look old.
+
+## Mixing eras without creating chaos
+
+A common fear with this aesthetic is that mixing different periods and styles will look like an unedited charity shop. The difference between a beautiful eclectic interior and a chaotic one comes down to a few specific principles.
+
+**Limit your metal tones to two**: in this room, brass and dark iron work together because they're both warm-toned. Adding chrome or bright silver would break the coherence.
+
+**Use plants as connectors**: greenery is neutral — it works with any era, any colour, any finish. When in doubt, add a plant. It softens contrasts and brings visual rest to a complex arrangement.
+
+**Keep the floor simple**: a distressed interior needs calm underfoot. A worn natural-fibre rug, bare stone, or wide-plank timber flooring lets the furniture speak without competing.
+
+**Stick to a muted, earthy palette**: the colours in this room — sage, terracotta, ochre, beige, aged brown — are all drawn from the same natural palette. Even the brass and the patinated metal fit within that range. When every piece you introduce belongs to the same palette, very different styles read as a cohesive whole.
+
+## The sustainable case for imperfect vintage
+
+There is a practical argument for this aesthetic as well as an aesthetic one. Every piece of reclaimed or vintage furniture you bring into your home is one fewer new piece manufactured. The environmental cost of a new upholstered sofa — the timber, foam, fabric, dyes, transport — is significant. A settee assembled from reclaimed panels, re-covered in vintage fabric, repaired and maintained, costs the planet almost nothing.
+
+Buying real vintage, even at a higher upfront price, also makes financial sense over time. A well-made piece of furniture from fifty years ago — solid timber joinery, hand-stitched fabric, steel fixings — will outlast almost anything manufactured today. The worn paint is not decay; it is evidence of durability.

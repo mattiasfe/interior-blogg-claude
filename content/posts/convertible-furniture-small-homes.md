@@ -34,3 +34,34 @@ The most useful combination: books on one or two shelves, a dedicated shelf for 
 - **Add a leather or rope door pull** for a tactile, artisanal detail that costs very little but looks custom-made.
 - **Use the shelving for display as well as storage** — a few well-placed objects (a ceramic vase, a stack of design books, a trailing plant) turn functional storage into something worth looking at when the doors are open.
 - **LED strip lighting inside the shelving** transforms the look at night — the warm glow visible through the open doors makes the whole wall feel like a feature.
+
+## How to plan your barn door storage wall
+
+Before you buy anything, measure the wall carefully. The barn door (or pair of doors) needs to slide far enough to one side to fully expose the shelving behind it. That means you need clear wall space beside the opening equal to at least the width of the door — ideally more. In a narrow hallway this can be a real constraint, so draw it out on paper first.
+
+The shelving depth matters too. Most barn door tracks mount the door 5–7 cm proud of the wall, which means your shelving behind needs to sit flush with or slightly recessed into the wall to avoid a gap. Standard floating shelf brackets work well; a built-in MDF unit is the most finished solution.
+
+## Buying barn doors: what to look for
+
+When shopping for barn doors, pay attention to three things: the track system quality, the door weight, and the floor guide. A cheap track system will sag over time and cause the door to scrape. Look for steel tracks rated for at least twice the weight of your door. Solid wood doors are heavier and more satisfying to open than hollow-core, but they require a more robust track.
+
+The floor guide — a small fitting on the floor that keeps the bottom of the door from swinging — is easy to overlook and often underrated. Without it, a heavy door will swing outward when opened, which is both annoying and potentially damaging.
+
+Popular barn door styles available in most home stores or through online retailers include:
+- **Classic farmhouse plank** in reclaimed or reclaimed-look timber with black iron hardware
+- **Flush panel in painted MDF** for a more contemporary, minimal look
+- **Louvred barn doors** which allow air circulation while still concealing storage
+
+## Common mistakes to avoid
+
+**Doors that are too short.** A barn door that stops 20–30 cm short of the ceiling looks like an afterthought. Go as tall as your ceiling allows — floor-to-ceiling barn doors are transformative.
+
+**Overcrowding the shelves.** The moment you open the doors, everything behind them is on display. Treat it like an open wardrobe: curate it. A mix of one-third decorative items, one-third books and one-third practical storage in baskets is the ideal ratio.
+
+**Matching the door to the shelving.** The door and the shelving behind it are two separate design elements. The door should relate to your wall or furniture palette; the shelving inside can be a different tone entirely — often lighter, to draw the eye inward when open.
+
+**Forgetting the soft-close mechanism.** Even the most beautifully made barn door becomes irritating if it bangs or rolls noisily. Most quality track systems now include a soft-close buffer — it's worth paying for.
+
+## The result: calm when closed, beautiful when open
+
+The real appeal of barn door storage is that it gives you a choice. On a busy day when the shelves are half-organised, close the doors and the room is calm. On a good day when the shelves look their best, open them and it becomes a feature wall. That flexibility — between reveal and conceal — is exactly what makes this solution so enduringly popular in Scandinavian-influenced homes.

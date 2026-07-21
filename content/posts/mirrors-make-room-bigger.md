@@ -34,3 +34,42 @@ Natural pine — light, warm, with visible grain — is one of the defining mate
 - **A single trailing branch in a ceramic vase** is the ideal plant companion for a Japandi sofa — architectural, restrained, and instantly evocative of Japanese aesthetic principles.
 - **Neutral cushions only**: introducing colour or pattern on the cushions of this sofa immediately breaks the Japandi mood. Keep to cream, linen, light grey and warm white.
 - **A low, wide coffee table** (preferably also in natural wood) at the same visual height as the sofa keeps the horizontal emphasis of the whole arrangement.
+
+## The Japandi aesthetic in practice
+
+Japandi is not simply a style you apply — it's a philosophy about how objects relate to each other and to the space they occupy. The three principles that underpin it are restraint (only what is needed is present), honesty (materials look like what they are — linen looks like linen, pine looks like pine) and interval (negative space is treated as deliberately as the objects themselves).
+
+In practical terms this means: resist the urge to add. When a room styled in the Japandi manner feels like something is missing, the instinct to add another object is almost always wrong. The missing thing is usually better lighting, or a slight adjustment in the arrangement of what's already there.
+
+The platform sofa pictured here demonstrates this perfectly. Its power comes from what it doesn't have: no arms, no fussy legs, no decorative stitching, no pattern on the cushions. The restraint is the aesthetic.
+
+## Where to find platform sofas
+
+Platform sofas are now widely available from Scandinavian and Japanese-influenced furniture brands. Some options at different price points:
+
+- **IKEA ÄPPLARYD and SÖDERHAMN** series sit low and clean, and work well with custom cushion covers in natural linen
+- **Muuto Outline** is a premium Danish option with a distinctly architectural profile
+- **BoConcept Osaka** offers a mid-century Japandi crossover, available in modular sections
+- **Hem Palo** is a Finnish-Swedish brand with excellent low-profile sofa options
+
+When buying, ask specifically about seat height — a true platform sofa should be 25–30 cm from floor to seat cushion top. Some sofas marketed as "low profile" are still 38–40 cm, which reads as a standard sofa rather than a platform.
+
+## Caring for linen sofa cushions
+
+The loose linen cushion covers on a platform sofa are both the most beautiful and the most high-maintenance element of the look. Linen wrinkles. That's part of its appeal — but there's a difference between effortfully relaxed and simply neglected.
+
+Practical tips for linen cushion care:
+- Machine wash cushion covers in cold water on a gentle cycle, and remove them while still slightly damp
+- Smooth them back onto the insert while damp — linen reshapes beautifully this way
+- Embrace a small amount of wrinkling as part of the aesthetic; remove deep creases with a steam iron on low
+- Rotate cushions regularly so the linen fades evenly in sunlight
+
+## Common mistakes with platform sofas
+
+**Placing a platform sofa against a wall.** Low-profile sofas lose their architectural quality when pushed against a wall like a standard sofa. Float them in the room, away from the wall, with enough space behind to see the floor and the proportions of the piece.
+
+**Mixing in furniture that's too tall.** A platform sofa next to a standard-height armchair creates an awkward disparity. All the seating in a Japandi scheme should sit at similar heights, reinforcing the horizontal, grounded quality that defines the style.
+
+**Adding too many cushions.** Three cushions maximum on a platform sofa. Anything more competes with the horizontal simplicity of the form and makes it look like a conventional sofa trying to hide under a Japandi veneer.
+
+**Choosing the wrong rug.** The rug under and in front of a platform sofa should be large, flat-weave and in a neutral tone. A thick-pile rug raises the visual floor level and fights the low-to-the-ground quality of the sofa. Jute, sisal or a flat-woven wool are ideal.

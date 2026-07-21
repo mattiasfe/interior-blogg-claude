@@ -34,3 +34,37 @@ The two large black dome pendants — the classic factory or barn light — are 
 - **Keep the worktop consistent**: the same reclaimed wood plank top across both the island and some counters creates the one consistent horizontal surface in a vertical composition of patchwork.
 - **Patterned tiles work best in small doses**: the encaustic tile is limited to the backsplash, not the floor. One intensely patterned surface per room is usually enough.
 - **Industrial stools suit raw, reclaimed kitchens**: welded steel frames with adjustable heights and wooden seats have the same honest, utilitarian quality as reclaimed cabinet doors and exposed beams. They're the right stool for this kind of kitchen.
+
+## Sourcing the materials: where to actually find this stuff
+
+The hardest part of replicating this kitchen is finding the right raw materials. New cabinet fronts painted in muted colours will not have the same quality as genuinely aged ones, and the difference is immediately visible.
+
+**For reclaimed cabinet doors and panels:**
+- Architectural salvage yards and reclamation centres often stock old kitchen cabinet doors, panelled room doors cut down to size, and salvaged timber boards.
+- Facebook Marketplace and local buy-nothing groups regularly feature kitchen cabinets being pulled out during renovations — often free or very cheap.
+- Search for "old kitchen cabinets", "reclaimed timber boards" or "salvage kitchen doors" in your area.
+
+**For encaustic or patterned tiles:**
+- Moroccan and Spanish tile suppliers ship internationally and are often the most affordable source for genuine cement encaustic tiles. Look for suppliers on Etsy or via direct web search.
+- Tile surplus and clearance stores sometimes have discontinued encaustic lines at significant discounts.
+- If budget is a concern, porcelain versions of encaustic patterns are much cheaper than the real thing and convincing at normal viewing distances.
+
+**For the reclaimed timber worktop:**
+- Timber merchants and flooring suppliers often carry reclaimed oak, pine or elm boards wide enough for a kitchen worktop. Ask specifically for "wide plank" or "character grade" timber.
+- A worktop cut from old scaffold boards or railway sleepers has extraordinary character — sealed properly with food-safe oil, it becomes one of the most beautiful working surfaces imaginable.
+
+## How to approach this as a renovation project
+
+This kitchen is the result of either a very confident renovation or a very long accumulation of changes. You can approach it either way:
+
+**The full renovation**: strip the existing cabinet doors, keep the carcasses if they are sound, and replace every door with a patchwork of reclaimed and painted panels. This requires planning — a consistent palette chosen before you start, a source for each material identified, and the time to paint and finish each piece.
+
+**The gradual evolution**: start by replacing one or two cabinet doors with reclaimed alternatives. See how it feels. Add more over time. This approach takes longer but is much lower risk — if a new door doesn't work, you've only replaced one.
+
+## Common mistakes to avoid
+
+**Starting with too many colours.** The palette here — terracotta, sage, teal, black, raw wood — looks varied but is actually quite limited and carefully weighted toward faded, aged tones. If you add a bright yellow or a fresh pastel, it immediately breaks the composition. Commit to aged, muted tones before you buy anything, and test paint colours on scrap board before committing.
+
+**Forgetting practical surfaces.** A kitchen needs to be cleaned. Raw reclaimed timber and painted panels both require proper sealing to survive a working kitchen environment. The worktop needs food-safe oil or wax at minimum, ideally reapplied every few months. Cabinet door panels should be finished with a hardwearing paint or a clear sealer — uncharged bare wood in a kitchen gets greasy and damaged quickly.
+
+**Mismatching the scale of the tiles.** A small mosaic of encaustic tiles reads as busy behind a large range cooker; a large-format tile reads as too plain behind small appliances. Match the tile scale to the surface area — a backsplash of 10 x 10 cm encaustic tiles works well behind a standard 60 cm range.

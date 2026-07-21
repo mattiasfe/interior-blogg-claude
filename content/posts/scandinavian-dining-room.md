@@ -34,3 +34,41 @@ The eight throws here span three categories: chunky knit (the large grey-cream a
 - **A wall rack works best against a warm-coloured wall**: the amber paint here makes the dark wood glow. Against a white wall, the rack would need the throws alone to provide the warmth.
 - **Roll the thinner throws, fold the thicker ones**: rolled fleece or cotton blankets take up less space and show their colour better; thick knits are better folded where their texture shows most clearly.
 - **Replace throws seasonally**: heavy knits in winter, lighter cotton throws in summer. The rack looks good year-round, but its contents can change with the seasons.
+
+## Where to find or build the rack
+
+The rack itself is a simple piece that can be sourced ready-made or built in an afternoon.
+
+**Ready-made options:**
+
+- Freestanding quilt and blanket racks (the kind traditionally used in bedrooms) are available from homeware retailers and are often exactly the right width and height. Look for ones in walnut, dark oak or black-stained finishes to match the aesthetic here.
+- Towel ladders — the tall, leaning style — can be mounted to the wall with two small brackets and work well as a blanket display. Slightly more casual in proportion, but very effective.
+- IKEA's ENUDDEN or similar wooden wall racks can work if modified — add extra dowel rods across the width at regular intervals using wooden dowels and wood glue.
+
+**Building your own:**
+
+The simplest version is a rectangular frame of 4 x 2 cm planed timber — two vertical uprights, two horizontal end pieces, and five or six cross-dowels at equal spacing. The frame mounts to the wall on two French cleats (a simple angled bracket system that allows the rack to hang level and be removed without tools).
+
+Dimensions: 40 cm wide, 120 cm tall, dowels spaced 18–20 cm apart. At this spacing, each rod holds one folded throw comfortably. Use 18 mm wooden dowel rod, available from any timber merchant.
+
+Sand everything to 180 grit and finish with a dark walnut or ebony wood stain, followed by a coat of clear matte wax.
+
+## Building a throw collection worth displaying
+
+A rack this good needs throws that are worth looking at. Building the collection deliberately, rather than buying whatever is on sale, makes the difference between a beautiful display and a laundry pile on a stick.
+
+What to look for:
+
+- **Chunky knit throws**: the Icelandic or Nordic style — large, irregular stitches in natural wool or cotton. These are the most tactile and most visually interesting. Good sources include Etsy sellers who hand-knit to order, Scandinavian homeware brands, and charity shops during autumn turnover.
+- **Woven cotton throws with geometric patterns**: the aztec or south-western style woven throw is a staple of this look. These are widely available at homeware chains and are usually inexpensive.
+- **Plain fleece or velour throws**: the filler pieces. Solid colours in your palette — grey, cream, mustard — provide visual calm between the more textured or patterned pieces.
+
+Budget tip: build the collection gradually. One good chunky knit as the hero piece, two or three plain throws as the supporting cast, and a patterned throw or two at the bottom is enough to fill a rack of this size without spending a lot at once.
+
+## Common mistakes with blanket display
+
+**Mismatching colour temperatures.** The most common error is combining warm tones (cream, mustard, rust) with cool ones (ice blue, silver grey, mint green) on the same rack. The result looks accidental. Every throw in the collection should share the same warmth — all warm-toned, or all cool-toned. Warm usually reads better in a living room context.
+
+**Using identical folds for every throw.** A rack where every throw is folded the same way looks like a shop display rather than a curated home collection. Mix folded and rolled, vary the exposed edge direction, and let slightly different widths create a varied profile across the rack.
+
+**Hanging the rack too high.** A rack mounted near the ceiling looks inaccessible and implies the throws are decorative-only. Mount it at a height where the lowest throw is at easy reach — typically with the bottom of the rack at around hip height. The throws should be visually present, not museum-distant.

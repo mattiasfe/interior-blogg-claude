@@ -34,3 +34,28 @@ The pendant light hanging at eye level above the chair is the single most import
 - **Use a vintage rug rather than a plain one**: patterned vintage rugs in faded, muted tones add age and depth to the floor without demanding attention. They feel earned rather than purchased.
 - **Keep the shelf styling minimal**: with a hanging chair and globe pendant already in the space, the shelves should recede. A few books, one framed print, one candle. Anything more competes.
 - **Leave the nook tech-free**: no phone charger cable, no speaker, no screen. This is the most powerful way to make a reading nook actually become a reading nook — if it looks like a reading chair, it will be used as one.
+
+## Choosing the right hammock chair
+
+Not all hammock chairs are equal, and the difference matters most in a reading nook where you may sit for an hour or longer. Cotton woven chairs are softer and more comfortable for extended sessions but can stretch and lose their shape with regular use. Rope and macramé chairs are more structured, hold their form better over time, and photograph beautifully — but the woven surface can be uncomfortable against bare skin for long periods. A thin seat cushion solves this entirely.
+
+For a reading nook installation, look for a chair with a solid wood or thick dowel spreader bar at the top. This keeps the opening wide and prevents the chair from collapsing inward when you sit, which is both more comfortable and looks much better. Without a spreader bar, a rope chair tends to close around you like a hammock rather than cradling you like a chair.
+
+Weight capacity varies significantly between products. Most chairs are rated between 100 and 150 kg. If you plan to share the chair with children, or simply want peace of mind with a ceiling installation, choose one rated to at least 120 kg and pair it with a ceiling hook rated to at least double the chair's maximum load.
+
+## Creating a sense of enclosure
+
+The best reading nooks feel slightly separate from the rest of the room — a room within a room. In a genuine alcove, this happens naturally. In an open-plan space, you have to create the sense of enclosure deliberately. Some effective approaches that require no construction:
+
+- Hang a lightweight half-curtain from a ceiling-mounted track on one or two sides of the chair. Even a sheer linen panel adds meaningful visual separation.
+- Place a tall bookshelf immediately behind or beside the chair. Books are visually dense and acoustically absorbent — they naturally quieten a corner.
+- Define the zone with a floor rug. A rug beneath the chair signals that this area is different from the rest of the room, even without a physical barrier.
+- Hang the pendant light at chair height rather than ceiling height. A light source close to you creates an intimate pool of warmth that makes the rest of the room feel further away.
+- Keep the ceiling above the chair clear of clutter if it is a low-ceilinged alcove. Visual overhead space makes a small nook feel contained but not cramped.
+
+## Common mistakes to avoid
+
+- **Under-anchoring the ceiling hook**: the most dangerous mistake in any hammock chair installation. Always confirm you are drilling into a ceiling joist, or use a dedicated wall-mounted bracket rated for the load. Plasterboard alone cannot hold the dynamic load of a swinging, occupied chair.
+- **Overloading the shelves above the chair**: floating shelves above a seating area carry the same structural requirement as the ceiling hook — anchor into studs or wall plugs rated for the load. A shelf of heavy books that falls is a serious risk.
+- **Choosing a light on the wrong side of the room**: a ceiling light behind you creates glare on the page. The pendant needs to be directly above or slightly in front of the chair, at eye level or just above.
+- **Too many cushions**: beyond four cushions, a hammock chair becomes uncomfortable to get into and sit in. Layer textures rather than quantities — one sheepskin, one linen cushion and one macramé pillow is a more considered combination than a pile of ten matching cushions.

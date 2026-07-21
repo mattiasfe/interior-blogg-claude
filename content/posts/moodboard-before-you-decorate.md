@@ -34,3 +34,36 @@ Flea markets, estate sales and online marketplaces like eBay, Finn.no and Facebo
 - **Use dried flowers rather than fresh**: fresh flowers have a liveliness that can feel jarring against very old furniture. Dried seed heads, dried botanicals and pressed flowers have the same quietness as aged wood and cracked paint.
 - **Let it stand against a textured wall**: this cabinet is photographed against a warm, rough plaster wall. A smooth white wall would drain it of context. The rougher the wall, the more at home the cabinet feels.
 - **One key with a tassel in the lock** is one of the most characterful small details you can add to an antique cabinet — it suggests the piece is still used, still functional, still itself.
+
+## How to integrate vintage furniture into a contemporary interior
+
+The most common failure mode when mixing an antique piece into a modern home is treating it as a curiosity on display rather than genuinely integrating it. A distressed cabinet standing alone in a room of flat-pack furniture reads as accidental — a rescue that did not quite work. For a genuine vintage piece to succeed in a contemporary interior, it needs context.
+
+Practical ways to build that context without turning the whole room into a museum:
+
+- Add at least one vintage textile in the same sight line — a worn kilim, an old linen grain sack, a patched blanket. Textiles with age tie back to the cabinet without competing with it.
+- Use warm, imperfect lighting. A clear filament bulb in a simple fitting, a candlestick, or an oil lamp flatters patina in a way that flat overhead lighting does not. Patina disappears under bright, even light.
+- Include handmade ceramics or pottery on and around the piece. Perfectly regular, machine-made objects look incongruous beside genuinely old furniture. Rough-edged, hand-thrown pieces speak the same language.
+- Avoid surrounding it with too many other statement pieces. Distressed furniture with strong presence needs space to breathe. Give it one or two supporting objects and leave the rest of the room quieter.
+
+## Cleaning and caring for antique painted furniture
+
+Old paint should not be washed with water. Moisture can lift paint layers and accelerate peeling, especially where the paint is already loose or thin. For routine dusting and cleaning, use a dry or barely damp cloth, working gently along the grain of the wood beneath.
+
+For deeper cleaning, a cloth very lightly dampened with white spirit removes grime effectively and does not affect the paint surface. Work in small sections and buff dry immediately.
+
+To stabilize paint that is actively flaking, brush a diluted PVA solution (one part PVA to five parts water) over the affected area and allow to dry completely before touching. This bonds loose paint to the surface without visibly changing the finish. Do not apply varnish or lacquer topcoat over old painted furniture — it changes the quality entirely and is very difficult to reverse.
+
+Exposed wood sections benefit from a light application of beeswax or furniture wax every six to twelve months, buffed in with a soft cloth. This prevents the wood from drying out and cracking while keeping the natural colour rather than darkening it.
+
+## DIY distressing: when it works and when it does not
+
+If a genuinely aged piece is not available or within budget, a multi-layer paint finish is the closest achievable result. The process is straightforward:
+
+1. Apply a base coat in a deep, earthy colour — raw umber, dark teal, or warm brown.
+2. Allow to dry fully. Apply a second coat in the intended top colour.
+3. While the top coat is still slightly tacky, use a crumpled cloth or plastic bag to dab and lift areas of paint, focusing on edges, corners, handles, and any raised moulding — the places that would genuinely wear through first.
+4. When fully dry, sand the worn areas lightly with fine-grit sandpaper to reveal the base coat and bare wood beneath, blending the edges.
+5. Seal with matte paste wax or diluted PVA.
+
+The result will not replicate decades of genuine wear, but it is considerably more convincing than the flat "distressed" finishes applied in factories to sell at mass market prices. The difference is in the concentration of wear: genuine and well-executed DIY distressing is heaviest at points of real contact and fades naturally inward. Factory distressing is often applied at random, with no relationship to how the piece would actually be used.

@@ -17,6 +17,17 @@ Green is the most forgiving colour for antique and distressed furniture because 
 
 The distressing — the chips, the wear at the corners, the visible layers — adds depth that a freshly painted piece simply cannot have. If you find a piece like this, resist the urge to restore it. The wear is the value.
 
+## How to evaluate a piece before you buy
+
+When you find a distressed cabinet you're interested in, the physical inspection matters as much as the visual appeal. Check:
+
+- **The joints and structure**: open the doors and press gently at the corners. Solid construction should have no flex. Old glue joints can often be re-glued; completely failed joints are a warning sign.
+- **The drawer runners**: pull drawers out fully. Sticking or failing runners are repairable but add cost. Smooth, well-fitted drawers with original wooden runners are a sign of quality construction.
+- **The glass**: original old glass is often slightly wavy when you look through it at an angle. This imperfection is desirable and very difficult to replicate in modern glass.
+- **Signs of damp or rot**: press gently on the lower sides and base. Any softness suggests water damage. A musty smell can indicate mould in the interior — inspect the shelves with a torch.
+
+A piece that passes these checks is worth buying even if the paint surface looks rough. A piece that fails structural checks is a renovation project, not an antique purchase.
+
 ## What to put inside a glass-fronted cabinet
 
 A glass-fronted display case is a frame for whatever you choose to put in it. The best contents share a common thread — material, colour or purpose:
@@ -28,13 +39,34 @@ A glass-fronted display case is a frame for whatever you choose to put in it. Th
 
 Leave some shelves partially empty. A display case crammed to capacity looks like a charity shop; one that's thoughtfully edited looks like a museum.
 
+## Colours that work alongside green vintage furniture
+
+The green in an aged cabinet will rarely be a single, clean colour — it'll contain traces of brown, yellow or blue, depending on its history. The trick is to pick out one of those undertones and echo it in nearby objects rather than trying to match the green itself.
+
+- **Warm brass and copper** pick up the yellow undertones in aged forest and olive greens, creating a warm metallic complement
+- **Terracotta and rust** sit naturally with green across the whole spectrum — the combination has roots in traditional Mediterranean and Central European folk decoration
+- **Cream and off-white** are the safest background colours: they let the green read clearly without competing
+- **Navy or indigo textiles** (a rug, a cushion) work beautifully with teal-green cabinets in particular
+
+Avoid primary red next to green — it creates an unintentional Christmas palette. And avoid grey, which can make aged green furniture look cold and unloved rather than characterful.
+
 ## Styling the top surface
 
 The brass oil cans on top of this cabinet are a masterstroke: they're functional objects repurposed as display, they're the same warm metallic tone, and their different heights create an informal composition. The same principle works with any collection of related objects placed on top of a statement piece.
 
+The key word is collection. A single object on top of a tall cabinet looks forgotten. Three to five related objects — all brass, all ceramics, all garden implements — look curated. Group them tightly enough that they read as one arrangement, with varying heights to create visual rhythm.
+
 ## Where to find pieces like this
 
 Estate sales, specialist antique dealers, salvage yards and online auction platforms are the best sources for genuinely distressed pieces. Avoid reproduction vintage — the real thing is almost always cheaper than a well-made imitation and infinitely more interesting.
+
+In the UK, look at Selby's Antiques, the LAPADA dealer network and regional salerooms. In Scandinavia, Tradera (the Swedish equivalent of eBay) often has remarkable pieces at low prices because the market for distressed antique furniture is smaller there. Internationally, Chairish and 1stDibs cover the premium end; Facebook Marketplace covers the bargain end.
+
+## Common mistakes when styling antique display cabinets
+
+The most common mistake is placing an antique cabinet in a room that's too modern and too clean. A distressed cabinet needs some texture in its environment — a worn rug, bare plaster, unfinished shelves, aged books. Place it in a freshly renovated white room and it looks like a prop rather than a possession.
+
+The second mistake is mixing too many eras inside the display. A curated collection is coherent: all Scandinavian folk pottery, or all Victorian apothecary glass. A mixed collection requires real curatorial skill. When in doubt, limit yourself to two categories at most.
 
 ## Interior tips
 

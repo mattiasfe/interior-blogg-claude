@@ -34,3 +34,25 @@ A large circular jute rug grounds the seating arrangement — its round form mir
 - **Use ceramics in earth tones on your shelves**: brown, terracotta, sandy cream and warm grey ceramics disappear pleasantly into a natural interior. White ceramics look clinical; brightly coloured ones look mismatched.
 - **Let the jute rug be slightly too large**: a rug that extends well past the sofa legs grounds the whole arrangement and signals confidence. A rug that's barely big enough looks timid.
 - **Tall plants in corners**: a bird of paradise or a large monstera in a floor-level pot fills the vertical space of a corner that furniture can't reach. The room feels complete once the corners are alive.
+
+## Choosing the right plants for this look
+
+Not all plants suit an earthy, boho living room equally well. The ones that work best here share a few characteristics: large, dramatic foliage; a sculptural quality when placed in a simple pot; and a preference for the indirect light typical of living rooms with standard windows.
+
+The best choices:
+
+- **Bird of paradise (Strelitzia reginae or nicolai)**: the tall version (S. nicolai) is the signature corner plant for this look. Long paddle-shaped leaves with natural splits and tears give it a tropical, expansive presence. It needs good indirect light and occasional watering, and it will reward you by growing visibly taller every few months.
+- **Monstera deliciosa**: the split-leaf philodendron is practically the mascot of this aesthetic. Easy to grow, tolerates a range of light conditions and looks spectacular in a large terracotta or ceramic pot.
+- **Fiddle-leaf fig (Ficus lyrata)**: dramatic, tree-like, and extremely popular for a reason — the large, violin-shaped leaves are genuinely beautiful. More demanding than the others (hates draughts and being moved), but worth it if your light conditions are good.
+- **Trailing pothos or heartleaf philodendron**: for shelves and high surfaces. These trail downward quickly and add the cascading greenery that makes a shelf feel alive rather than styled.
+- **Boston or Kentia palm**: for a corner that needs height without the drama of a fiddle-leaf fig. Palms suit the earthy, natural character of this interior better than more exotic tropical species.
+
+## Common mistakes with earthy, boho interiors
+
+**Buying too many small plants.** A collection of ten small plants in individual pots on a shelf reads as a plant shop, not a curated interior. This look depends on a few large, significant plants — one in each corner, one beside the sofa, one on the wall — rather than many small ones scattered around.
+
+**Choosing the wrong rug.** A deep green sofa on a patterned or brightly coloured rug is visual chaos. The jute or sisal rug here works because it is textural rather than patterned, and its natural fibre colour disappears under the sofa rather than competing with it. If you want a rug with some pattern, keep it in very muted, woven geometric designs in earth tones.
+
+**Mixing too many wood tones.** Natural wood is a key material in this interior, but three or four different wood tones side by side — light pine, dark walnut, orange oak, pale ash — look inconsistent. Choose one or two wood tones and repeat them. The coffee table, the shelf, the planter stands and the picture frames should all feel like they belong to the same family.
+
+**Buying a sofa in the wrong shade of green.** Deep olive or forest green works. Bright emerald or lime green clashes with natural materials. Sage green works but reads softer. When choosing a green sofa, look for colours that have some grey or brown in them — these are the tones that read as natural and earthy rather than vivid and synthetic.

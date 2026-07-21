@@ -34,3 +34,29 @@ Without the plants, this would be a dramatic but cold bathroom. With them, it be
 - **A round black-framed mirror** is the perfect partner for a dark botanical bathroom: the circular form softens the rectangular grid of the tiles, and the black frame ties back to the hardware.
 - **Edison bulb sconces** at face height, rather than overhead lighting, give much more even and flattering light for the bathroom mirror — overhead lighting casts unflattering shadows downward.
 - **A wicker basket on the floor** holds extra towels while adding natural fibre texture that breaks up the hard surfaces of tile, stone and painted wood.
+
+## Which plants actually survive in a bathroom
+
+Not every plant is happy in a bathroom, even one that looks like a jungle. The key variables are light and humidity. A bathroom with a small frosted window gets far less light than it appears to from the outside, and many tropical plants that look lush in a garden centre will slowly decline without enough of it.
+
+The safest choices for a dark botanical bathroom:
+
+- **Pothos (Epipremnum aureum)**: practically indestructible, tolerates low light, loves humidity. Let it trail from a high shelf and it will grow a metre of new growth per year with minimal attention.
+- **Peace lily (Spathiphyllum)**: one of the few flowering plants that genuinely thrives in low light and humid conditions. Dark green foliage, occasional white flowers, very forgiving.
+- **Boston fern**: the classic bathroom plant for a reason. It loves the humidity from the shower and will reward you with lush, feathery fronds — as long as it gets some indirect light and its soil is kept consistently moist.
+- **ZZ plant (Zamioculcas zamiifolia)**: the most drought-tolerant option here. Waxy, dark green leaves that look almost artificial, tolerates neglect and low light. A good choice for a bathroom that doesn't get much natural light.
+- **Spider plant**: fast-growing, produces trailing babies, genuinely happy in a humid environment.
+
+Avoid succulents and cacti in a dark bathroom — they need direct sunlight and dry air, which is the opposite of what a steamy shower room provides.
+
+## Common mistakes to avoid
+
+**Choosing white grout with dark tiles.** This is the single most common error when tiling a dark bathroom. White grout creates a prominent grid pattern that dominates the surface — you see the grout lines, not the tile. Match your grout to your tile colour, or go only one shade lighter. The result should be a wash of colour, not a net.
+
+**Skimping on the ventilation.** A bathroom full of plants, candles and steam is a recipe for mould if the ventilation isn't adequate. Make sure your extractor fan is powerful enough for the room size and run it for at least 20 minutes after every shower. Plants absorb some humidity, but they are not a substitute for proper airflow.
+
+**Mixing metal finishes.** Black hardware throughout is the right call here. Bringing in a chrome tap or a brushed nickel towel ring alongside the black fittings breaks the considered feeling immediately. Decide on one finish before you buy anything and stick to it.
+
+**Over-lighting the room.** A moody, atmospheric bathroom does not want a bank of bright downlights. Add dimmers to any overhead lighting, keep the wall sconces warm-toned, and treat bright overhead light as the functional exception — for cleaning, for applying makeup — rather than the default.
+
+**Neglecting the floor.** Dark walls, dark vanity and dark tiles can make a bathroom feel like a cave if the floor is also very dark. Consider a lighter floor tile — warm grey stone, pale concrete effect, or even a small geometric patterned tile — to keep the space grounded without lightening the walls.

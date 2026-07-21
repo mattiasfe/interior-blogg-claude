@@ -34,3 +34,29 @@ The woven rattan dome pendant above the table is the light source and the centre
 - **Stripe and plain cushions together**: the combination of a striped linen lumbar pillow and a plain grey cushion adds visual interest without pattern overload. Both must be in the same tonal range.
 - **A jute rug unifies the corner**: even in a corner that doesn't need a rug functionally, a small jute rug defines the dining zone as a distinct space within the larger room.
 - **One cane chair facing the bench** is more interesting than two matching chairs — the contrast between the upholstered bench and the open weave of the cane chair adds texture and lightness to the arrangement.
+
+## Building vs. buying: what you actually need to know
+
+A banquette dining nook can be built from scratch, bought as a ready-made unit, or assembled from off-the-shelf components.
+
+**Building from scratch** gives you the most control over dimensions and finish. The basic structure is a simple timber box — a plywood frame with a face of planks or painted MDF. The seat height should be 45–47 cm (standard chair height), and the depth 45–55 cm (enough to sit comfortably against a wall with a cushion). The drawers on the front face are standard soft-close drawer runners available at any hardware store.
+
+**Ready-made options** worth looking at include IKEA's KALLAX units turned on their sides as a bench base — they have the right depth, come with drawer inserts, and the seat can be cut from a piece of plywood and fitted with a foam cushion. This is the fastest route to a finished nook.
+
+**The seat cushion** is where you should invest. A thin cushion on a hard bench is uncomfortable after ten minutes. Use high-density foam at a minimum of 10 cm thickness, wrapped in a removable, washable cover. Linen and cotton mixes are the most practical — they look good, wash well and get better with age. Avoid velvet in a dining context unless you are a very careful eater.
+
+## Practical cushion and textiles advice
+
+The cushion and pillows are the elements that make the nook feel like somewhere you actually want to sit rather than a piece of storage with a seat on it.
+
+- **Bench cushion**: cut to the exact width and depth of the bench seat. If it slides, use non-slip mat underneath or add Velcro ties to the back.
+- **Lumbar pillows**: one or two is enough. More than two and the sitting space gets crowded. Keep them in the same tonal range as the cushion.
+- **Waterproof cushion covers**: if this is a nook used daily by children or for casual meals, consider a water-resistant fabric or at minimum, a cushion cover with a full zip that can be removed and washed easily.
+
+## Common mistakes with corner dining nooks
+
+**Making the bench too short.** A bench that only runs to the length of the table seats the same number of people as two chairs would — which misses the point. Extend the bench past the table on both sides, and the nook can squeeze in an extra person or two at celebrations.
+
+**Choosing a rectangular table.** A rectangular table pushed into a corner creates a dead corner where the table meets the wall. A round table has no such corner, can be pulled slightly out when more people join, and generally makes conversation easier — you can see everyone at the table without turning.
+
+**Hanging the pendant too high.** An intimate dining nook with a pendant light five feet above the table feels cold and unresolved. The pendant here hangs low enough to cast a pool of warm light directly on the table surface, which makes the food look better and the conversation feel more private.

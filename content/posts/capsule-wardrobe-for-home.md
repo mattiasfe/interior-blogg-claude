@@ -34,3 +34,34 @@ Glass jars with cork or metal lids are perfect for cotton balls, bath salts, hai
 - **Stick to two or three colours** for your towels — it looks curated rather than random. The sage and beige combination here is particularly successful.
 - **A candle or two** on the shelf adds warmth and turns a functional bathroom into somewhere you actually want to spend time.
 - **Vary the height of objects** across shelves: tall glass jars next to folded towels, short products next to stacked baskets. The variation keeps the eye moving.
+
+## How to protect wooden shelves in a humid bathroom
+
+Humidity is the enemy of wood, and a bathroom shelf that isn't properly sealed will warp or crack within a year. Before mounting your shelves, make sure they're treated correctly.
+
+Apply at least two coats of a hard-wearing sealant — either a clear matte varnish or an oil-wax finish — to all surfaces including the underside and back edge. Oil-based finishes penetrate the wood fibres and are more resistant to steam and splashing than surface varnishes. Reapply once a year as maintenance.
+
+If you're buying pre-made floating shelves, check what finish they have. Many unfinished or lightly oiled shelves sold as "bathroom shelves" are not actually rated for humid environments. Oak, teak, and other dense hardwoods handle moisture far better than pine or MDF, which can swell and delaminate.
+
+## The rule of three for shelf styling
+
+Professional interior stylists use the rule of three as a starting point for arranging open shelves: group items in odd numbers, vary height, and vary texture. Applied to a bathroom shelf, this might look like: a stack of three folded towels (height), a glass jar of cotton balls (texture), and a small plant cutting (organic element). Those three elements together create a balanced, considered arrangement.
+
+Repeat a similar grouping on each shelf, but vary the proportions slightly so it doesn't look too uniform. If the top shelf is towel-heavy, make the middle shelf more decorative. If the bottom shelf is mostly products, add a basket for visual weight.
+
+## What to avoid on open bathroom shelves
+
+The most common mistake is trying to store everything in the open. Open shelving looks beautiful when it displays a curated selection of items — it looks chaotic when it becomes the default home for every bottle, packet and tube in your bathroom.
+
+- **Avoid bulky packaging**: decant or transfer to smaller, matching containers.
+- **Don't leave half-empty shampoo bottles on display**: they look messy and are impossible to style around.
+- **Resist the urge to fill every inch**: empty space on a shelf reads as calm and intentional, not wasteful.
+- **Keep cleaning products hidden**: a wicker basket on the lowest shelf or inside a cabinet keeps cleaning supplies out of sight.
+
+## Buying advice for rustic bathroom shelves
+
+When shopping for shelves in this style, look for solid wood rather than veneer — the chunky, substantial look only works if the wood is genuinely thick (at least 4 cm). Reclaimed timber suppliers and salvage yards often have offcuts of old scaffold boards or railway sleepers that can be cleaned up and mounted as shelves for a fraction of the cost of buying new.
+
+If buying new, look at Scandinavian home stores for oak floating shelves with a matte oil finish. The bracket system matters as much as the shelf itself — choose brackets that are strong enough to support the weight of wet towels, heavy glass jars, and ceramic containers without flexing.
+
+Wall fixings are non-negotiable: in a bathroom, shelves need to be anchored into studs or fitted with expanding wall anchors rated for the full load. A shelf that's not properly fixed will eventually pull away from the wall, especially as the wood absorbs humidity and becomes heavier over time.
