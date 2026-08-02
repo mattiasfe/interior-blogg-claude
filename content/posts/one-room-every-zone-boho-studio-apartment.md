@@ -55,8 +55,8 @@ The second mistake is using too many colours or styles across zones. A studio ap
 
 ## Interior tips
 
-- **A jute circle rug under the desk** is one of the most effective ways to define a small work zone — it signals "this is a different space" without any physical barrier.
-- **A reed diffuser or candle on the coffee table** adds scent to the room, which is one of the most overlooked elements of a welcoming space.
+- **A jute circle rug under the desk** signals "this is a different space" without any physical barrier.
+- **A reed diffuser or candle on the coffee table** adds scent to the room — an easy detail to skip, but it does more for the feel of a space than another object would.
 - **LED strips under kitchen cabinets** at the warm end (2700K) match the tone of the desk lamp and pendant, keeping all the light sources in the same family of warmth.
 - **Keep the bedding simple and white**: with so much going on in the rest of the room, a neutral bed disappears into the background and makes the overall space feel less busy.
 - **Botanical prints and hanging plants** at the desk zone reinforce the boho-natural theme while making the work corner feel like a place you'd actually want to sit.

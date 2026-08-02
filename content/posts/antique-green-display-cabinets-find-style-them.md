@@ -1,6 +1,6 @@
 ---
 title: "Antique Green Display Cabinets: How to Find and Style Them"
-description: "A distressed green glass-fronted cabinet is one of the most characterful pieces you can own. Here's how to find one, what to put in it, and how to style around it."
+description: "A distressed green glass-fronted cabinet holds its value in its wear, not its finish. Here's how to find one, what to put in it, and how to style around it."
 category: "Inspiration"
 tags: ["antique furniture", "display cabinet", "vintage green", "distressed paint", "glass cabinet", "styling"]
 date: "2026-01-22"
@@ -9,7 +9,7 @@ affiliate: true
 featured: false
 ---
 
-The cabinet in this image is extraordinary. A squat, glass-fronted display case painted in layers of green — darker underneath, lighter on top, with rust and bare wood showing at the edges where the paint has worn away. On top, a collection of aged brass oil cans and a watering can, placed without fuss. The whole thing sits on pale painted floorboards in a room with no other distractions. It needs nothing else.
+A squat, glass-fronted display case painted in layers of green — darker underneath, lighter on top, with rust and bare wood showing at the edges where the paint has worn away. On top, a collection of aged brass oil cans and a watering can, placed without fuss. It sits on pale painted floorboards in a room with no other distractions, and none are needed.
 
 ## What makes a distressed green cabinet work
 

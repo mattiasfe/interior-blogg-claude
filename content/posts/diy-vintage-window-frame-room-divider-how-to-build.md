@@ -1,6 +1,6 @@
 ---
-title: "The Vintage Window Frame Room Divider: A Folding Screen With Real Character"
-description: "Three antique window frames joined as a folding screen, painted white and distressed, with glass panes and small potted plants in the lower panels — this is a room divider with genuine vintage charm."
+title: "How to Build a Vintage Window Frame Room Divider: Sourcing, Hinging and Finishing"
+description: "A step-by-step guide to building a folding screen from salvaged window frames — where to source them, how to hinge three panels together, and how to get a convincing distressed white finish."
 category: "Inspiration"
 tags: ["room divider", "vintage window frame", "folding screen", "upcycling", "farmhouse decor", "privacy screen", "DIY divider"]
 date: "2026-05-12"

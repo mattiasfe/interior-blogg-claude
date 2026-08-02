@@ -9,7 +9,7 @@ affiliate: false
 featured: false
 ---
 
-There are cabinets you buy. And then there are cabinets you find — cabinets that have lived a life, that carry decades of decisions and accidents in their surface, that you can stare at for a long time and still find something new. This is the second kind. The paint has worn through in a dozen places, revealing layers of teal, brown and bare wood beneath. A tassel keyring hangs from the original key. On top: a worn ceramic jug, a decorative plate, a small ceramic bowl and a dried flower. Beside it on the floor: an old round hat box and a battered leather suitcase. It is entirely, deeply, beautifully itself.
+This cabinet's paint has worn through in a dozen places, revealing layers of teal, brown and bare wood beneath — the kind of surface no factory finish can fake, because every layer marks a decision someone actually made. A tassel keyring hangs from the original key. On top: a worn ceramic jug, a decorative plate, a small ceramic bowl and a dried flower. Beside it on the floor: an old round hat box and a battered leather suitcase.
 
 ## What makes distressed paint so compelling
 
@@ -33,7 +33,7 @@ Flea markets, estate sales and online marketplaces like eBay, Finn.no and Facebo
 - **Match your accessories to the cabinet's history**: ceramics and objects that look hand-thrown, worn, or found work better than anything new or polished. The cabinet will make new objects look cheap rather than the other way around.
 - **Use dried flowers rather than fresh**: fresh flowers have a liveliness that can feel jarring against very old furniture. Dried seed heads, dried botanicals and pressed flowers have the same quietness as aged wood and cracked paint.
 - **Let it stand against a textured wall**: this cabinet is photographed against a warm, rough plaster wall. A smooth white wall would drain it of context. The rougher the wall, the more at home the cabinet feels.
-- **One key with a tassel in the lock** is one of the most characterful small details you can add to an antique cabinet — it suggests the piece is still used, still functional, still itself.
+- **One key with a tassel in the lock** signals the piece is still used and still functional, not just displayed.
 
 ## How to integrate vintage furniture into a contemporary interior
 

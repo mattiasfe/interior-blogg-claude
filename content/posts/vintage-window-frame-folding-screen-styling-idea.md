@@ -1,6 +1,6 @@
 ---
-title: "The Vintage Window Frame Room Divider: A Folding Screen With Real Character"
-description: "Three antique window frames joined as a folding screen, painted white and distressed, with glass panes and small potted plants in the lower panels — this is a room divider with genuine vintage charm."
+title: "Why a Vintage Window Frame Folding Screen Beats a New Room Divider"
+description: "A styling case for using salvaged window frames as a room divider — the patina, the distressed white finish and the plant styling that make this piece feel like it was always there."
 category: "Inspiration"
 tags: ["room divider", "vintage", "window frames", "folding screen", "upcycling", "DIY", "vintage decor"]
 date: "2026-05-12"
@@ -9,7 +9,7 @@ affiliate: false
 featured: false
 ---
 
-Three antique window frames, hinged together as a folding screen and painted white with deliberate distressing, stand in a corner of a room and immediately become the most interesting thing in it. The glass panes remain intact — slightly wavy, slightly imperfect, the way old glass always is. In the lower panels of each frame, small potted plants sit directly behind the glass, their green silhouettes visible through it. This is a room divider that looks like it was always there.
+Three antique window frames, hinged together as a folding screen and painted white with deliberate distressing, stand in the corner of this room. The glass panes remain intact, slightly wavy and imperfect the way old glass tends to be after decades of settling. In the lower panels of each frame, small potted plants sit directly behind the glass, their green silhouettes visible through it.
 
 ## Why window frames work as room dividers
 

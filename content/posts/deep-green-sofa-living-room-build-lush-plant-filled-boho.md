@@ -13,11 +13,11 @@ The sofa here is the same colour as a forest floor — a deep, slightly muted ol
 
 ## The sofa colour
 
-Deep green is one of the most successful sofa colours for an earthy, natural interior. It reads warm rather than cold (unlike blue or grey), it complements the brown of natural wood, and it repeats the colour of every plant in the room, creating a visual unity between furniture and greenery. The low platform profile of the sofa keeps the sightlines open and gives the plants the vertical space they need to be seen.
+Deep green works especially well as a sofa colour in an earthy, natural interior. It reads warm rather than cold (unlike blue or grey), it complements the brown of natural wood, and it repeats the colour of every plant in the room, creating a visual unity between furniture and greenery. The low platform profile of the sofa keeps the sightlines open and gives the plants the vertical space they need to be seen.
 
 ## The round mirror with plants inside
 
-The large round mirror on the wall is styled as a botanical feature: plants trail over its frame, and the reflection of the room's plants fills the mirror surface. This is one of the most effective ways to integrate a mirror into a plant-filled room — instead of reflecting the sofa or the TV, it reflects the jungle. The circular frame also echoes the round jute rug below, creating vertical repetition of the circular motif.
+The large round mirror on the wall is styled as a botanical feature: plants trail over its frame, and the reflection of the room's plants fills the mirror surface. Instead of reflecting the sofa or the TV, it reflects the jungle — a simple swap that does more for the room than a different mirror shape or frame ever could. The circular frame also echoes the round jute rug below, creating vertical repetition of the circular motif.
 
 ## The rattan pendant
 

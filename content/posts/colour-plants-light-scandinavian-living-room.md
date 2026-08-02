@@ -25,11 +25,11 @@ The framed poster on the wall shows a stylised, almost childlike figure in orang
 
 ## The plants
 
-There are at least five distinct plants visible in this room: a large fiddle leaf fig in the corner, a bird of paradise beside the window, a cluster of smaller pots on the windowsill, and at least one more trailing or compact plant on the floor. This density of greenery is not accidental — it is one of the most important elements of the room. The plants fill the lower half of the tall windows, framing the natural light, and create a sense of interior nature that the furniture and art alone could not.
+There are at least five distinct plants visible in this room: a large fiddle leaf fig in the corner, a bird of paradise beside the window, a cluster of smaller pots on the windowsill, and at least one more trailing or compact plant on the floor. This density of greenery is not accidental. The plants fill the lower half of the tall windows, framing the natural light, and create a sense of interior nature that the furniture and art alone could not.
 
 ## Interior tips
 
-- **A tripod floor lamp beside an armchair** is one of the most practical and aesthetically consistent choices for Scandinavian living rooms. The tripod form is structurally honest, the drum shade diffuses light downward, and the whole form reads as designed rather than just functional.
+- **A tripod floor lamp beside an armchair** is a reliable pairing in Scandinavian living rooms: the tripod form is structurally honest, the drum shade diffuses light downward, and the whole form reads as designed rather than just functional.
 - **Sheer white curtains from ceiling to floor** maximise the visual height of the room and allow light to diffuse softly. The curtain rail should be as close to the ceiling as possible — this is the single most effective way to make a room feel taller.
 - **Cluster small plants on windowsills**: the grouping of several small pots is more effective than individual plants scattered around the room. A cluster creates a moment — a destination for the eye.
 - **Match a cushion colour to your wall art**: the rust orange cushion and the rust orange in the poster here are the same tone. This small repetition creates cohesion between two elements on opposite sides of the room.
