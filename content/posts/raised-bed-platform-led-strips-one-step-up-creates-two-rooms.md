@@ -1,6 +1,6 @@
 ---
 title: "The Raised Bed Platform With LED Strips: How One Step Up Creates Two Rooms"
-description: "A bedroom raised on a wooden platform with glowing LED strips underneath, three steps leading up, a sofa and coffee table on the lower level — this split-level studio concept is one of the most innovative small apartment ideas around."
+description: "A bedroom raised on a wooden platform with glowing LED strips underneath, three steps leading up, a sofa and coffee table on the lower level — how a split level turns one studio footprint into two distinct rooms."
 category: "Small Apartments"
 tags: ["raised bed platform", "split level", "LED strips", "studio apartment", "platform bed", "two levels", "small apartment ideas"]
 date: "2026-06-27"

@@ -21,7 +21,7 @@ The mustard yellow velvet sofa and accent chair are the boldest element in an ot
 
 ## The wall shelf with trailing plants
 
-High on the right wall, a long floating shelf holds books and small objects — but its dominant feature is the trailing plants that drape downward from it, long stems of pothos or heartleaf philodendron falling almost to shoulder height. This is one of the most effective ways to add life and height to a small room: the plants fill vertical space without taking floor space, and the trailing habit creates a soft, organic boundary on one side of the living zone.
+High on the right wall, a long floating shelf holds books and small objects — but its dominant feature is the trailing plants that drape downward from it, long stems of pothos or heartleaf philodendron falling almost to shoulder height. It's a good way to add life and height to a small room without touching the floor: the plants fill vertical space, and the trailing habit creates a soft, organic boundary on one side of the living zone.
 
 ## The rattan pendant and desk lamp
 

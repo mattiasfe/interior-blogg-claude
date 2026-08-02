@@ -1,6 +1,6 @@
 ---
 title: "How to Light a Small Apartment at Night: Two Zones, One Warm Glow"
-description: "Viewed from above at night, this small apartment shows how a copper tripod lamp, a copper dome pendant, warm wood furniture and city lights through the window create one of the most inviting interiors imaginable."
+description: "Viewed from above at night, this small apartment shows how a copper tripod lamp, a copper dome pendant, warm wood furniture and city lights through the window come together into one warm, coordinated glow."
 category: "Small Apartments"
 tags: ["apartment lighting", "evening lighting", "copper pendant", "tripod lamp", "small apartment", "night atmosphere", "cosy lighting"]
 date: "2026-04-30"
@@ -17,7 +17,7 @@ The key to this apartment's evening atmosphere is that the living zone and the d
 
 ## The copper dome: a unifying choice
 
-The copper dome shade — whether on a floor lamp or a pendant — is one of the most consistently effective choices in small-apartment interior design. The reflective interior of the copper dome bounces warm amber light downward and inward, while the outside of the dome remains relatively dark. This means the light is concentrated where you need it (the sofa, the table) without spilling everywhere and washing out the room's atmosphere.
+The copper dome shade — whether on a floor lamp or a pendant — earns its place because the reflective interior bounces warm amber light downward and inward, while the outside of the dome remains relatively dark. This means the light is concentrated where you need it (the sofa, the table) without spilling everywhere and washing out the room's atmosphere.
 
 ## The triangular coffee table base
 

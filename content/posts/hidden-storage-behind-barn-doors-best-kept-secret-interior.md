@@ -9,7 +9,7 @@ affiliate: false
 featured: false
 ---
 
-Behind those beautiful sliding barn doors is one of the most satisfying interior solutions you can install: a full wall of organised shelving that disappears completely when the doors are closed. When open, it reveals books, baskets, bottles, candles and plants — a curated display of everything you actually own. When closed, the living room is calm and uncluttered.
+Behind those sliding barn doors is a full wall of organised shelving that disappears completely when the doors are closed. When open, it reveals books, baskets, bottles, candles and plants — a curated display of everything you actually own. When closed, the living room is calm and uncluttered.
 
 ## Why barn doors work for storage
 

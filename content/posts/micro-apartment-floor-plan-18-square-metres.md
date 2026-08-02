@@ -29,7 +29,7 @@ The work desk at the bottom of the apartment — a clean, slim surface with just
 
 ## Interior tips
 
-- **Single colour for the bathroom enclosure**: a strong colour on the bathroom wall (blue here) is one of the most effective ways to demarcate the bathroom in an open or semi-open layout without a full wall. It signals a zone change more clearly than any architectural detail could.
+- **Single colour for the bathroom enclosure**: a strong colour on the bathroom wall (blue here) demarcates the bathroom in an open or semi-open layout without needing a full wall. It signals a zone change more clearly than any architectural detail could.
 - **Open shelving above a micro-kitchen** keeps the visual height of the kitchen walls alive and prevents the overhead storage from pressing down on an already narrow space.
 - **A small round table between zones** serves as both a dining table and a surface that can be pulled toward whichever zone needs it — kitchen prep, desk overflow, bedside reading. Round tables have no awkward corners in tight spaces.
 - **Keep all materials within the same pale palette**: light oak, white, grey and cream. In a room this small, introducing a second material family (dark wood, pattern, colour) doubles the visual complexity. Monotonal is not boring here — it's essential.

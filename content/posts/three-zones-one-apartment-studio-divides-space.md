@@ -13,7 +13,7 @@ Standing in the hallway of this apartment and looking in, three distinct spaces 
 
 ## The sage green bedroom wall
 
-The back wall of the bedroom is painted in a deep, muted sage green — the darkest element in an otherwise neutral room, and the most deliberate. This single painted wall does the work of an entire room: it defines the sleeping area as a separate zone, creates a mood distinct from the living space, and gives the bed an anchored, finished quality it wouldn't have against a plain white wall. One dark feature wall in a studio apartment is one of the most effective and least reversible ways to create genuine spatial division.
+The back wall of the bedroom is painted in a deep, muted sage green — the darkest element in an otherwise neutral room, and the most deliberate. This single painted wall does the work of an entire room: it defines the sleeping area as a separate zone, creates a mood distinct from the living space, and gives the bed an anchored, finished quality it wouldn't have against a plain white wall. One dark feature wall in a studio apartment creates genuine spatial division more effectively than most changes short of an actual wall — and, unlike a wall, it's just paint.
 
 ## The bookshelf as divider
 

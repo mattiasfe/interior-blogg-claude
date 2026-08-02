@@ -23,7 +23,7 @@ If a full raw plaster finish is out of budget or scope, lime-wash paint — avai
 
 A relaxed, slipcover-style sofa in dusty blue linen is the centrepiece of the room. The slipcover silhouette — slightly gathered, not rigidly tailored — suits the aesthetic perfectly. It says ease rather than formality, and it works with the slightly imperfect plaster wall rather than against it.
 
-Dusty blue is one of the most versatile sofa colours you can choose for a neutral-toned room. It reads as a neutral itself in certain lights — somewhere between grey and blue — but brings colour when you need it. Against warm stone tones and terracotta, it is particularly beautiful.
+Dusty blue works especially well as a sofa colour in a neutral-toned room. It reads as a neutral itself in certain lights — somewhere between grey and blue — but brings colour when you need it. Against warm stone tones and terracotta, it is particularly beautiful.
 
 When shopping for a linen sofa in this style, look for removable, washable covers. Slipcover sofas from IKEA (the SÖDERHAMN with a custom cover from Bemz or Comfort Works) are a practical option at a reasonable price.
 

@@ -1,6 +1,6 @@
 ---
 title: "The Wall-Mounted Blanket Rack: Beautiful Throw Storage That Doubles as Decor"
-description: "A tall dark wooden wall rack holds eight neatly rolled and folded throws in different colours and textures — and it looks stunning. Here's why this is one of the most satisfying storage ideas for a living room."
+description: "A tall dark wooden wall rack holds eight neatly rolled and folded throws in different colours and textures — and it looks stunning. Here's why displaying blankets beats storing them out of sight."
 category: "Furniture Solutions"
 tags: ["blanket storage", "throw rack", "wall storage", "living room storage", "textile display", "cosy home", "blanket organisation"]
 date: "2026-06-23"

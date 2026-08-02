@@ -1,6 +1,6 @@
 ---
 title: "The Beauty of Imperfection: Vintage Furniture With Worn, Layered Paint"
-description: "A settee built from reclaimed painted panels, a flaking green wall, a worn leather trunk — here's why imperfect vintage pieces make some of the most beautiful interiors."
+description: "A settee built from reclaimed painted panels, a flaking green wall, a worn leather trunk — here's why imperfect vintage pieces can outshine anything new."
 category: "Inspiration"
 tags: ["vintage furniture", "reclaimed", "worn paint", "bohemian", "upcycling", "antique style"]
 date: "2026-01-15"
@@ -9,7 +9,7 @@ affiliate: false
 featured: false
 ---
 
-This image stops you in your tracks. A settee constructed from old painted panels — green, red, yellow — with cushions covered in layers of flaking colour. Above it, a vintage black metal trunk. A brass lamp with a concrete base. A planter spilling greenery down the wall. And behind everything, a wall where the plaster is peeling away to reveal layers of old paint beneath. It is deliberately, unapologetically imperfect — and it is stunning.
+A settee constructed from old painted panels — green, red, yellow — with cushions covered in layers of flaking colour. Above it, a vintage black metal trunk. A brass lamp with a concrete base. A planter spilling greenery down the wall. And behind everything, a wall where the plaster is peeling away to reveal layers of old paint beneath. It is deliberately, unapologetically imperfect — and it is stunning.
 
 ## Why worn paint works
 
@@ -30,7 +30,7 @@ This room embodies wabi-sabi — the Japanese philosophy of finding beauty in im
 - **Leave walls with texture** — rather than patching and repainting every crack, consider whether the texture adds character. Old lime plaster in muted tones is a design feature, not a maintenance problem.
 - **Combine metals loosely**: brass, iron and aged steel together read as a collected aesthetic rather than a matched set.
 - **Use loose, unstructured cushions** in muted, faded tones — tight, pristine cushions on a worn settee look incongruous.
-- **Bring in living plants** to balance all the aged material — greenery and fresh growth against worn surfaces is one of the most beautiful contrasts in interior design.
+- **Bring in living plants** to balance all the aged material — fresh growth against worn, faded surfaces is a contrast that never stops working.
 - **Source pieces from antique markets and salvage yards**, not reproduction vintage stores. The real thing has a depth that imitations never quite achieve.
 
 ## Where to find genuinely aged pieces

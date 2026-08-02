@@ -73,7 +73,7 @@ Candles in a small space deserve more attention than they typically get. Simple 
 
 ## Interior tips
 
-- **Put all your main lights on dimmers** — this single change gives you complete control over the mood in every room and is one of the most impactful upgrades in a small apartment.
+- **Put all your main lights on dimmers** — this single change gives you complete control over the mood in every room, and it's cheap relative to what it does.
 - **A round mirror on the wall** reflects candlelight and lamplight back into the room, making the space feel twice as bright without adding another light source.
 - **Under-cabinet LED strips in the kitchen** are inexpensive to install and completely change how the kitchen looks in the evening — the countertop becomes lit from above and below simultaneously.
 - **Keep the dining nook small**: a two-person table with two chairs, tucked into a corner with a lamp overhead, creates a restaurant-like intimacy that a larger dining setup can't match.

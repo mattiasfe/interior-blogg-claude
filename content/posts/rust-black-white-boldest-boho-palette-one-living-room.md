@@ -21,7 +21,7 @@ The sofa here sits almost directly on the floor — a low platform style with ve
 
 ## The circular wall tapestry
 
-The large woven wall tapestry in black and natural fibre — a sunburst or mandala pattern with a hanging fringe border — is the room's visual anchor. At approximately 100–120 cm in diameter, it fills the wall section above the sofa with enough presence to function as the room's centrepiece. Circular wall art above a sectional sofa is one of the most effective framing devices in interior design: the curve of the circle echoes the curve of the corner sofa, creating a visual conversation between wall and floor.
+The large woven wall tapestry in black and natural fibre — a sunburst or mandala pattern with a hanging fringe border — is the room's visual anchor. At approximately 100–120 cm in diameter, it fills the wall section above the sofa with enough presence to function as the room's centrepiece. Circular wall art above a sectional sofa works because the curve of the circle echoes the curve of the corner sofa, creating a visual conversation between wall and floor.
 
 ## Rattan and raw wood as structure
 

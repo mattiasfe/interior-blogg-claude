@@ -9,7 +9,7 @@ affiliate: true
 featured: false
 ---
 
-At the centre of this living room is one of the most extraordinary coffee tables imaginable: a carved antique Indian grain wheel — the kind historically used for processing grain — mounted horizontally on short legs. The wheel is dark, aged wood with intricate geometric carvings around its circumference and spokes radiating from the centre. On top of it, a large terracotta-toned ceramic vessel and a slender ceramic jug. Rising from behind the table: a tall green cactus. To the left: a bird of paradise in full leaf. To the right: another large-leafed tropical. Behind the sofa: a carved arched Moroccan-style wooden panel, leaning against the wall. Above: a rattan dome pendant. On the floor: a large circular jute rug. Everything in this room has been chosen to let that wheel table be the hero.
+At the centre of this living room sits a carved antique Indian grain wheel — the kind historically used for processing grain — mounted horizontally on short legs. The wheel is dark, aged wood with intricate geometric carvings around its circumference and spokes radiating from the centre. On top of it, a large terracotta-toned ceramic vessel and a slender ceramic jug. Rising from behind the table: a tall green cactus. To the left: a bird of paradise in full leaf. To the right: another large-leafed tropical. Behind the sofa: a carved arched Moroccan-style wooden panel, leaning against the wall. Above: a rattan dome pendant. On the floor: a large circular jute rug. Everything in this room has been chosen to let that wheel table be the hero.
 
 ## What makes a statement piece work
 
@@ -17,7 +17,7 @@ A statement piece is an object so distinctive that it determines the character o
 
 ## The antique grain wheel
 
-Traditional Indian grain wheels (chakra charkhi) were agricultural tools — heavy, hardwood, elaborately carved because craftsmanship was applied to everything, even tools. When removed from context and mounted on legs, they become one of the most striking coffee tables available, combining genuine age and history with a form that's inherently beautiful. Sourcing these requires specialist antique dealers, Indian furniture importers, or online platforms like Etsy and Chairish.
+Traditional Indian grain wheels (chakra charkhi) were agricultural tools — heavy, hardwood, elaborately carved because craftsmanship was applied to everything, even tools. When removed from context and mounted on legs, they make a striking coffee table, combining genuine age and history with a form that's inherently beautiful. Sourcing these requires specialist antique dealers, Indian furniture importers, or online platforms like Etsy and Chairish.
 
 ## The cactus as the vertical element
 

@@ -55,7 +55,7 @@ A clear furniture wax applied over worn paint seals the surface without changing
 
 A wall with a rough or imperfect plaster texture, as seen here, suits a distressed vintage piece perfectly. A fresh, smooth white wall would make the same cabinet look incongruous — too old for its surroundings. If your walls are very clean and modern, consider a textured paint finish or limewashing a single wall to create a surface the vintage piece can sit comfortably against.
 
-Limewashing a single wall is one of the most affordable ways to add texture and character to a room. Ready-mixed limewash paint is available from most DIY retailers and can be applied over existing paint. The result — slightly uneven, slightly chalky, with natural variation in tone — is exactly the kind of background a vintage cabinet deserves.
+Limewashing a single wall is a cheap way to add texture and character to a room relative to what it does. Ready-mixed limewash paint is available from most DIY retailers and can be applied over existing paint. The result — slightly uneven, slightly chalky, with natural variation in tone — is exactly the kind of background a vintage cabinet deserves.
 
 ## Building a corner around the cabinet
 

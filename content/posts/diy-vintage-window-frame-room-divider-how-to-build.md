@@ -25,7 +25,7 @@ A chalky white or off-white paint applied directly over the original timber (no 
 
 ## Plants in the lower panels
 
-The small potted plants sitting in the lower recesses of the frame panels are one of the most inventive details of this piece. The solid or partial-glass lower panels of old window frames often have a natural ledge or recess that holds a small pot without any modification needed. Ferns, small succulents and trailing plants all work well in this position.
+The small potted plants sitting in the lower recesses of the frame panels are the detail that makes this piece feel finished rather than just functional. The solid or partial-glass lower panels of old window frames often have a natural ledge or recess that holds a small pot without any modification needed. Ferns, small succulents and trailing plants all work well in this position.
 
 ## Interior tips
 

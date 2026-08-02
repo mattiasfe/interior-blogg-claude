@@ -1,6 +1,6 @@
 ---
 title: "DIY Reclaimed Wood Bar Table: How to Build a Rustic Kitchen Island"
-description: "A bar table built from reclaimed scaffold planks with open shelving underneath is one of the most satisfying DIY projects — and one of the most useful additions to a small kitchen."
+description: "A bar table built from reclaimed scaffold planks with open shelving underneath — a weekend build that earns its keep in a small kitchen."
 category: "Furniture Solutions"
 tags: ["DIY", "reclaimed wood", "bar table", "kitchen island", "scaffold boards", "rustic furniture"]
 date: "2026-05-07"

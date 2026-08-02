@@ -31,6 +31,6 @@ The kitchen section is visible in the background: white upper cabinets, stainles
 
 - **A full bookshelf looks alive**: the shelves here are dense with books, and it's this density that creates the warmth. A half-full shelf looks hesitant; a shelf loaded with books that have actually been read looks like someone lives there.
 - **Let your rug set the room's colour palette**: the teal, rust and cream of the Persian rug is echoed in the cushions, the candlelight and the small objects throughout the room. Start with the rug and choose everything else from it.
-- **String lights are not a teenage bedroom choice**: used thoughtfully, above a gallery wall or draped across a window, string lights are one of the most effective warm light sources available. LED string lights at 2700K are perfect.
+- **String lights are not a teenage bedroom choice**: used thoughtfully, above a gallery wall or draped across a window, they read as a genuine warm light source, not a decoration. LED string lights at 2700K are perfect.
 - **Ethnic cushions need no matching**: the mix of rust block-print, navy geometric and cream textured cushions on the sofa here is deliberately varied. The unifying factor is the warm-toned palette, not any pattern match.
 - **A kitchen island visible from the living room** should be styled as furniture, not just as a worktop. A small plant, a clean jar or a wooden cutting board on display treats the island as part of the home, not just as a kitchen surface.

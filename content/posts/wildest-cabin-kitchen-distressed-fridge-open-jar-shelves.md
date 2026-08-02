@@ -1,6 +1,6 @@
 ---
 title: "The Wildest Cabin Kitchen: Distressed Fridge, Open Jar Shelves and a Forest View"
-description: "A vintage fridge with paint stripped to bare metal, open pine shelves with glass preservation jars, a cast iron range with an oversized duct hood, and a view of the forest through large steel windows — this cabin kitchen is utterly extraordinary."
+description: "A vintage fridge with paint stripped to bare metal, open pine shelves with glass preservation jars, a cast iron range with an oversized duct hood, and a view of the forest through large steel windows — a kitchen built up over years, not decorated in one."
 category: "Inspiration"
 tags: ["cabin kitchen", "rustic kitchen", "vintage fridge", "open shelves", "glass jars", "cabin decor", "reclaimed wood kitchen"]
 date: "2026-04-09"
@@ -9,7 +9,7 @@ affiliate: true
 featured: false
 ---
 
-There is a vintage refrigerator in this kitchen that has lost most of its paint. What remains is a skin of raw red paint in patches, peeling back to reveal the bare cream enamel beneath and in some areas the metal itself. It is one of the most characterful objects in any kitchen imaginable. Around it: open pine shelves packed with glass preservation jars containing dried goods — rice, pulses, spices, seeds, herbs — all labelled and catching the light from the large forest-facing steel window beside them. A black cast iron range with a galvanised steel duct hood dominates the back wall. The ceiling is exposed timber beams. The walls are raw wood planks. The floor is wide-plank pine. A rustic dining table with bentwood chairs sits in the foreground. A hanging glass jar light provides overhead light. This is not a kitchen designed by an interior decorator. It has been assembled, and it has been lived in.
+There is a vintage refrigerator in this kitchen that has lost most of its paint. What remains is a skin of raw red paint in patches, peeling back to reveal the bare cream enamel beneath and in some areas the metal itself. Few kitchen objects carry this much character. Around it: open pine shelves packed with glass preservation jars containing dried goods — rice, pulses, spices, seeds, herbs — all labelled and catching the light from the large forest-facing steel window beside them. A black cast iron range with a galvanised steel duct hood dominates the back wall. The ceiling is exposed timber beams. The walls are raw wood planks. The floor is wide-plank pine. A rustic dining table with bentwood chairs sits in the foreground. A hanging glass jar light provides overhead light. This is not a kitchen designed by an interior decorator. It has been assembled, and it has been lived in.
 
 ## The vintage refrigerator as a character piece
 

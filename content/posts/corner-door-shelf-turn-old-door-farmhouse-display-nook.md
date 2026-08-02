@@ -1,6 +1,6 @@
 ---
 title: "The Corner Door Shelf: How to Turn an Old Door Into a Farmhouse Display Nook"
-description: "An antique whitewashed door opens into a hallway corner, revealing three shelves fitted to its inner face — holding oil lamps, dried flowers and glass vases. This is one of the most creative DIY upcycling ideas for an entryway."
+description: "An antique whitewashed door opens into a hallway corner, revealing three shelves fitted to its inner face — holding oil lamps, dried flowers and glass vases. Here's how to build the same display nook from an old door."
 category: "Inspiration"
 tags: ["door shelf", "corner shelf", "upcycling", "farmhouse decor", "hallway decor", "vintage door", "DIY shelf"]
 date: "2026-03-26"

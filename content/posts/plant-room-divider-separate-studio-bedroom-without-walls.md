@@ -9,7 +9,7 @@ affiliate: false
 featured: false
 ---
 
-The wooden-framed panel with hanging potted plants in this studio does something remarkable: it creates a clear visual separation between the bedroom and living area without blocking light, without making the space smaller, and without any permanent construction. It is one of the most elegant small-apartment solutions in current interior design.
+The wooden-framed panel with hanging potted plants in this studio does something remarkable: it creates a clear visual separation between the bedroom and living area without blocking light, without making the space smaller, and without any permanent construction. It's a solution that costs little and requires no permission from a landlord.
 
 ## Why a plant divider works in a studio
 

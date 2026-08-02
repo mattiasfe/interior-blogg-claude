@@ -9,7 +9,7 @@ affiliate: false
 featured: false
 ---
 
-This bathroom should not work as well as it does. Dark green subway tiles floor-to-ceiling in the shower. A deep forest green vanity with a warm oak countertop. A round stone vessel sink. A single Edison bulb on a black wall sconce. Candles everywhere. Plants in every corner and on every surface. And yet it is one of the most beautiful bathrooms imaginable — moody, warm, spa-like and deeply personal.
+This bathroom should not work as well as it does. Dark green subway tiles floor-to-ceiling in the shower. A deep forest green vanity with a warm oak countertop. A round stone vessel sink. A single Edison bulb on a black wall sconce. Candles everywhere. Plants in every corner and on every surface. And yet it works — moody, warm, spa-like and deeply personal.
 
 ## Deep green tiles: committing to colour
 

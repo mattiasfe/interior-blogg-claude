@@ -1,6 +1,6 @@
 ---
 title: "The C-Table: The Slim Side Table That Slots Right Next to Your Sofa"
-description: "A narrow dark oak C-table slides beside the sofa arm to give you a surface at exactly the right height — with open cubbies below for books and remotes. Here's why this is one of the most useful pieces of furniture in a small living room."
+description: "A narrow dark oak C-table slides beside the sofa arm to give you a surface at exactly the right height — with open cubbies below for books and remotes. Here's why it earns its keep in a small living room."
 category: "Furniture Solutions"
 tags: ["C-table", "side table", "sofa table", "living room storage", "small living room", "dark oak furniture", "multifunctional"]
 date: "2026-06-21"
