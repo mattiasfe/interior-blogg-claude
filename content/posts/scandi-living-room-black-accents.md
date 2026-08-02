@@ -13,7 +13,7 @@ Most Scandinavian living rooms lean hard into white and light. This one takes a 
 
 ## The cream sofa as the foundation
 
-A large cream or off-white sectional is one of the most versatile pieces of furniture you can buy. It reads as neutral but not cold, it photographs beautifully, and it accepts any accent colour you introduce around it. Here, the sofa is styled with a mix of cushions — dark olive green, black, and natural linen — that pull the room's colour story together without making the sofa itself feel busy.
+A large cream or off-white sectional reads as neutral but not cold, photographs beautifully, and accepts any accent colour you introduce around it — which is why it works as a foundation piece in almost any room. Here, the sofa is styled with a mix of cushions — dark olive green, black, and natural linen — that pull the room's colour story together without making the sofa itself feel busy.
 
 When choosing a cream sofa, look for a performance linen blend rather than pure cotton. Performance fabrics resist staining far better and hold their colour through years of use. A deep seat depth — 60 cm or more — makes the sofa feel genuinely generous. Avoid anything too pale or too warm: the best cream reads as almost white in bright light but picks up warmth from candles and lamps in the evening.
 
@@ -33,7 +33,7 @@ Frame them in thin black frames with a cream mount for a clean, considered resul
 
 ## The olive tree
 
-An indoor olive tree in the corner is one of the most effective single purchases you can make for a Scandinavian living room. It is architectural — tall, branching, full of character — but also alive, which softens everything around it. Olive trees tolerate indoor conditions well: bright indirect light, moderate watering, and a position away from radiators.
+An indoor olive tree in the corner does more for a Scandinavian living room than most single purchases: it's architectural — tall, branching, full of character — but also alive, which softens everything around it. Olive trees tolerate indoor conditions well: bright indirect light, moderate watering, and a position away from radiators.
 
 A ribbed ceramic pot in cream or grey keeps the look coherent. Avoid terracotta here — it would shift the palette toward warmth the room does not want.
 

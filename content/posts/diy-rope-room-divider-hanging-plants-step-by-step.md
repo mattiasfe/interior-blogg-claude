@@ -1,6 +1,6 @@
 ---
 title: "DIY Rope Room Divider With Hanging Plants: Step by Step"
-description: "A rope grid hung with plants in glass jars is one of the most striking DIY projects you can do at home. Here's how to build one — and make it look this good."
+description: "A rope grid hung with plants in glass jars makes a soft, living room divider. Here's how to build one — and make it look this good."
 category: "Inspiration"
 tags: ["room divider", "DIY", "hanging plants", "rope", "farmhouse", "boho decor"]
 date: "2026-04-30"

@@ -1,6 +1,6 @@
 ---
 title: "DIY Upcycled Door Bookshelf: How to Turn an Old Door Into Beautiful Storage"
-description: "An antique door with distressed teal paint, fitted with wooden shelves and styled with plants and books — this is one of the most original upcycling projects you can make for your home."
+description: "An antique door with distressed teal paint, fitted with wooden shelves and styled with plants and books — how to turn a salvaged door into a genuinely original bookshelf."
 category: "Inspiration"
 tags: ["upcycling", "DIY", "door bookshelf", "distressed paint", "vintage furniture", "bookshelf", "repurposed furniture"]
 date: "2026-03-19"
@@ -9,7 +9,7 @@ affiliate: true
 featured: false
 ---
 
-Someone took an old panelled door — the kind with deep rectangular mouldings, painted long ago in a dusty teal-turquoise that has since worn through to bare wood in patches — and fitted it with horizontal shelves. The lower half of the door, where the original panels form a natural cabinet shape, has been left intact. The upper half opens up to display shelves holding plants in white ceramic pots, stacked books, a small framed photo and a few quiet objects. The original black door handles are still in place. It leans against the wall rather than being wall-mounted — held upright by its own weight and the furniture around it. It is entirely original and deeply satisfying.
+Someone took an old panelled door — the kind with deep rectangular mouldings, painted long ago in a dusty teal-turquoise that has since worn through to bare wood in patches — and fitted it with horizontal shelves. The lower half of the door, where the original panels form a natural cabinet shape, has been left intact. The upper half opens up to display shelves holding plants in white ceramic pots, stacked books, a small framed photo and a few quiet objects. The original black door handles are still in place. It leans against the wall rather than being wall-mounted — held upright by its own weight and the furniture around it.
 
 ## Why a door works as a bookshelf
 

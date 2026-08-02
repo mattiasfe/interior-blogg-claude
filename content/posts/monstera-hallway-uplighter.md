@@ -15,7 +15,7 @@ It takes four elements. Here is how each one works.
 
 ## The monstera as the centrepiece
 
-A large, mature monstera deliciosa is one of the most architectural indoor plants available. Its split leaves — the fenestrations that develop as the plant matures — catch light from multiple angles and cast beautiful shadows on the wall behind them. In a hallway, where there is often only one wall to work with, a monstera makes that wall extraordinary.
+A large, mature monstera deliciosa reads as architecture more than foliage. Its split leaves — the fenestrations that develop as the plant matures — catch light from multiple angles and cast beautiful shadows on the wall behind them. In a hallway, where there is often only one wall to work with, a monstera makes that wall extraordinary.
 
 For this effect, you need a plant that is genuinely large: a stem height of at least 80–100 cm, with leaves spanning 50 cm or more. Young monsteras do not have the same impact. Look for mature specimens at specialist plant shops rather than garden centres — they cost more but the effect is immediate.
 
@@ -35,7 +35,7 @@ LED uplighters designed for plant highlighting are available widely and draw ver
 
 ## The wall sconce
 
-A cylindrical wall sconce above and to one side of the monstera adds a second light source and a graphic element on the wall. This type of sconce — a simple cylinder that throws light up and down — is one of the most versatile wall lights available. It creates two cones of warm light rather than a broad wash, which is more interesting and more flattering.
+A cylindrical wall sconce above and to one side of the monstera adds a second light source and a graphic element on the wall. This type of sconce — a simple cylinder that throws light up and down — creates two cones of warm light rather than a broad wash, which is more interesting and more flattering.
 
 Position the sconce at around 160–170 cm from the floor — eye height or just above. This ensures the upward beam lights the ceiling rather than hitting a wall too close and creating a harsh spot.
 
@@ -51,7 +51,7 @@ A low, wooden sideboard with slatted or rattan-panel doors grounds the display a
 
 ## Lighting the hallway as a whole
 
-Three light sources — the overhead (implied), the wall sconce, and the uplighter — work together to create a layered lighting scheme in what is often one of the most poorly lit spaces in a home. The hallway should not be uniformly bright. It should have areas of warmth and shadow, a focal point of light (the plant), and enough ambient light to be functional.
+Three light sources — the overhead (implied), the wall sconce, and the uplighter — work together to create a layered lighting scheme in a space that's usually an afterthought. The hallway should not be uniformly bright. It should have areas of warmth and shadow, a focal point of light (the plant), and enough ambient light to be functional.
 
 If your hallway has no ceiling rose for a pendant, a plug-in wall sconce is a straightforward alternative — no electrician required, and the cable can be run neatly along the skirting or wall.
 

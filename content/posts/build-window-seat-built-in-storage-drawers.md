@@ -1,6 +1,6 @@
 ---
 title: "How to Build a Window Seat With Built-In Storage Drawers"
-description: "A window seat with drawers underneath is one of the most rewarding home projects you can do — it adds seating, storage and a beautiful reading nook all at once."
+description: "A window seat with drawers underneath adds seating, storage and a reading nook in the space a window usually leaves empty."
 category: "Furniture Solutions"
 tags: ["window seat", "reading nook", "built-in storage", "drawers", "bay window", "cosy corner"]
 date: "2026-07-15"
@@ -37,7 +37,7 @@ The bookshelf to the right of the window seat is a perfect companion: books to r
 
 ## DIY vs. professional installation
 
-A window seat with drawers is one of the most achievable DIY projects for a competent home improver, but it's worth understanding what you're taking on before you start.
+A window seat with drawers is within reach for a competent home improver, but it's worth understanding what you're taking on before you start.
 
 The simplest approach — and the one that works well in rented homes — is the "furniture stack" method: buy a low storage unit (like IKEA's KALLAX or similar cube shelving on its side), position it under the window, and top it with a custom-cut foam cushion wrapped in your chosen fabric. This takes a weekend and costs a fraction of a custom build.
 

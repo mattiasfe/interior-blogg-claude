@@ -13,7 +13,7 @@ This studio apartment has a point of view. The vintage patterned rug anchors the
 
 ## The rug as the foundation
 
-In a studio where the bed, sofa and coffee table all share one floor, a large statement rug is one of the most powerful tools you have. Here, a vintage or vintage-style rug with a pattern in navy, terracotta and cream grounds the entire room and gives it visual richness that plain flooring never could. The pattern reads as warmth rather than busyness because the colours are muted and earthy.
+In a studio where the bed, sofa and coffee table all share one floor, a large statement rug does more to define the space than almost any other single piece. Here, a vintage or vintage-style rug with a pattern in navy, terracotta and cream grounds the entire room and gives it visual richness that plain flooring never could. The pattern reads as warmth rather than busyness because the colours are muted and earthy.
 
 When choosing a statement rug for a boho interior, look for:
 - **Muted, earthy tones** rather than saturated primary colours — the rug should feel aged even if it's new
@@ -36,7 +36,7 @@ For a plant gallery wall to look intentional rather than accidental, vary the po
 
 ## Macramé as textile art
 
-The macramé hanging on the wall brings texture, warmth and handmade quality to the space. In a studio apartment where you can't easily change structural elements, soft wall hangings are one of the most impactful ways to add character. Macramé works particularly well in boho or eclectic interiors because it introduces natural fibre alongside the plants, rugs and wood tones.
+The macramé hanging on the wall brings texture, warmth and handmade quality to the space. In a studio apartment where you can't easily change structural elements, a soft wall hanging is one of the few ways to add character without touching the walls themselves. Macramé works particularly well in boho or eclectic interiors because it introduces natural fibre alongside the plants, rugs and wood tones.
 
 Size matters with macramé. A small piece on a large wall looks apologetic. Go large — a piece that takes up at least a third of the wall's width — or don't go at all. Large macramé hangings are widely available on Etsy from independent makers, often at more reasonable prices than you'd expect.
 
@@ -64,7 +64,7 @@ The second mistake is buying all the boho props at once from one retailer. A spa
 
 ## Interior tips
 
-- **Mustard and rust cushions** on a grey sofa is one of the most reliable colour combinations in boho decorating — warm enough to feel lived-in, distinct enough to feel considered.
+- **Mustard and rust cushions** on a grey sofa is a dependable boho combination — warm enough to feel lived-in, distinct enough to feel considered.
 - **A reclaimed wood coffee table** with a rough surface and visible grain suits this style perfectly — smooth, lacquered surfaces feel too polished for a boho aesthetic.
 - **Mix your plant types**: tall architectural plants (fiddle leaf, snake plant) alongside trailing varieties (pothos, heartleaf philodendron) create visual layering that a collection of identical plants can't achieve.
 - **A TV unit with open shelves** allows you to display books and plants alongside the practical equipment — it blends the technology into the decor rather than making it the room's focal point.

@@ -1,6 +1,6 @@
 ---
 title: "The DIY Pallet Bench With Built-In Bookshelves: A Weekend Project Worth Making"
-description: "A long reading bench built from reclaimed pallet wood with open bookshelf storage below the seat and a tall shelf beside it — this is one of the most satisfying DIY projects for any book lover."
+description: "A long reading bench built from reclaimed pallet wood with open bookshelf storage below the seat and a tall shelf beside it — a weekend project worth making if you have more books than shelf space."
 category: "Furniture Solutions"
 tags: ["DIY", "pallet furniture", "reading bench", "bookshelf bench", "reclaimed wood", "home library", "rustic DIY"]
 date: "2026-03-05"

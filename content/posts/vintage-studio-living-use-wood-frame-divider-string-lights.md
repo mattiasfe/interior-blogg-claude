@@ -1,6 +1,6 @@
 ---
 title: "Vintage Studio Living: How to Use a Wood-Frame Divider With String Lights"
-description: "A wood-frame open shelf divider with fairy lights is one of the most personal and creative ways to separate a studio apartment — here's how to build and style one."
+description: "A wood-frame open shelf divider with fairy lights separates a studio apartment without a wall — here's how to build and style one."
 category: "Small Apartments"
 tags: ["studio apartment", "room divider", "string lights", "vintage decor", "wood frame", "eclectic style"]
 date: "2026-06-18"
@@ -29,7 +29,7 @@ The key is repetition of material: the glass bottles share a language, the books
 
 ## The vintage TV as decor
 
-A retro television — cathode-ray, rounded corners, warm plastic — is one of the most characterful objects you can display. It's functional and nostalgic simultaneously. Against the warm-toned wood shelving, a vintage TV reads as an intentional choice rather than a leftover.
+A retro television — cathode-ray, rounded corners, warm plastic — is functional and nostalgic at once, which is rare in a display object. Against the warm-toned wood shelving, a vintage TV reads as an intentional choice rather than a leftover.
 
 ## Interior tips
 
