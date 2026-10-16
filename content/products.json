@@ -1,0 +1,110 @@
+[
+  {
+    "id": "ikea-kallax",
+    "name": "KALLAX shelving unit",
+    "retailer": "IKEA",
+    "category": "storage",
+    "tags": ["shelf", "room divider", "cube storage", "small apartment", "white", "oak effect"],
+    "url": "https://www.ikea.com/no/no/search/?q=kallax",
+    "affiliateUrl": ""
+  },
+  {
+    "id": "ikea-billy",
+    "name": "BILLY bookcase",
+    "retailer": "IKEA",
+    "category": "storage",
+    "tags": ["bookcase", "reading nook", "built-in look", "white", "oak veneer"],
+    "url": "https://www.ikea.com/no/no/search/?q=billy",
+    "affiliateUrl": ""
+  },
+  {
+    "id": "ikea-lack-wall-shelf",
+    "name": "LACK wall shelf",
+    "retailer": "IKEA",
+    "category": "storage",
+    "tags": ["floating shelf", "wall storage", "minimal", "small space"],
+    "url": "https://www.ikea.com/no/no/search/?q=lack%20hylle",
+    "affiliateUrl": ""
+  },
+  {
+    "id": "ikea-friheten",
+    "name": "FRIHETEN corner sofa-bed with storage",
+    "retailer": "IKEA",
+    "category": "seating",
+    "tags": ["sofa bed", "studio apartment", "storage", "guest bed"],
+    "url": "https://www.ikea.com/no/no/search/?q=friheten",
+    "affiliateUrl": ""
+  },
+  {
+    "id": "ikea-poang",
+    "name": "POÄNG armchair",
+    "retailer": "IKEA",
+    "category": "seating",
+    "tags": ["armchair", "reading chair", "bentwood", "birch", "scandinavian classic"],
+    "url": "https://www.ikea.com/no/no/search/?q=poang",
+    "affiliateUrl": ""
+  },
+  {
+    "id": "ikea-hemnes-daybed",
+    "name": "HEMNES daybed with drawers",
+    "retailer": "IKEA",
+    "category": "seating",
+    "tags": ["daybed", "storage drawers", "guest bed", "small bedroom", "white"],
+    "url": "https://www.ikea.com/no/no/search/?q=hemnes%20dagseng",
+    "affiliateUrl": ""
+  },
+  {
+    "id": "ikea-ranarp",
+    "name": "RANARP floor/reading lamp",
+    "retailer": "IKEA",
+    "category": "lighting",
+    "tags": ["reading lamp", "industrial", "black", "off-white", "task lighting"],
+    "url": "https://www.ikea.com/no/no/search/?q=ranarp",
+    "affiliateUrl": ""
+  },
+  {
+    "id": "generic-paper-pendant",
+    "name": "Rice paper pendant lamp",
+    "retailer": "Various",
+    "category": "lighting",
+    "tags": ["pendant", "paper lamp", "soft light", "japandi", "warm glow"],
+    "url": "https://www.ikea.com/no/no/search/?q=papir%20lampeskjerm",
+    "affiliateUrl": ""
+  },
+  {
+    "id": "generic-wool-throw",
+    "name": "Wool or linen throw blanket",
+    "retailer": "Various",
+    "category": "textiles",
+    "tags": ["throw", "hygge", "texture", "neutral", "beige"],
+    "url": "https://www2.hm.com/no_no/search-results.html?q=pledd",
+    "affiliateUrl": ""
+  },
+  {
+    "id": "generic-jute-rug",
+    "name": "Natural jute rug",
+    "retailer": "Various",
+    "category": "textiles",
+    "tags": ["rug", "natural fibre", "texture", "boho", "warm"],
+    "url": "https://www.jysk.no/search?query=jute%20teppe",
+    "affiliateUrl": ""
+  },
+  {
+    "id": "generic-linen-curtains",
+    "name": "Linen-look curtains",
+    "retailer": "Various",
+    "category": "textiles",
+    "tags": ["curtains", "soft light", "privacy", "neutral"],
+    "url": "https://www2.hm.com/no_no/search-results.html?q=linengardin",
+    "affiliateUrl": ""
+  },
+  {
+    "id": "generic-plant-stand",
+    "name": "Wooden plant stand",
+    "retailer": "Various",
+    "category": "decor",
+    "tags": ["plants", "green", "biophilic", "boho", "wood"],
+    "url": "https://www.jysk.no/search?query=plantestativ",
+    "affiliateUrl": ""
+  }
+]
