@@ -207,7 +207,9 @@ ${styleExample()}
 
   const response = await client.messages.create({
     model: process.env.STUDIO_MODEL || "claude-sonnet-5",
-    max_tokens: 8000,
+    // The blog body alone runs 500-800 words; 8000 left no headroom and a long
+    // draft silently truncated the tool JSON mid-object.
+    max_tokens: 16000,
     system,
     tools: [resultTool],
     tool_choice: { type: "tool", name: resultTool.name },
@@ -227,6 +229,15 @@ ${styleExample()}
     ],
   });
 
+  // A response cut off at the token limit still carries a tool_use block, but
+  // its JSON is incomplete. Catch that here rather than letting a missing field
+  // surface later as an unreadable TypeError.
+  if (response.stop_reason === "max_tokens") {
+    throw new Error(
+      "Svaret fra Claude ble avkortet (traff max_tokens), så analysen er ufullstendig. Prøv igjen, eller be om et kortere bloggutkast i notatfeltet."
+    );
+  }
+
   const toolUse = response.content.find(
     (block): block is Anthropic.ToolUseBlock => block.type === "tool_use"
   );
@@ -234,7 +245,8 @@ ${styleExample()}
     throw new Error(`Claude svarte uten strukturert resultat (stop_reason: ${response.stop_reason})`);
   }
 
-  const result = toolUse.input as StudioResult;
+  const result = assertComplete(toolUse.input as Partial<StudioResult>);
+
   const validIds = new Set(getCatalog().map((p) => p.id));
   result.suggestions = result.suggestions.map((s) => ({
     ...s,
@@ -242,6 +254,31 @@ ${styleExample()}
   }));
   result.post.slug = slugify(result.post.slug || result.post.title);
   return result;
+}
+
+/**
+ * Verifies the fields the rest of the pipeline dereferences. Without this a
+ * partial result fails deep inside slugify or the UI with no hint of the cause.
+ */
+function assertComplete(result: Partial<StudioResult>): StudioResult {
+  const missing: string[] = [];
+  if (!result.room) missing.push("room");
+  if (!Array.isArray(result.suggestions)) missing.push("suggestions");
+  if (!result.pin?.title) missing.push("pin.title");
+  if (!result.pin?.board) missing.push("pin.board");
+  if (!result.post) missing.push("post");
+  else {
+    if (!result.post.title) missing.push("post.title");
+    if (!result.post.body) missing.push("post.body");
+    if (!result.post.category) missing.push("post.category");
+  }
+
+  if (missing.length > 0) {
+    throw new Error(
+      `Claude returnerte et ufullstendig resultat — mangler: ${missing.join(", ")}. Prøv analysen på nytt.`
+    );
+  }
+  return result as StudioResult;
 }
 
 export function slugify(input: string): string {

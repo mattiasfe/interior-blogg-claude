@@ -2,6 +2,7 @@
 
 import { useCallback, useEffect, useRef, useState } from "react";
 import type { CatalogProduct, StudioResult } from "@/lib/studio";
+import { buildPinImage } from "./pinImage";
 
 type Status = "idle" | "analyzing" | "ready" | "saving" | "saved" | "error";
 
@@ -86,6 +87,7 @@ export default function StudioClient({ isOwner, used, quota }: StudioClientProps
   const [publishing, setPublishing] = useState(false);
   const [publishedUrl, setPublishedUrl] = useState("");
   const [pinError, setPinError] = useState("");
+  const [pinPreview, setPinPreview] = useState("");
 
   const loadFile = useCallback(async (file?: File) => {
     if (!file || !file.type.startsWith("image/")) return;
@@ -128,12 +130,29 @@ export default function StudioClient({ isOwner, used, quota }: StudioClientProps
     setBoardUnmatched(!match);
   }, [result, pinterest.boards]);
 
+  // Re-render the 2:3 preview as the title is edited, so what you see is what
+  // gets published. Debounced because it redraws a 1000x1500 canvas.
+  useEffect(() => {
+    if (!result || !image) {
+      setPinPreview("");
+      return;
+    }
+    const timer = setTimeout(() => {
+      buildPinImage(image.preview, result.pin.title)
+        .then((p) => setPinPreview(p.preview))
+        .catch(() => setPinPreview(""));
+    }, 300);
+    return () => clearTimeout(timer);
+  }, [result, image]);
+
   async function publishPin() {
     if (!result || !image || !boardId) return;
     setPublishing(true);
     setPinError("");
     setPublishedUrl("");
     try {
+      // Publish the 2:3 render, not the raw landscape photo.
+      const pinImage = await buildPinImage(image.preview, result.pin.title);
       const res = await fetch("/api/pinterest/pin", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
@@ -143,7 +162,7 @@ export default function StudioClient({ isOwner, used, quota }: StudioClientProps
           description: result.pin.description,
           altText: result.pin.altText,
           link: `https://skandinaviskbo.com/blogg/${result.post.slug}`,
-          image: image.base64,
+          image: pinImage.base64,
         }),
       });
       const data = await res.json();
@@ -402,6 +421,26 @@ export default function StudioClient({ isOwner, used, quota }: StudioClientProps
                 Tavle: {result.pin.board}
               </span>
             </div>
+            {pinPreview && (
+              <div className="mt-4 flex gap-4 rounded-xl bg-cream p-4">
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img
+                  src={pinPreview}
+                  alt="Forhåndsvisning av pin-bildet"
+                  className="w-32 shrink-0 rounded-lg border border-sand shadow-sm"
+                />
+                <div className="text-sm text-ink/70">
+                  <p className="font-semibold text-ink">Pin-bildet (1000 × 1500)</p>
+                  <p className="mt-1">
+                    Bygges automatisk i 2:3 med tittelen under fotoet. Pinterest gir stående
+                    pins vesentlig større rekkevidde enn liggende.
+                  </p>
+                  <p className="mt-1 text-xs text-ink/50">
+                    Bloggens coverbilde bruker fortsatt originalbildet.
+                  </p>
+                </div>
+              </div>
+            )}
             {(["title", "description", "altText"] as const).map((key) => {
               const max = key === "title" ? 100 : 500;
               const label = key === "title" ? "Tittel" : key === "description" ? "Beskrivelse" : "Alt-tekst";
@@ -446,7 +485,7 @@ export default function StudioClient({ isOwner, used, quota }: StudioClientProps
                       Tilkoblet som <span className="font-semibold text-ink">@{pinterest.username}</span>
                       {pinterest.env === "sandbox" && (
                         <span className="ml-2 rounded-full bg-wood/20 px-2 py-0.5 text-[11px] font-semibold text-wood-dark">
-                          Sandbox — pinnene blir ikke synlige offentlig
+                          Sandbox — egne tavler, ingenting blir offentlig
                         </span>
                       )}
                     </p>
@@ -458,6 +497,12 @@ export default function StudioClient({ isOwner, used, quota }: StudioClientProps
                       Koble fra
                     </button>
                   </div>
+                  {pinterest.env === "sandbox" && (
+                    <p className="text-xs text-ink/50">
+                      Dine 19 ekte tavler finnes bare i produksjon. Her vises kun tavler du
+                      oppretter i sandbox — navnet spiller ingen rolle, ingen ser dem.
+                    </p>
+                  )}
                   <label className="block text-sm font-semibold text-ink">
                     Publiser til tavle
                     <select
