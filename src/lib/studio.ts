@@ -4,15 +4,11 @@ import Anthropic from "@anthropic-ai/sdk";
 import { categories, getAllPosts } from "@/lib/posts";
 
 /**
- * Romassistent / Studio — internal content tool.
+ * Romassistent / Studio — the AI content tool behind /studio.
  *
- * Only runs in local development (`npm run dev`). In production every studio
- * route returns 404, so nobody can spend the API key or write files on the
- * live site.
+ * Who may do what lives in src/lib/access.ts: the page is public, running an
+ * analysis needs a subscription, and publishing is owner-only.
  */
-export function isStudioEnabled(): boolean {
-  return process.env.NODE_ENV === "development";
-}
 
 export type CatalogProduct = {
   id: string;
@@ -71,13 +67,28 @@ export function productLink(p: CatalogProduct): string {
   return p.affiliateUrl || p.url;
 }
 
+/**
+ * The real boards on the @diyferger account (read from the Pinterest API).
+ * Keep this in sync with the account: a name that does not exist there means
+ * the studio silently falls back to another board when publishing.
+ * Seasonal and off-topic boards (Christmas, Garden, Reise, Hurtiglagring) and
+ * the protected Products board are left out on purpose.
+ */
 const PINTEREST_BOARDS = [
-  "Scandinavian Interior",
-  "Living Room",
-  "Furniture",
-  "Wood Working",
+  "Scandinavian Living Room",
+  "Living room",
+  "Living Room Ideas",
+  "Apartment Living Room Ideas",
+  "Small Living Room Ideas",
+  "Bedroom",
   "Kitchen",
   "Bathroom",
+  "Home office",
+  "Home gym",
+  "Furniture",
+  "Decor",
+  "Wood Working",
+  "home",
 ];
 
 const resultTool: Anthropic.Tool = {
@@ -195,7 +206,7 @@ ${styleExample()}
 ---`;
 
   const response = await client.messages.create({
-    model: process.env.STUDIO_MODEL || "claude-sonnet-5-5",
+    model: process.env.STUDIO_MODEL || "claude-sonnet-5",
     max_tokens: 8000,
     system,
     tools: [resultTool],

@@ -3,11 +3,11 @@ import path from "path";
 import { NextResponse } from "next/server";
 import {
   buildMarkdown,
-  isStudioEnabled,
   slugify,
   uniqueSlug,
   type StudioResult,
 } from "@/lib/studio";
+import { getStudioSession } from "@/lib/access";
 
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
@@ -19,8 +19,27 @@ export const dynamic = "force-dynamic";
  *  - content/studio/pins/<slug>.json      (Pinterest text to copy into Pinterest)
  */
 export async function POST(request: Request) {
-  if (!isStudioEnabled()) {
-    return new NextResponse("Not found", { status: 404 });
+  // Publishing writes straight into the repo, so it stays an owner action.
+  // Subscribers get the analysis in the browser, not a commit.
+  const session = await getStudioSession();
+  if (session.access === "signed-out") {
+    return NextResponse.json({ error: "Sign in first.", code: "signed-out" }, { status: 401 });
+  }
+  if (!session.isOwner) {
+    return NextResponse.json(
+      { error: "Saving a draft to the blog is reserved for the site owner.", code: "owner-only" },
+      { status: 403 }
+    );
+  }
+  if (process.env.VERCEL) {
+    return NextResponse.json(
+      {
+        error:
+          "Saving writes files into the repo and only works locally. Run the studio with npm run dev to save.",
+        code: "read-only",
+      },
+      { status: 501 }
+    );
   }
 
   try {

@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { ClerkProvider } from "@clerk/nextjs";
 import { DM_Sans, Playfair_Display } from "next/font/google";
 import { Analytics } from "@vercel/analytics/next";
 import { SpeedInsights } from "@vercel/speed-insights/next";
@@ -7,6 +8,7 @@ import "./globals.css";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import CookieConsent from "@/components/CookieConsent";
+import { isAuthConfigured } from "@/lib/access";
 
 const dmSans = DM_Sans({
   subsets: ["latin"],
@@ -55,12 +57,14 @@ export default function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
-  return (
+  const authEnabled = isAuthConfigured();
+
+  const page = (
     <html lang="en">
       <body
         className={`${dmSans.variable} ${playfair.variable} flex min-h-screen flex-col bg-cream font-sans text-ink antialiased`}
       >
-        <Header />
+        <Header authEnabled={authEnabled} />
         <main className="flex-1">{children}</main>
         <Footer />
         <CookieConsent />
@@ -75,4 +79,8 @@ export default function RootLayout({
       </body>
     </html>
   );
+
+  // Without Clerk keys the site renders exactly as before, so the blog never
+  // depends on auth being set up.
+  return authEnabled ? <ClerkProvider>{page}</ClerkProvider> : page;
 }

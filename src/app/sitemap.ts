@@ -4,10 +4,12 @@ import { getAllPosts } from "@/lib/posts";
 const siteUrl = "https://skandinaviskbo.com";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const staticRoutes = ["", "/blogg", "/om-meg", "/samarbeid", "/kontakt"].map((route) => ({
-    url: `${siteUrl}${route}`,
-    lastModified: new Date(),
-  }));
+  const staticRoutes = ["", "/blogg", "/om-meg", "/samarbeid", "/kontakt", "/studio", "/priser"].map(
+    (route) => ({
+      url: `${siteUrl}${route}`,
+      lastModified: new Date(),
+    })
+  );
 
   const postRoutes = getAllPosts().map((post) => ({
     url: `${siteUrl}/blogg/${post.slug}`,

@@ -1,9 +1,19 @@
 "use client";
 
-import { useCallback, useRef, useState } from "react";
+import { useCallback, useEffect, useRef, useState } from "react";
 import type { CatalogProduct, StudioResult } from "@/lib/studio";
 
 type Status = "idle" | "analyzing" | "ready" | "saving" | "saved" | "error";
+
+type PinterestBoard = { id: string; name: string; privacy: string };
+type PinterestStatus = {
+  connected: boolean;
+  env?: "sandbox" | "production";
+  username?: string;
+  scopes?: string;
+  boards?: PinterestBoard[];
+  error?: string;
+};
 
 const MAX_SIDE = 1600;
 
@@ -48,9 +58,19 @@ function Counter({ value, max }: { value: string; max: number }) {
 const inputClass =
   "w-full rounded-xl border border-sand bg-white px-3 py-2 text-sm text-ink focus:border-sage focus:outline-none";
 
-export default function StudioClient() {
+type StudioClientProps = {
+  /** Owners may publish to Pinterest and write drafts into the repo. */
+  isOwner: boolean;
+  used: number;
+  /** null means unlimited */
+  quota: number | null;
+};
+
+export default function StudioClient({ isOwner, used, quota }: StudioClientProps) {
   const [status, setStatus] = useState<Status>("idle");
   const [error, setError] = useState("");
+  const [errorCode, setErrorCode] = useState("");
+  const [usage, setUsage] = useState({ used, quota });
   const [image, setImage] = useState<{ base64: string; preview: string } | null>(null);
   const [notes, setNotes] = useState("");
   const [result, setResult] = useState<StudioResult | null>(null);
@@ -58,6 +78,14 @@ export default function StudioClient() {
   const [savedFiles, setSavedFiles] = useState<string[]>([]);
   const [dragging, setDragging] = useState(false);
   const fileInput = useRef<HTMLInputElement>(null);
+
+  const [pinterest, setPinterest] = useState<PinterestStatus>({ connected: false });
+  const [boardId, setBoardId] = useState("");
+  const [boardUnmatched, setBoardUnmatched] = useState(false);
+  const [boardNote, setBoardNote] = useState("");
+  const [publishing, setPublishing] = useState(false);
+  const [publishedUrl, setPublishedUrl] = useState("");
+  const [pinError, setPinError] = useState("");
 
   const loadFile = useCallback(async (file?: File) => {
     if (!file || !file.type.startsWith("image/")) return;
@@ -68,10 +96,101 @@ export default function StudioClient() {
     setImage(await prepareImage(file));
   }, []);
 
+  useEffect(() => {
+    function onPaste(e: ClipboardEvent) {
+      const item = Array.from(e.clipboardData?.items ?? []).find((i) => i.type.startsWith("image/"));
+      const file = item?.getAsFile();
+      if (file) {
+        e.preventDefault();
+        loadFile(file);
+      }
+    }
+    window.addEventListener("paste", onPaste);
+    return () => window.removeEventListener("paste", onPaste);
+  }, [loadFile]);
+
+  useEffect(() => {
+    fetch("/api/pinterest/status")
+      .then((r) => r.json())
+      .then(setPinterest)
+      .catch(() => setPinterest({ connected: false }));
+  }, []);
+
+  // Preselect the board Claude suggested, matching on name. If the suggestion
+  // matches nothing, leave the selection empty and say so rather than quietly
+  // defaulting to the first board — that publishes to the wrong place.
+  useEffect(() => {
+    if (!result || !pinterest.boards) return;
+    const match = pinterest.boards.find(
+      (b) => b.name.toLowerCase() === result.pin.board.toLowerCase()
+    );
+    setBoardId(match?.id ?? "");
+    setBoardUnmatched(!match);
+  }, [result, pinterest.boards]);
+
+  async function publishPin() {
+    if (!result || !image || !boardId) return;
+    setPublishing(true);
+    setPinError("");
+    setPublishedUrl("");
+    try {
+      const res = await fetch("/api/pinterest/pin", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          boardId,
+          title: result.pin.title,
+          description: result.pin.description,
+          altText: result.pin.altText,
+          link: `https://skandinaviskbo.com/blogg/${result.post.slug}`,
+          image: image.base64,
+        }),
+      });
+      const data = await res.json();
+      if (!res.ok) throw new Error(data.error || "Publisering feilet");
+      setPublishedUrl(data.url);
+    } catch (e) {
+      setPinError(e instanceof Error ? e.message : "Noe gikk galt");
+    } finally {
+      setPublishing(false);
+    }
+  }
+
+  async function createSuggestedBoard() {
+    if (!result) return;
+    setPinError("");
+    try {
+      const res = await fetch("/api/pinterest/status", {
+        method: "PUT",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ name: result.pin.board }),
+      });
+      const data = await res.json();
+      if (!res.ok) throw new Error(data.error || "Kunne ikke opprette tavla");
+      setPinterest((p) => ({ ...p, boards: [...(p.boards ?? []), data.board] }));
+      setBoardId(data.board.id);
+      setBoardUnmatched(false);
+      setBoardNote(
+        data.renamedFrom
+          ? `«${data.renamedFrom}» er opptatt på den ekte kontoen, så sandbox-tavla heter «${data.board.name}». Navnet spiller ingen rolle her — ingen ser den.`
+          : ""
+      );
+    } catch (e) {
+      setPinError(e instanceof Error ? e.message : "Noe gikk galt");
+    }
+  }
+
+  async function disconnectPinterest() {
+    await fetch("/api/pinterest/status", { method: "DELETE" });
+    setPinterest({ connected: false });
+    setBoardId("");
+  }
+
   async function analyze() {
     if (!image) return;
     setStatus("analyzing");
     setError("");
+    setErrorCode("");
     try {
       const res = await fetch("/api/studio/analyze", {
         method: "POST",
@@ -79,9 +198,14 @@ export default function StudioClient() {
         body: JSON.stringify({ image: image.base64, mediaType: "image/jpeg", notes }),
       });
       const data = await res.json();
-      if (!res.ok) throw new Error(data.error || "Analysen feilet");
+      if (!res.ok) {
+        setErrorCode(data.code ?? "");
+        if (typeof data.used === "number") setUsage({ used: data.used, quota: data.quota ?? null });
+        throw new Error(data.error || "Analysen feilet");
+      }
       setResult(data.result);
       setCatalog(data.catalog);
+      if (data.usage) setUsage(data.usage);
       setStatus("ready");
     } catch (e) {
       setError(e instanceof Error ? e.message : "Noe gikk galt");
@@ -144,7 +268,7 @@ export default function StudioClient() {
           ) : (
             <div className="p-6 text-center text-ink/60">
               <p className="font-semibold text-ink">Dra et rombilde hit</p>
-              <p className="mt-1 text-sm">eller klikk for å velge (jpg, png, webp)</p>
+              <p className="mt-1 text-sm">eller klikk for å velge, eller lim inn (Ctrl+V) et skjermbilde</p>
             </div>
           )}
           <input
@@ -175,8 +299,28 @@ export default function StudioClient() {
           >
             {status === "analyzing" ? "Analyserer rommet … (20–60 sek)" : "Analyser rommet"}
           </button>
+          {usage.quota !== null && (
+            <p className="text-xs text-ink/50">
+              {usage.used} av {usage.quota} analyser brukt denne måneden ·{" "}
+              <a href="/konto" className="underline hover:text-ink">
+                konto
+              </a>
+            </p>
+          )}
           {error && (
-            <p className="rounded-xl bg-red-50 px-4 py-3 text-sm text-red-800">{error}</p>
+            <div className="rounded-xl bg-red-50 px-4 py-3 text-sm text-red-800">
+              <p>{error}</p>
+              {(errorCode === "needs-plan" || errorCode === "quota") && (
+                <a href="/priser" className="mt-1 inline-block font-semibold underline">
+                  Se abonnement
+                </a>
+              )}
+              {errorCode === "signed-out" && (
+                <a href="/logg-inn" className="mt-1 inline-block font-semibold underline">
+                  Logg inn
+                </a>
+              )}
+            </div>
           )}
         </div>
       </section>
@@ -278,6 +422,116 @@ export default function StudioClient() {
                 </div>
               );
             })}
+
+            {isOwner ? (
+            <div className="mt-6 border-t border-sand pt-5">
+              {!pinterest.connected ? (
+                <div className="flex flex-wrap items-center gap-4">
+                  <a
+                    href="/api/pinterest/connect"
+                    className="rounded-full bg-[#E60023] px-6 py-3 text-sm font-semibold text-white hover:bg-[#c5001d]"
+                  >
+                    Koble til Pinterest
+                  </a>
+                  <p className="text-sm text-ink/60">
+                    {pinterest.error
+                      ? pinterest.error
+                      : "Logg inn for å publisere pinnen direkte i stedet for å kopiere teksten."}
+                  </p>
+                </div>
+              ) : (
+                <div className="space-y-4">
+                  <div className="flex flex-wrap items-center justify-between gap-3">
+                    <p className="text-sm text-ink/70">
+                      Tilkoblet som <span className="font-semibold text-ink">@{pinterest.username}</span>
+                      {pinterest.env === "sandbox" && (
+                        <span className="ml-2 rounded-full bg-wood/20 px-2 py-0.5 text-[11px] font-semibold text-wood-dark">
+                          Sandbox — pinnene blir ikke synlige offentlig
+                        </span>
+                      )}
+                    </p>
+                    <button
+                      type="button"
+                      onClick={disconnectPinterest}
+                      className="rounded-full border border-sand px-3 py-1 text-xs font-semibold text-ink/70 hover:bg-sand/60"
+                    >
+                      Koble fra
+                    </button>
+                  </div>
+                  <label className="block text-sm font-semibold text-ink">
+                    Publiser til tavle
+                    <select
+                      value={boardId}
+                      onChange={(e) => setBoardId(e.target.value)}
+                      className={`${inputClass} mt-1 font-normal`}
+                    >
+                      <option value="">— velg tavle —</option>
+                      {pinterest.boards?.map((b) => (
+                        <option key={b.id} value={b.id}>
+                          {b.name}
+                          {b.privacy !== "PUBLIC" ? ` (${b.privacy.toLowerCase()})` : ""}
+                        </option>
+                      ))}
+                    </select>
+                  </label>
+                  {boardNote && (
+                    <p className="rounded-xl bg-sage/10 px-4 py-3 text-sm text-sage-dark">{boardNote}</p>
+                  )}
+                  {boardUnmatched && (
+                    <div className="rounded-xl bg-wood/15 px-4 py-3 text-sm text-wood-dark">
+                      <p>
+                        Claude foreslo tavla «{result.pin.board}», men den finnes ikke
+                        {pinterest.env === "sandbox"
+                          ? " i sandbox (der starter tavlelista tom)."
+                          : " på kontoen din."}{" "}
+                        Velg en annen tavle, eller opprett den.
+                      </p>
+                      <button
+                        type="button"
+                        onClick={createSuggestedBoard}
+                        className="mt-2 rounded-full border border-wood-dark/40 px-3 py-1 text-xs font-semibold hover:bg-wood/20"
+                      >
+                        Opprett «{result.pin.board}»
+                      </button>
+                    </div>
+                  )}
+                  <div className="flex flex-wrap items-center gap-4">
+                    <button
+                      type="button"
+                      onClick={publishPin}
+                      disabled={publishing || !boardId}
+                      className="rounded-full bg-[#E60023] px-6 py-3 text-sm font-semibold text-white hover:bg-[#c5001d] disabled:opacity-50"
+                    >
+                      {publishing ? "Publiserer …" : "Publiser pin"}
+                    </button>
+                    {publishedUrl &&
+                      (pinterest.env === "sandbox" ? (
+                        <p className="text-sm font-semibold text-sage-dark">
+                          Pin opprettet i sandbox — den finnes ikke på pinterest.com, så det er
+                          ingen lenke å åpne.
+                        </p>
+                      ) : (
+                        <a
+                          href={publishedUrl}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="text-sm font-semibold text-sage-dark underline"
+                        >
+                          Pin publisert — åpne på Pinterest
+                        </a>
+                      ))}
+                  </div>
+                  {pinError && (
+                    <p className="rounded-xl bg-red-50 px-4 py-3 text-sm text-red-800">{pinError}</p>
+                  )}
+                </div>
+              )}
+            </div>
+            ) : (
+              <p className="mt-6 border-t border-sand pt-5 text-sm text-ink/60">
+                Kopier tittel, beskrivelse og alt-tekst inn i Pinterest når du laster opp bildet.
+              </p>
+            )}
           </section>
 
           {/* Blog draft */}
@@ -319,6 +573,7 @@ export default function StudioClient() {
               </label>
             </div>
 
+            {isOwner ? (
             <div className="mt-6 flex flex-wrap items-center gap-4">
               <button
                 type="button"
@@ -337,6 +592,12 @@ export default function StudioClient() {
                 </div>
               )}
             </div>
+            ) : (
+              <div className="mt-6 flex flex-wrap items-center gap-4 border-t border-sand pt-5">
+                <CopyButton text={result.post.body} />
+                <p className="text-sm text-ink/60">Kopier utkastet og bruk det der du vil.</p>
+              </div>
+            )}
           </section>
         </>
       )}

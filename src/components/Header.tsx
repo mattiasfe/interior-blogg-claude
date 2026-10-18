@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useState } from "react";
+import HeaderAuth from "@/components/HeaderAuth";
 
 const navLinks = [
   { href: "/", label: "Home" },
@@ -10,9 +11,10 @@ const navLinks = [
   { href: "/om-meg", label: "About" },
   { href: "/samarbeid", label: "Partnerships" },
   { href: "/kontakt", label: "Contact" },
+  { href: "/studio", label: "Studio" },
 ];
 
-export default function Header() {
+export default function Header({ authEnabled = false }: { authEnabled?: boolean }) {
   const pathname = usePathname();
   const [open, setOpen] = useState(false);
 
@@ -41,20 +43,24 @@ export default function Header() {
           })}
         </nav>
 
-        <button
-          type="button"
-          onClick={() => setOpen((v) => !v)}
-          className="flex h-10 w-10 items-center justify-center rounded-full border border-sand md:hidden"
-          aria-label="Open menu"
-          aria-expanded={open}
-        >
-          <span className="sr-only">Menu</span>
-          <div className="flex flex-col gap-1.5">
-            <span className="block h-0.5 w-5 bg-ink" />
-            <span className="block h-0.5 w-5 bg-ink" />
-            <span className="block h-0.5 w-5 bg-ink" />
-          </div>
-        </button>
+        <div className="flex items-center gap-3">
+          {authEnabled && <HeaderAuth />}
+
+          <button
+            type="button"
+            onClick={() => setOpen((v) => !v)}
+            className="flex h-10 w-10 items-center justify-center rounded-full border border-sand md:hidden"
+            aria-label="Open menu"
+            aria-expanded={open}
+          >
+            <span className="sr-only">Menu</span>
+            <div className="flex flex-col gap-1.5">
+              <span className="block h-0.5 w-5 bg-ink" />
+              <span className="block h-0.5 w-5 bg-ink" />
+              <span className="block h-0.5 w-5 bg-ink" />
+            </div>
+          </button>
+        </div>
       </div>
 
       {open && (

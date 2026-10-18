@@ -40,3 +40,10 @@ next-env.d.ts
 .env*
 .claude/settings.local.json
 !.env.example
+
+# Pinterest OAuth tokens (local studio only; one file per environment)
+.pinterest-token.*.json
+.pinterest-token.json
+
+# Boards created through the studio (sandbox cannot list them back)
+.pinterest-boards.*.json
