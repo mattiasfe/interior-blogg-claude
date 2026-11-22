@@ -6,6 +6,30 @@
       "runtimeExecutable": "npm",
       "runtimeArgs": ["run", "dev"],
       "port": 3000
+    },
+    {
+      "name": "greentest-dev",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev", "--prefix", "C:\\Users\\matfe\\Projects\\greentest"],
+      "port": 3000
+    },
+    {
+      "name": "clipforge-api",
+      "runtimeExecutable": "pnpm",
+      "runtimeArgs": ["--dir", "C:\\Users\\matfe\\someAuto", "dev:api"],
+      "port": 3100
+    },
+    {
+      "name": "clipforge-web",
+      "runtimeExecutable": "pnpm",
+      "runtimeArgs": ["--dir", "C:\\Users\\matfe\\someAuto", "dev:web"],
+      "port": 5173
+    },
+    {
+      "name": "clipforge-pages",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-m", "http.server", "8765", "--directory", "C:\\Users\\matfe\\mattiasfe.github.io"],
+      "port": 8765
     }
   ]
 }
